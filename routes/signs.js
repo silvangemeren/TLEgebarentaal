@@ -37,7 +37,7 @@ router.post('/', async (req, res) => {
                 {
                     "translation": "Aanwezig",
                     "video": `${process.env.BASE_URL}/videos/aanwezig.mp4`,
-                    "gif": "null",
+                    "gif": `${process.env.BASE_URL}/gifs/aanwezig.gif`,
                     "lesson": 1,
                     "explanation": "zich bevindend op de plaats of bij de gebeurtenis waarvan sprake is.",
                     "handShapesR": {
@@ -52,8 +52,8 @@ router.post('/', async (req, res) => {
             ]
 
             for (let i = 0; i < amount; i++) {
-                if (i > 364) {
-                    amount = 365
+                if (i > seederSigns.length - 1) {
+                    amount = seederSigns.length
                 } else {
                     Sign.create(seederSigns[i])
                 }
