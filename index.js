@@ -1,5 +1,7 @@
 import express from 'express';
 import mongoose from 'mongoose';
+import signs from "./routes/signs.js"
+import videos from "./routes/videos.js"
 
 const app = express()
 const port = process.env.EXPRESS_PORT
@@ -27,6 +29,8 @@ app.use((req, res, next) => {
     next();
 });
 
+app.use('/signs', signs)
+app.use('/videos', videos)
 
 app.listen(port, () => {
     console.log(`Sign language app is listening on port ${port}`)
