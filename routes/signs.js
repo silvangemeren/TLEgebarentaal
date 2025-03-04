@@ -1,6 +1,6 @@
 import express from "express";
 import Sign from "../Models/Sign.js";
-import sign from "../Models/Sign.js";
+import signSeeder from '../Data/signSeeder.json' assert { type: 'json' };
 
 const router = express.Router();
 
@@ -34,27 +34,15 @@ router.post('/', async (req, res) => {
                 await Sign.deleteMany({})
             }
 
-            const seederSigns = [
-                {
-                    "translation": "Aanwezig",
-                    "video": `${process.env.BASE_URL}/videos/aanwezig.mp4`,
-                    "gif": "null",
-                    "lesson": 1,
-                    "explanation": "zich bevindend op de plaats of bij de gebeurtenis waarvan sprake is.",
-                    "handShapesR": {
-                        "shape": "hoek-nul",
-                        "imageUrl": "https://ow.gebarencentrum.nl/img/39-r.5e8d9d11.png"
-                    },
-                    "mouthShape": {
-                        "shape": "Shh",
-                        "imageUrl": "https://api-ngtbeheer.gebarencentrum.nl/sign/oral/13"
-                    }
-                },
-            ]
+            const seederSigns = signSeeder.map(sign => ({
+                ...sign,
+                video: `${process.env.BASE_URL}${sign.video}`,
+                gif: `${process.env.BASE_URL}${sign.gif}`
+            }));
 
             for (let i = 0; i < amount; i++) {
-                if (i > 364) {
-                    amount = 365
+                if (i > seederSigns.length - 1) {
+                    amount = seederSigns.length
                 } else {
                     Sign.create(seederSigns[i])
                 }
