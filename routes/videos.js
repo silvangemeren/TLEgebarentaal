@@ -17,4 +17,16 @@ router.get('/:file', async (req, res) => {
     }
 });
 
+router.get('/:map/:file', async (req, res) => {
+    try {
+        const video = req.params.file;
+        const map = req.params.map;
+
+        const videoPath = path.join(__dirname, `../Gebarenvideos/${map}`, video);
+        res.sendFile(videoPath);
+    } catch (error) {
+        res.status(500).json({ error: error.message });
+    }
+});
+
 export default router;
