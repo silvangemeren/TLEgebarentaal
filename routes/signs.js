@@ -1,5 +1,6 @@
 import express from "express";
 import Sign from "../Models/Sign.js";
+import sign from "../Models/Sign.js";
 
 const router = express.Router();
 
@@ -72,5 +73,26 @@ router.options('/', (req, res) => {
     res.setHeader('Access-Control-Allow-Methods', ['GET', 'POST', 'OPTIONS'])
     res.status(204).send();
 })
+
+router.get('/:id', async (req, res) => {
+    try {
+        const {id} = req.params;
+        const sign = await Sign.findById(id);
+        res.status(200).json(sign);
+    } catch (error) {
+        res.status(500).json({ error: error.message });
+    }
+});
+
+router.put('/:id', async (req, res) => {
+    try {
+        const {id} = req.params;
+        const sign = await Sign.findByIdAndUpdate(id, req.body, { new: true});
+        res.status(200).json(sign);
+
+    } catch (err) {
+        res.status(500).json({ error: error.message });
+    }
+});
 
 export default router
