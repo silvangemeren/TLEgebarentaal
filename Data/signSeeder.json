@@ -1,0 +1,17 @@
+[
+    {
+        "translation": "Aanwezig",
+        "video": "/videos/aanwezig.mp4",
+        "gif": "/gifs/aanwezig.gif",
+        "lesson": 1,
+        "explanation": "zich bevindend op de plaats of bij de gebeurtenis waarvan sprake is.",
+        "handShapesR": {
+            "shape": "hoek-nul",
+            "imageUrl": "https://ow.gebarencentrum.nl/img/39-r.5e8d9d11.png"
+        },
+        "mouthShape": {
+            "shape": "Shh",
+            "imageUrl": "https://api-ngtbeheer.gebarencentrum.nl/sign/oral/13"
+        }
+    }
+]
