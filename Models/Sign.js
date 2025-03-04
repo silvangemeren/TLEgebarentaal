@@ -8,15 +8,15 @@ const signSchema = new mongoose.Schema({
     explanation: { type: String, required: false },
     handShapesL: {
         // [shape: string, imageUrl: string]
-        type: Array, required: false
+        type: Array, required: false, _id: false
     },
     handShapesR: {
         // [shape: string, imageUrl: string]
-        type: Array, required: false
+        type: Array, required: false, _id: false
     },
     mouthShape: {
         // [shape: string, imageUrl: string]
-        type: Array, required: false,
+        type: Array, required: false, _id: false
     },
 }, {
     toJSON: {
