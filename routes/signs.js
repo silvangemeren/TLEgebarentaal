@@ -1,8 +1,6 @@
 import express from "express";
 import Sign from "../Models/Sign.js";
-import e from "express";
 import fs from 'fs';
-const signSeeder = JSON.parse(fs.readFileSync('./Data/signSeeder.json', 'utf8'));
 
 const router = express.Router();
 
@@ -36,6 +34,7 @@ router.post('/', async (req, res) => {
                 await Sign.deleteMany({})
             }
 
+            const signSeeder = JSON.parse(fs.readFileSync('./Data/signSeeder.json', 'utf8'));
             const seederSigns = signSeeder.map(sign => ({
                 ...sign,
                 video: `${process.env.BASE_URL}${sign.video}`,
@@ -72,7 +71,7 @@ router.options('/:id', (req, res) => {
 
 router.get('/:id', async (req, res) => {
     try {
-        const {id} = req.params;
+        const { id } = req.params;
         const sign = await Sign.findById(id);
         res.status(200).json(sign);
     } catch (error) {
@@ -82,8 +81,8 @@ router.get('/:id', async (req, res) => {
 
 router.put('/:id', async (req, res) => {
     try {
-        const {id} = req.params;
-        const sign = await Sign.findByIdAndUpdate(id, req.body, { new: true});
+        const { id } = req.params;
+        const sign = await Sign.findByIdAndUpdate(id, req.body, { new: true });
         res.status(200).json(sign);
 
     } catch (err) {
@@ -93,11 +92,11 @@ router.put('/:id', async (req, res) => {
 
 router.delete('/:id', async (req, res) => {
     try {
-        const {id} = req.params;
+        const { id } = req.params;
         const sign = await Sign.findByIdAndDelete(id);
         res.status(201).json(sign);
     } catch (err) {
-        res.status(400).json({error: error.message});
+        res.status(400).json({ error: error.message });
     }
 });
 
