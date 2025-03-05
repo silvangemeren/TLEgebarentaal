@@ -1,6 +1,7 @@
 import express from "express";
 import Sign from "../Models/Sign.js";
 import signSeeder from '../Data/signSeeder.json' assert { type: 'json' };
+import e from "express";
 
 const router = express.Router();
 
@@ -28,7 +29,7 @@ router.post('/', async (req, res) => {
     if (req.body.method === "SEED") {
         //seeder
         try {
-            const amount = req.body.amount
+            let amount = req.body.amount
             const reset = req.body.reset
             if (reset) {
                 await Sign.deleteMany({})

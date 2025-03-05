@@ -1,5 +1,411 @@
 [
     {
+        "translation": "0 1 2 3 4 5 6 7 8 9 10 11 12",
+        "video": "/videos/Cijfers/0 1 2 3 4 5 6 7 8 9 10 11 12.mp4",
+        "gif": "/gifs/Cijfers/0 1 2 3 4 5 6 7 8 9 10 11 12.gif",
+        "lesson": 1,
+        "explanation": "De getallen 0 tot en met 12."
+    },
+    {
+        "translation": "13",
+        "video": "/videos/Cijfers/13.mp4",
+        "gif": "/gifs/Cijfers/13.gif",
+        "lesson": 1,
+        "explanation": "Het getal 13, wordt gebruikt als een numerieke aanduiding voor 13."
+    },
+    {
+        "translation": "14",
+        "video": "/videos/Cijfers/14.mp4",
+        "gif": "/gifs/Cijfers/14.gif",
+        "lesson": 1,
+        "explanation": "Het getal 14, wordt gebruikt als een numerieke aanduiding voor 14."
+    },
+    {
+        "translation": "15",
+        "video": "/videos/Cijfers/15.mp4",
+        "gif": "/gifs/Cijfers/15.gif",
+        "lesson": 1,
+        "explanation": "Het getal 15, wordt gebruikt als een numerieke aanduiding voor 15."
+    },
+    {
+        "translation": "16",
+        "video": "/videos/Cijfers/16.mp4",
+        "gif": "/gifs/Cijfers/16.gif",
+        "lesson": 1,
+        "explanation": "Het getal 16, wordt gebruikt als een numerieke aanduiding voor 16."
+    },
+    {
+        "translation": "17",
+        "video": "/videos/Cijfers/17.mp4",
+        "gif": "/gifs/Cijfers/17.gif",
+        "lesson": 1,
+        "explanation": "Het getal 17, wordt gebruikt als een numerieke aanduiding voor 17."
+    },
+    {
+        "translation": "18",
+        "video": "/videos/Cijfers/18.mp4",
+        "gif": "/gifs/Cijfers/18.gif",
+        "lesson": 1,
+        "explanation": "Het getal 18, wordt gebruikt als een numerieke aanduiding voor 18."
+    },
+    {
+        "translation": "19",
+        "video": "/videos/Cijfers/19.mp4",
+        "gif": "/gifs/Cijfers/19.gif",
+        "lesson": 1,
+        "explanation": "Het getal 19, wordt gebruikt als een numerieke aanduiding voor 19."
+    },
+    {
+        "translation": "20",
+        "video": "/videos/Cijfers/20.mp4",
+        "gif": "/gifs/Cijfers/20.gif",
+        "lesson": 1,
+        "explanation": "Het getal 20, wordt gebruikt als een numerieke aanduiding voor 20."
+    },
+    {
+        "translation": "21",
+        "video": "/videos/Cijfers/21.mp4",
+        "gif": "/gifs/Cijfers/21.gif",
+        "lesson": 1,
+        "explanation": "Het getal 21, wordt gebruikt als een numerieke aanduiding voor 21."
+    },
+    {
+        "translation": "22",
+        "video": "/videos/Cijfers/22.mp4",
+        "gif": "/gifs/Cijfers/22.gif",
+        "lesson": 1,
+        "explanation": "Het getal 22, wordt gebruikt als een numerieke aanduiding voor 22."
+    },
+    {
+        "translation": "23",
+        "video": "/videos/Cijfers/23.mp4",
+        "gif": "/gifs/Cijfers/23.gif",
+        "lesson": 1,
+        "explanation": "Het getal 23, wordt gebruikt als een numerieke aanduiding voor 23."
+    },
+    {
+        "translation": "24",
+        "video": "/videos/Cijfers/24.mp4",
+        "gif": "/gifs/Cijfers/24.gif",
+        "lesson": 1,
+        "explanation": "Het getal 24, wordt gebruikt als een numerieke aanduiding voor 24."
+    },
+    {
+        "translation": "25",
+        "video": "/videos/Cijfers/25.mp4",
+        "gif": "/gifs/Cijfers/25.gif",
+        "lesson": 1,
+        "explanation": "Het getal 25, wordt gebruikt als een numerieke aanduiding voor 25."
+    },
+    {
+        "translation": "26",
+        "video": "/videos/Cijfers/26.mp4",
+        "gif": "/gifs/Cijfers/26.gif",
+        "lesson": 1,
+        "explanation": "Het getal 26, wordt gebruikt als een numerieke aanduiding voor 26."
+    },
+    {
+        "translation": "27",
+        "video": "/videos/Cijfers/27.mp4",
+        "gif": "/gifs/Cijfers/27.gif",
+        "lesson": 1,
+        "explanation": "Het getal 27, wordt gebruikt als een numerieke aanduiding voor 27."
+    },
+    {
+        "translation": "28",
+        "video": "/videos/Cijfers/28.mp4",
+        "gif": "/gifs/Cijfers/28.gif",
+        "lesson": 1,
+        "explanation": "Het getal 28, wordt gebruikt als een numerieke aanduiding voor 28."
+    },
+    {
+        "translation": "29",
+        "video": "/videos/Cijfers/29.mp4",
+        "gif": "/gifs/Cijfers/29.gif",
+        "lesson": 1,
+        "explanation": "Het getal 29, wordt gebruikt als een numerieke aanduiding voor 29."
+    },
+    {
+        "translation": "30",
+        "video": "/videos/Cijfers/30.mp4",
+        "gif": "/gifs/Cijfers/30.gif",
+        "lesson": 1,
+        "explanation": "Het getal 30, wordt gebruikt als een numerieke aanduiding voor 30."
+    },
+    {
+        "translation": "33",
+        "video": "/videos/Cijfers/33.mp4",
+        "gif": "/gifs/Cijfers/33.gif",
+        "lesson": 1,
+        "explanation": "Het getal 33, wordt gebruikt als een numerieke aanduiding voor 33."
+    },
+    {
+        "translation": "40",
+        "video": "/videos/Cijfers/40.mp4",
+        "gif": "/gifs/Cijfers/40.gif",
+        "lesson": 1,
+        "explanation": "Het getal 40, wordt gebruikt als een numerieke aanduiding voor 40."
+    },
+    {
+        "translation": "44",
+        "video": "/videos/Cijfers/44.mp4",
+        "gif": "/gifs/Cijfers/44.gif",
+        "lesson": 1,
+        "explanation": "Het getal 44, wordt gebruikt als een numerieke aanduiding voor 44."
+    },
+    {
+        "translation": "50",
+        "video": "/videos/Cijfers/50.mp4",
+        "gif": "/gifs/Cijfers/50.gif",
+        "lesson": 1,
+        "explanation": "Het getal 50, wordt gebruikt als een numerieke aanduiding voor 50."
+    },
+    {
+        "translation": "55",
+        "video": "/videos/Cijfers/55.mp4",
+        "gif": "/gifs/Cijfers/55.gif",
+        "lesson": 1,
+        "explanation": "Het getal 55, wordt gebruikt als een numerieke aanduiding voor 55."
+    },
+    {
+        "translation": "60",
+        "video": "/videos/Cijfers/60.mp4",
+        "gif": "/gifs/Cijfers/60.gif",
+        "lesson": 1,
+        "explanation": "Het getal 60, wordt gebruikt als een numerieke aanduiding voor 60."
+    },
+    {
+        "translation": "66",
+        "video": "/videos/Cijfers/66.mp4",
+        "gif": "/gifs/Cijfers/66.gif",
+        "lesson": 1,
+        "explanation": "Het getal 66, wordt gebruikt als een numerieke aanduiding voor 66."
+    },
+    {
+        "translation": "70",
+        "video": "/videos/Cijfers/70.mp4",
+        "gif": "/gifs/Cijfers/70.gif",
+        "lesson": 1,
+        "explanation": "Het getal 70, wordt gebruikt als een numerieke aanduiding voor 70."
+    },
+    {
+        "translation": "77",
+        "video": "/videos/Cijfers/77.mp4",
+        "gif": "/gifs/Cijfers/77.gif",
+        "lesson": 1,
+        "explanation": "Het getal 77, wordt gebruikt als een numerieke aanduiding voor 77."
+    },
+    {
+        "translation": "80",
+        "video": "/videos/Cijfers/80.mp4",
+        "gif": "/gifs/Cijfers/80.gif",
+        "lesson": 1,
+        "explanation": "Het getal 80, wordt gebruikt als een numerieke aanduiding voor 80."
+    },
+    {
+        "translation": "88",
+        "video": "/videos/Cijfers/88.mp4",
+        "gif": "/gifs/Cijfers/88.gif",
+        "lesson": 1,
+        "explanation": "Het getal 88, wordt gebruikt als een numerieke aanduiding voor 88."
+    },
+    {
+        "translation": "90",
+        "video": "/videos/Cijfers/90.mp4",
+        "gif": "/gifs/Cijfers/90.gif",
+        "lesson": 1,
+        "explanation": "Het getal 90, wordt gebruikt als een numerieke aanduiding voor 90."
+    },
+    {
+        "translation": "99",
+        "video": "/videos/Cijfers/99.mp4",
+        "gif": "/gifs/Cijfers/99.gif",
+        "lesson": 1,
+        "explanation": "Het getal 99, wordt gebruikt als een numerieke aanduiding voor 99."
+    },
+    {
+        "translation": "100",
+        "video": "/videos/Cijfers/100.mp4",
+        "gif": "/gifs/Cijfers/100.gif",
+        "lesson": 1,
+        "explanation": "Het getal 100, wordt gebruikt als een numerieke aanduiding voor 100."
+    },
+    {
+        "translation": "Maandag",
+        "video": "/videos/Dagen/1 Maandag.mp4",
+        "gif": "/gifs/Dagen/1 Maandag.gif",
+        "lesson": 1,
+        "explanation": "Maandag is de 1e dag van de week."
+    },
+    {
+        "translation": "Dinsdag",
+        "video": "/videos/Dagen/2 Dinsdag.mp4",
+        "gif": "/gifs/Dagen/2 Dinsdag.gif",
+        "lesson": 1,
+        "explanation": "Dinsdag is de 2e dag van de week."
+    },
+    {
+        "translation": "Woensdag",
+        "video": "/videos/Dagen/3 Woensdag.mp4",
+        "gif": "/gifs/Dagen/3 Woensdag.gif",
+        "lesson": 1,
+        "explanation": "Woensdag is de 3e dag van de week."
+    },
+    {
+        "translation": "Donderdag",
+        "video": "/videos/Dagen/4 Donderdag.mp4",
+        "gif": "/gifs/Dagen/4 Donderdag.gif",
+        "lesson": 1,
+        "explanation": "Donderdag is de 4e dag van de week."
+    },
+    {
+        "translation": "Vrijdag",
+        "video": "/videos/Dagen/5 Vrijdag.mp4",
+        "gif": "/gifs/Dagen/5 Vrijdag.gif",
+        "lesson": 1,
+        "explanation": "Vrijdag is de 5e dag van de week."
+    },
+    {
+        "translation": "Zaterdag",
+        "video": "/videos/Dagen/6 Zaterdag.mp4",
+        "gif": "/gifs/Dagen/6 Zaterdag.gif",
+        "lesson": 1,
+        "explanation": "Zaterdag is de 6e dag van de week."
+    },
+    {
+        "translation": "Zondag",
+        "video": "/videos/Dagen/7 Zondag.mp4",
+        "gif": "/gifs/Dagen/7 Zondag.gif",
+        "lesson": 1,
+        "explanation": "Zondag is de 7e dag van de week."
+    },
+    {
+        "translation": "Januari",
+        "video": "/videos/Maanden/1 Januari.mp4",
+        "gif": "/gifs/Maanden/1 Januari.gif",
+        "lesson": 1,
+        "explanation": "Januari is de 1e maand van het jaar."
+    },
+    {
+        "translation": "Februari",
+        "video": "/videos/Maanden/2 Februari.mp4",
+        "gif": "/gifs/Maanden/2 Februari.gif",
+        "lesson": 1,
+        "explanation": "Februari is de 2e maand van het jaar."
+    },
+    {
+        "translation": "Maart",
+        "video": "/videos/Maanden/3 Maart.mp4",
+        "gif": "/gifs/Maanden/3 Maart.gif",
+        "lesson": 1,
+        "explanation": "Maart is de 3e maand van het jaar."
+    },
+    {
+        "translation": "April",
+        "video": "/videos/Maanden/4 April.mp4",
+        "gif": "/gifs/Maanden/4 April.gif",
+        "lesson": 1,
+        "explanation": "April is de 4e maand van het jaar."
+    },
+    {
+        "translation": "Mei",
+        "video": "/videos/Maanden/5 Mei.mp4",
+        "gif": "/gifs/Maanden/5 Mei.gif",
+        "lesson": 1,
+        "explanation": "Mei is de 5e maand van het jaar."
+    },
+    {
+        "translation": "Juni",
+        "video": "/videos/Maanden/6 Juni.mp4",
+        "gif": "/gifs/Maanden/6 Juni.gif",
+        "lesson": 1,
+        "explanation": "Juni is de 6e maand van het jaar."
+    },
+    {
+        "translation": "Juli",
+        "video": "/videos/Maanden/7 Juli.mp4",
+        "gif": "/gifs/Maanden/7 Juli.gif",
+        "lesson": 1,
+        "explanation": "Juli is de 7e maand van het jaar."
+    },
+    {
+        "translation": "Augustus",
+        "video": "/videos/Maanden/8 Augustus.mp4",
+        "gif": "/gifs/Maanden/8 Augustus.gif",
+        "lesson": 1,
+        "explanation": "Augustus is de 8e maand van het jaar."
+    },
+    {
+        "translation": "September",
+        "video": "/videos/Maanden/9 September.mp4",
+        "gif": "/gifs/Maanden/9 September.gif",
+        "lesson": 1,
+        "explanation": "September is de 9e maand van het jaar."
+    },
+    {
+        "translation": "Oktober",
+        "video": "/videos/Maanden/10 Oktober.mp4",
+        "gif": "/gifs/Maanden/10 Oktober.gif",
+        "lesson": 1,
+        "explanation": "Oktober is de 10e maand van het jaar."
+    },
+    {
+        "translation": "November",
+        "video": "/videos/Maanden/11 November.mp4",
+        "gif": "/gifs/Maanden/11 November.gif",
+        "lesson": 1,
+        "explanation": "November is de 11e maand van het jaar."
+    },
+    {
+        "translation": "December",
+        "video": "/videos/Maanden/12 December.mp4",
+        "gif": "/gifs/Maanden/12 December.gif",
+        "lesson": 1,
+        "explanation": "December is de 12e maand van het jaar."
+    },
+    {
+        "translation": "Amsterdam",
+        "video": "/videos/Plaatsnamen/Amsterdam.mp4",
+        "gif": "/gifs/Plaatsnamen/Amsterdam.gif",
+        "lesson": 1,
+        "explanation": "Amsterdam is een stad in Nederland."
+    },
+    {
+        "translation": "Breda",
+        "video": "/videos/Plaatsnamen/Breda.mp4",
+        "gif": "/gifs/Plaatsnamen/Breda.gif",
+        "lesson": 1,
+        "explanation": "Breda is een stad in Nederland."
+    },
+    {
+        "translation": "Den Haag",
+        "video": "/videos/Plaatsnamen/Den Haag.mp4",
+        "gif": "/gifs/Plaatsnamen/Den Haag.gif",
+        "lesson": 1,
+        "explanation": "Den Haag is een stad in Nederland."
+    },
+    {
+        "translation": "Rotterdam",
+        "video": "/videos/Plaatsnamen/Rotterdam.mp4",
+        "gif": "/gifs/Plaatsnamen/Rotterdam.gif",
+        "lesson": 1,
+        "explanation": "Rotterdam is een stad in Nederland."
+    },
+    {
+        "translation": "Schiedam",
+        "video": "/videos/Plaatsnamen/Schiedam.mp4",
+        "gif": "/gifs/Plaatsnamen/Schiedam.gif",
+        "lesson": 1,
+        "explanation": "Schiedam is een stad in Nederland."
+    },
+    {
+        "translation": "Zoetermeer",
+        "video": "/videos/Plaatsnamen/Zoetermeer.mp4",
+        "gif": "/gifs/Plaatsnamen/Zoetermeer.gif",
+        "lesson": 1,
+        "explanation": "Zoetermeer is een stad in Nederland."
+    },
+    {
         "translation": "Aanwezig",
         "video": "/videos/aanwezig.mp4",
         "gif": "/gifs/aanwezig.gif",
