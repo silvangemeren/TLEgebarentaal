@@ -409,126 +409,126 @@
     "translation": "1 uur",
     "video": "/videos/Tijd/1 uur.mp4",
     "gif": "/gifs/Tijd/1 uur.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsperiode van zestig minuten."
   },
   {
     "translation": "1 uur lang",
     "video": "/videos/Tijd/1 uur lang.mp4",
     "gif": "/gifs/Tijd/1 uur lang.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een duur van precies zestig minuten."
   },
   {
     "translation": "10 over 1",
     "video": "/videos/Tijd/10 over 1.mp4",
     "gif": "/gifs/Tijd/10 over 1.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "De tijdsaanduiding voor tien minuten na één uur."
   },
   {
     "translation": "10 over 2",
     "video": "/videos/Tijd/10 over 2.mp4",
     "gif": "/gifs/Tijd/10 over 2.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "De tijdsaanduiding voor tien minuten na twee uur."
   },
   {
     "translation": "10 over 3",
     "video": "/videos/Tijd/10 over 3.mp4",
     "gif": "/gifs/Tijd/10 over 3.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "De tijdsaanduiding voor tien minuten na drie uur."
   },
   {
     "translation": "10 voor 1",
     "video": "/videos/Tijd/10 voor 1.mp4",
     "gif": "/gifs/Tijd/10 voor 1.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "De tijdsaanduiding voor tien minuten voor één uur."
   },
   {
     "translation": "10 voor 2",
     "video": "/videos/Tijd/10 voor 2.mp4",
     "gif": "/gifs/Tijd/10 voor 2.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "De tijdsaanduiding voor tien minuten voor twee uur."
   },
   {
     "translation": "10 voor 3",
     "video": "/videos/Tijd/10 voor 3.mp4",
     "gif": "/gifs/Tijd/10 voor 3.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "De tijdsaanduiding voor tien minuten voor drie uur."
   },
   {
     "translation": "2 uur",
     "video": "/videos/Tijd/2 uur.mp4",
     "gif": "/gifs/Tijd/2 uur.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsperiode van honderdtwintig minuten."
   },
   {
     "translation": "2 uur lang",
     "video": "/videos/Tijd/2 uur lang.mp4",
     "gif": "/gifs/Tijd/2 uur lang.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een duur van precies honderdtwintig minuten."
   },
   {
     "translation": "Half 1",
     "video": "/videos/Tijd/Half 1.mp4",
     "gif": "/gifs/Tijd/Half 1.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsaanduiding voor dertig minuten voor één uur."
   },
   {
     "translation": "Half 2",
     "video": "/videos/Tijd/Half 2.mp4",
     "gif": "/gifs/Tijd/Half 2.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsaanduiding voor dertig minuten voor twee uur."
   },
   {
     "translation": "Half uur lang",
     "video": "/videos/Tijd/Half uur lang.mp4",
     "gif": "/gifs/Tijd/Half uur lang.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsperiode van dertig minuten."
   },
   {
     "translation": "Kwart over",
     "video": "/videos/Tijd/Kwart over.mp4",
     "gif": "/gifs/Tijd/Kwart over.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsaanduiding voor vijftien minuten na het hele uur."
   },
   {
     "translation": "Kwart voor",
     "video": "/videos/Tijd/Kwart voor.mp4",
     "gif": "/gifs/Tijd/Kwart voor.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsaanduiding voor vijftien minuten voor het hele uur."
   },
   {
     "translation": "Kwartier",
     "video": "/videos/Tijd/Kwartier.mp4",
     "gif": "/gifs/Tijd/Kwartier.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsperiode van vijftien minuten."
   },
   {
     "translation": "Minuut",
     "video": "/videos/Tijd/Minuut.mp4",
     "gif": "/gifs/Tijd/Minuut.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsperiode van zestig seconden."
   },
   {
     "translation": "Uur",
     "video": "/videos/Tijd/Uur.mp4",
     "gif": "/gifs/Tijd/Uur.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsperiode van zestig minuten."
   },
   {
@@ -627,7 +627,7 @@
     "translation": "Altijd",
     "video": "/videos/Altijd.mp4",
     "gif": "/gifs/Altijd.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Voortdurend, zonder onderbreking."
   },
   {
@@ -879,7 +879,7 @@
     "translation": "Cijfer",
     "video": "/videos/Cijfer.mp4",
     "gif": "/gifs/Cijfer.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een symbool dat een getal voorstelt."
   },
   {
@@ -991,7 +991,7 @@
     "translation": "Eerder",
     "video": "/videos/Eerder.mp4",
     "gif": "/gifs/Eerder.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "In een vroeger stadium."
   },
   {
@@ -1096,7 +1096,7 @@
     "translation": "Geboren",
     "video": "/videos/Geboren.mp4",
     "gif": "/gifs/Geboren.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Ter wereld gekomen zijn."
   },
   {
@@ -1271,7 +1271,7 @@
     "translation": "Hoe oud",
     "video": "/videos/Hoe oud.mp4",
     "gif": "/gifs/Hoe oud.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Welke leeftijd."
   },
   {
@@ -1383,7 +1383,7 @@
     "translation": "Jarig",
     "video": "/videos/Jarig.mp4",
     "gif": "/gifs/Jarig.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Op de verjaardag."
   },
   {
@@ -2111,7 +2111,7 @@
     "translation": "Tellen",
     "video": "/videos/Tellen.mp4",
     "gif": "/gifs/Tellen.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "De hoeveelheid van iets bepalen door het te tellen."
   },
   {
