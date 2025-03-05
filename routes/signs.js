@@ -1,7 +1,8 @@
 import express from "express";
 import Sign from "../Models/Sign.js";
-import signSeeder from '../Data/signSeeder.json' assert { type: 'json' };
 import e from "express";
+import fs from 'fs';
+const signSeeder = JSON.parse(fs.readFileSync('./Data/signSeeder.json', 'utf8'));
 
 const router = express.Router();
 
