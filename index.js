@@ -7,7 +7,7 @@ import gifs from "./routes/gifs.js"
 const app = express()
 const port = process.env.EXPRESS_PORT
 
-mongoose.connect('mongodb://127.0.0.1:27017/fishes')
+mongoose.connect('mongodb://127.0.0.1:27017/signs')
 
 app.use('/', (req, res, next) => {
     res.setHeader('Access-Control-Allow-Origin', '*')
@@ -15,8 +15,12 @@ app.use('/', (req, res, next) => {
     next();
 })
 
+
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+
+app.use('/videos', videos)
+app.use('/gifs', gifs)
 
 app.use((req, res, next) => {
     const acceptHeader = req.headers.accept;
@@ -31,8 +35,6 @@ app.use((req, res, next) => {
 });
 
 app.use('/signs', signs)
-app.use('/videos', videos)
-app.use('/gifs', gifs)
 
 app.listen(port, () => {
     console.log(`Sign language app is listening on port ${port}`)
