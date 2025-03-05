@@ -367,42 +367,42 @@
     "translation": "Amsterdam",
     "video": "/videos/Plaatsnamen/Amsterdam.mp4",
     "gif": "/gifs/Plaatsnamen/Amsterdam.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Amsterdam is een stad in Nederland."
   },
   {
     "translation": "Breda",
     "video": "/videos/Plaatsnamen/Breda.mp4",
     "gif": "/gifs/Plaatsnamen/Breda.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Breda is een stad in Nederland."
   },
   {
     "translation": "Den Haag",
     "video": "/videos/Plaatsnamen/Den Haag.mp4",
     "gif": "/gifs/Plaatsnamen/Den Haag.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Den Haag is een stad in Nederland."
   },
   {
     "translation": "Rotterdam",
     "video": "/videos/Plaatsnamen/Rotterdam.mp4",
     "gif": "/gifs/Plaatsnamen/Rotterdam.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Rotterdam is een stad in Nederland."
   },
   {
     "translation": "Schiedam",
     "video": "/videos/Plaatsnamen/Schiedam.mp4",
     "gif": "/gifs/Plaatsnamen/Schiedam.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Schiedam is een stad in Nederland."
   },
   {
     "translation": "Zoetermeer",
     "video": "/videos/Plaatsnamen/Zoetermeer.mp4",
     "gif": "/gifs/Plaatsnamen/Zoetermeer.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Zoetermeer is een stad in Nederland."
   },
   {
@@ -564,7 +564,7 @@
     "translation": "Adres",
     "video": "/videos/Adres.mp4",
     "gif": "/gifs/Adres.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "De locatie waar iemand woont of waar iets zich bevindt."
   },
   {
@@ -746,21 +746,21 @@
     "translation": "Beroep",
     "video": "/videos/Beroep.mp4",
     "gif": "/gifs/Beroep.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een vak of werk dat iemand doet voor zijn of haar levensonderhoud."
   },
   {
     "translation": "Beter (zijn)",
     "video": "/videos/Beter (zijn).mp4",
     "gif": "/gifs/Beter (zijn).gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "In een verbeterde toestand verkeren, vaak na ziekte."
   },
   {
     "translation": "Beter-gaan",
     "video": "/videos/Beter-gaan.mp4",
     "gif": "/gifs/Beter-gaan.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Verbetering in gezondheid of situatie."
   },
   {
@@ -928,7 +928,7 @@
     "translation": "Dochter",
     "video": "/videos/Dochter.mp4",
     "gif": "/gifs/Dochter.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een vrouwelijk kind."
   },
   {
@@ -942,14 +942,14 @@
     "translation": "Dokter",
     "video": "/videos/Dokter.mp4",
     "gif": "/gifs/Dokter.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een persoon die is opgeleid om zieke of gewonde mensen te behandelen."
   },
   {
     "translation": "Doorverwijzen",
     "video": "/videos/Doorverwijzen.mp4",
     "gif": "/gifs/Doorverwijzen.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Iemand naar een andere arts of specialist sturen."
   },
   {
@@ -977,7 +977,7 @@
     "translation": "Duur",
     "video": "/videos/Duur.mp4",
     "gif": "/gifs/Duur.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Veel geld of tijd kostend."
   },
   {
@@ -1054,7 +1054,7 @@
     "translation": "Familie",
     "video": "/videos/Familie.mp4",
     "gif": "/gifs/Familie.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een groep mensen die door bloedverwantschap, huwelijk of adoptie met elkaar verbonden zijn."
   },
   {
@@ -1082,14 +1082,14 @@
     "translation": "Geboortedatum",
     "video": "/videos/Geboortedatum.mp4",
     "gif": "/gifs/Geboortedatum.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "De datum waarop iemand geboren is."
   },
   {
     "translation": "Geboorteplaats",
     "video": "/videos/Geboorteplaats.mp4",
     "gif": "/gifs/Geboorteplaats.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "De plaats waar iemand geboren is."
   },
   {
@@ -1124,7 +1124,7 @@
     "translation": "Getrouwd",
     "video": "/videos/Getrouwd.mp4",
     "gif": "/gifs/Getrouwd.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Door een huwelijk verbonden zijn."
   },
   {
@@ -1145,14 +1145,14 @@
     "translation": "Gezin",
     "video": "/videos/Gezin.mp4",
     "gif": "/gifs/Gezin.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een groep mensen die samenwonen en een sociale eenheid vormen, meestal bestaande uit ouders en kinderen."
   },
   {
     "translation": "Gezond (zijn)",
     "video": "/videos/Gezond (zijn).mp4",
     "gif": "/gifs/Gezond (zijn).gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "In een goede lichamelijke en geestelijke toestand verkeren."
   },
   {
@@ -1334,7 +1334,7 @@
     "translation": "Huisarts",
     "video": "/videos/Huisarts.mp4",
     "gif": "/gifs/Huisarts.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een arts die algemene medische zorg verleent."
   },
   {
@@ -1411,14 +1411,14 @@
     "translation": "Kind",
     "video": "/videos/Kind.mp4",
     "gif": "/gifs/Kind.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een jonge persoon."
   },
   {
     "translation": "Kinderen",
     "video": "/videos/Kinderen.mp4",
     "gif": "/gifs/Kinderen.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Meervoud van kind."
   },
   {
@@ -1432,7 +1432,7 @@
     "translation": "Klacht",
     "video": "/videos/Klacht.mp4",
     "gif": "/gifs/Klacht.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een uiting van ontevredenheid."
   },
   {
@@ -1614,21 +1614,21 @@
     "translation": "Man (platonisch)",
     "video": "/videos/Man (platonisch).mp4",
     "gif": "/gifs/Man (platonisch).gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een volwassen persoon van het mannelijk geslacht (zonder romantische connotatie)."
   },
   {
     "translation": "Man (relatie)",
     "video": "/videos/Man (relatie).mp4",
     "gif": "/gifs/Man (relatie).gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een partner in een romantische relatie."
   },
   {
     "translation": "Medicijnen",
     "video": "/videos/Medicijnen.mp4",
     "gif": "/gifs/Medicijnen.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Stoffen die worden gebruikt om ziekten te genezen of te voorkomen."
   },
   {
@@ -1656,7 +1656,7 @@
     "translation": "Moeder",
     "video": "/videos/Moeder.mp4",
     "gif": "/gifs/Moeder.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een vrouwelijke ouder."
   },
   {
@@ -1817,7 +1817,7 @@
     "translation": "Oorzaak",
     "video": "/videos/Oorzaak.mp4",
     "gif": "/gifs/Oorzaak.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "De reden waarom iets gebeurt."
   },
   {
@@ -1866,7 +1866,7 @@
     "translation": "Ouders",
     "video": "/videos/Ouders.mp4",
     "gif": "/gifs/Ouders.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "De vader en moeder van een kind."
   },
   {
@@ -1894,7 +1894,7 @@
     "translation": "Patiënt",
     "video": "/videos/Patiënt.mp4",
     "gif": "/gifs/Patiënt.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Iemand die medische zorg ontvangt."
   },
   {
@@ -1957,14 +1957,14 @@
     "translation": "Probleem",
     "video": "/videos/Probleem.mp4",
     "gif": "/gifs/Probleem.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een moeilijkheid of vraagstuk."
   },
   {
     "translation": "Recept",
     "video": "/videos/Recept.mp4",
     "gif": "/gifs/Recept.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een beschrijving van hoe een gerecht moet worden bereid."
   },
   {
@@ -1999,7 +1999,7 @@
     "translation": "Samenwonen",
     "video": "/videos/Samenwonen.mp4",
     "gif": "/gifs/Samenwonen.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Met iemand anders in hetzelfde huis wonen."
   },
   {
@@ -2090,7 +2090,7 @@
     "translation": "Tandarts",
     "video": "/videos/Tandarts.mp4",
     "gif": "/gifs/Tandarts.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een arts die gespecialiseerd is in de zorg voor tanden en tandvlees."
   },
   {
@@ -2104,7 +2104,7 @@
     "translation": "Telefoonnummer",
     "video": "/videos/Telefoonnummer.mp4",
     "gif": "/gifs/Telefoonnummer.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een reeks cijfers die wordt gebruikt om een telefoon te bellen."
   },
   {
@@ -2188,7 +2188,7 @@
     "translation": "Vader",
     "video": "/videos/Vader.mp4",
     "gif": "/gifs/Vader.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een mannelijke ouder."
   },
   {
@@ -2356,14 +2356,14 @@
     "translation": "Vriend (platonisch)",
     "video": "/videos/Vriend (platonisch).mp4",
     "gif": "/gifs/Vriend (platonisch).gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Iemand met wie je een vriendschappelijke relatie hebt."
   },
   {
     "translation": "Vriend (relatie)",
     "video": "/videos/Vriend (relatie).mp4",
     "gif": "/gifs/Vriend (relatie).gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een mannelijke partner in een romantische relatie."
   },
   {
@@ -2377,21 +2377,21 @@
     "translation": "Vrijgezel",
     "video": "/videos/Vrijgezel.mp4",
     "gif": "/gifs/Vrijgezel.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Niet getrouwd."
   },
   {
     "translation": "Vrouw (platonisch)",
     "video": "/videos/Vrouw (platonisch).mp4",
     "gif": "/gifs/Vrouw (platonisch).gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een volwassen vrouw."
   },
   {
     "translation": "Vrouw (relatie)",
     "video": "/videos/Vrouw (relatie).mp4",
     "gif": "/gifs/Vrouw (relatie).gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een vrouwelijke partner in een romantische relatie."
   },
   {
@@ -2419,7 +2419,7 @@
     "translation": "Wachtkamer",
     "video": "/videos/Wachtkamer.mp4",
     "gif": "/gifs/Wachtkamer.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een ruimte waar mensen wachten."
   },
   {
@@ -2505,6 +2505,80 @@
     "gif": "/gifs/Willen.gif",
     "lesson": 1,
     "explanation": "De wens of het verlangen hebben om iets te doen of te krijgen."
+  },
+  {
+    "translation": "Woonplaats",
+    "video": "/videos/Woonplaats.mp4",
+    "gif": "/gifs/Woonplaats.gif",
+    "lesson": 5,
+    "explanation": "De stad of het dorp waar iemand woont."
+  },
+  {
+    "translation": "Zeggen",
+    "video": "/videos/Zeggen.mp4",
+    "gif": "/gifs/Zeggen.gif",
+    "lesson": 1,
+    "explanation": "Iets verbaal uiten."
+  },
+  {
+    "translation": "Zenuwachtig",
+    "video": "/videos/Zenuwachtig.mp4",
+    "gif": "/gifs/Zenuwachtig.gif",
+    "lesson": 1,
+    "explanation": "Een gevoel van onrust of spanning."
+  },
+  {
+    "translation": "Ziek (zijn)",
+    "video": "/videos/Ziek (zijn).mp4",
+    "gif": "/gifs/Ziek (zijn).gif",
+    "lesson": 5,
+    "explanation": "Niet gezond zijn."
+  },
+  {
+    "translation": "Ziekenhuis",
+    "video": "/videos/Ziekenhuis.mp4",
+    "gif": "/gifs/Ziekenhuis.gif",
+    "lesson": 1,
+    "explanation": "Een instelling waar zieken worden behandeld."
+  },
+  {
+    "translation": "Zitten",
+    "video": "/videos/Zitten.mp4",
+    "gif": "/gifs/Zitten.gif",
+    "lesson": 1,
+    "explanation": "In een positie zijn waarbij het lichaam rust op de billen."
+  },
+  {
+    "translation": "Zoon",
+    "video": "/videos/Zoon.mp4",
+    "gif": "/gifs/Zoon.gif",
+    "lesson": 5,
+    "explanation": "Een mannelijk kind."
+  },
+  {
+    "translation": "Zorgverzekering",
+    "video": "/videos/Zorgverzekering.mp4",
+    "gif": "/gifs/Zorgverzekering.gif",
+    "lesson": 5,
+    "explanation": "Een verzekering die medische kosten dekt."
+  },
+
+
+
+
+  {
+    "translation": "Apotheek",
+    "video": "/videos/Apotheek.mp4",
+    "gif": "/gifs/Apotheek.gif",
+    "lesson": 5,
+    "explanation": "winkel waar je (op doktersrecept) medicijnen kunt kopen"
+  },
+  {
+    "translation": "Assistente",
+    "video": "/videos/Assistente.mp4",
+    "gif": "/gifs/Asistente.gif",
+    "lesson": 5,
+    "explanation": "vrouwelijk persoon die ondersteunend werk doet"
   },
   {
     "translation": "Woonplaats",
