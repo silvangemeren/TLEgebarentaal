@@ -7,13 +7,13 @@ const router = express.Router();
 router.get('/', async (req, res) => {
     try {
 
-        let {page = 1, limit} = req.query;
+        let { page = 1, limit } = req.query;
         page = parseInt(page);
         limit = parseInt(limit);
 
         const signs = await Sign.find()
             .skip((page - 1) * limit)
-            .limit(limit);
+            .limit(limit).collation({ locale: 'nl', strength: 2 }).sort({ lesson: 1 });
         const totalSigns = await Sign.countDocuments();
         res.status(200).json(
             {
@@ -52,7 +52,7 @@ router.get('/', async (req, res) => {
                 }
             })
     } catch (error) {
-        res.status(500).json({error: error.message});
+        res.status(500).json({ error: error.message });
     }
 });
 
@@ -80,9 +80,9 @@ router.post('/', async (req, res) => {
                     Sign.create(seederSigns[i])
                 }
             }
-            res.status(200).json({message: `Er staan nu ${amount} gebaren in de database en de database is ${reset ? '' : 'niet '}gereset.`})
+            res.status(200).json({ message: `Er staan nu ${amount} gebaren in de database en de database is ${reset ? '' : 'niet '}gereset.` })
         } catch (error) {
-            res.status(400).json({error: error.message});
+            res.status(400).json({ error: error.message });
         }
     } else {
         //post
@@ -103,32 +103,32 @@ router.options('/:id', (req, res) => {
 
 router.get('/:id', async (req, res) => {
     try {
-        const {id} = req.params;
+        const { id } = req.params;
         const sign = await Sign.findById(id);
         res.status(200).json(sign);
     } catch (error) {
-        res.status(500).json({error: error.message});
+        res.status(500).json({ error: error.message });
     }
 });
 
 router.put('/:id', async (req, res) => {
     try {
-        const {id} = req.params;
-        const sign = await Sign.findByIdAndUpdate(id, req.body, {new: true});
+        const { id } = req.params;
+        const sign = await Sign.findByIdAndUpdate(id, req.body, { new: true });
         res.status(200).json(sign);
 
     } catch (err) {
-        res.status(500).json({error: error.message});
+        res.status(500).json({ error: error.message });
     }
 });
 
 router.delete('/:id', async (req, res) => {
     try {
-        const {id} = req.params;
+        const { id } = req.params;
         const sign = await Sign.findByIdAndDelete(id);
         res.status(201).json(sign);
     } catch (err) {
-        res.status(400).json({error: error.message});
+        res.status(400).json({ error: error.message });
     }
 });
 
