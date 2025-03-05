@@ -6,7 +6,15 @@ const router = express.Router();
 
 router.get('/', async (req, res) => {
     try {
-        const signs = await Sign.find();
+
+        let {page = 1, limit} = req.query;
+        page = parseInt(page);
+        limit = parseInt(limit);
+
+        const signs = await Sign.find()
+            .skip((page - 1) * limit)
+            .limit(limit);
+        const totalSigns = await Sign.countDocuments();
         res.status(200).json(
             {
                 "items": signs,
@@ -18,9 +26,33 @@ router.get('/', async (req, res) => {
                         "href": `${process.env.BASE_URL}`
                     }
                 },
+                "pagination": {
+                    currentPage: page,
+                    currentItems: limit,
+                    totalPages: Math.ceil(totalSigns / limit),
+                    totalItems: totalSigns,
+                    _links: {
+                        first: {
+                            page: 1,
+                            href: `${process.env.BASE_URL}/signs?page=1&limit=${limit}`
+                        },
+                        last: {
+                            page: Math.ceil(totalSigns / limit),
+                            href: `${process.env.BASE_URL}/signs?page=${Math.ceil(totalSigns / limit)}&limit=${limit}`
+                        },
+                        previous: page > 1 ? {
+                            page: page - 1,
+                            href: `${process.env.BASE_URL}/signs?page=${page - 1}&limit=${limit}`
+                        } : null,
+                        next: (page * limit < totalSigns) ? {
+                            page: page + 1,
+                            href: `${process.env.BASE_URL}/signs?page=${page + 1}&limit=${limit}`
+                        } : null
+                    }
+                }
             })
     } catch (error) {
-        res.status(500).json({ error: error.message });
+        res.status(500).json({error: error.message});
     }
 });
 
@@ -48,9 +80,9 @@ router.post('/', async (req, res) => {
                     Sign.create(seederSigns[i])
                 }
             }
-            res.status(200).json({ message: `Er staan nu ${amount} gebaren in de database en de database is ${reset ? '' : 'niet '}gereset.` })
+            res.status(200).json({message: `Er staan nu ${amount} gebaren in de database en de database is ${reset ? '' : 'niet '}gereset.`})
         } catch (error) {
-            res.status(400).json({ error: error.message });
+            res.status(400).json({error: error.message});
         }
     } else {
         //post
@@ -71,32 +103,32 @@ router.options('/:id', (req, res) => {
 
 router.get('/:id', async (req, res) => {
     try {
-        const { id } = req.params;
+        const {id} = req.params;
         const sign = await Sign.findById(id);
         res.status(200).json(sign);
     } catch (error) {
-        res.status(500).json({ error: error.message });
+        res.status(500).json({error: error.message});
     }
 });
 
 router.put('/:id', async (req, res) => {
     try {
-        const { id } = req.params;
-        const sign = await Sign.findByIdAndUpdate(id, req.body, { new: true });
+        const {id} = req.params;
+        const sign = await Sign.findByIdAndUpdate(id, req.body, {new: true});
         res.status(200).json(sign);
 
     } catch (err) {
-        res.status(500).json({ error: error.message });
+        res.status(500).json({error: error.message});
     }
 });
 
 router.delete('/:id', async (req, res) => {
     try {
-        const { id } = req.params;
+        const {id} = req.params;
         const sign = await Sign.findByIdAndDelete(id);
         res.status(201).json(sign);
     } catch (err) {
-        res.status(400).json({ error: error.message });
+        res.status(400).json({error: error.message});
     }
 });
 
