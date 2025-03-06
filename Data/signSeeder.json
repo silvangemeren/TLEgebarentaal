@@ -1,10 +1,94 @@
 [
   {
-    "translation": "0 1 2 3 4 5 6 7 8 9 10 11 12",
-    "video": "/videos/Cijfers/0 1 2 3 4 5 6 7 8 9 10 11 12.mp4",
-    "gif": "/gifs/Cijfers/0 1 2 3 4 5 6 7 8 9 10 11 12.gif",
+    "translation": "0",
+    "video": "/videos/Cijfers/0.mp4",
+    "gif": "/gifs/Cijfers/0.gif",
     "lesson": 2,
-    "explanation": "De getallen 0 tot en met 12."
+    "explanation": "Het getal 0, wordt gebruikt als een numerieke aanduiding voor 0."
+  },
+  {
+    "translation": "1",
+    "video": "/videos/Cijfers/1.mp4",
+    "gif": "/gifs/Cijfers/1.gif",
+    "lesson": 2,
+    "explanation": "Het getal 1, de eerste natuurlijke en positieve eenheid."
+  },
+  {
+    "translation": "2",
+    "video": "/videos/Cijfers/2.mp4",
+    "gif": "/gifs/Cijfers/2.gif",
+    "lesson": 2,
+    "explanation": "Het getal 2, het eerste even getal en de kleinste priemgetal."
+  },
+  {
+    "translation": "3",
+    "video": "/videos/Cijfers/3.mp4",
+    "gif": "/gifs/Cijfers/3.gif",
+    "lesson": 2,
+    "explanation": "Het getal 3, een oneven getal en het eerste priemgetal na 2."
+  },
+  {
+    "translation": "4",
+    "video": "/videos/Cijfers/4.mp4",
+    "gif": "/gifs/Cijfers/4.gif",
+    "lesson": 2,
+    "explanation": "Het getal 4, het eerste kwadraatgetal (2×2)."
+  },
+  {
+    "translation": "5",
+    "video": "/videos/Cijfers/5.mp4",
+    "gif": "/gifs/Cijfers/5.gif",
+    "lesson": 2,
+    "explanation": "Het getal 5, een oneven priemgetal en halverwege 0 en 10."
+  },
+  {
+    "translation": "6",
+    "video": "/videos/Cijfers/6.mp4",
+    "gif": "/gifs/Cijfers/6.gif",
+    "lesson": 2,
+    "explanation": "Het getal 6, het eerste perfecte getal (1+2+3=6)."
+  },
+  {
+    "translation": "7",
+    "video": "/videos/Cijfers/7.mp4",
+    "gif": "/gifs/Cijfers/7.gif",
+    "lesson": 2,
+    "explanation": "Het getal 7, vaak beschouwd als een geluksgetal."
+  },
+  {
+    "translation": "8",
+    "video": "/videos/Cijfers/8.mp4",
+    "gif": "/gifs/Cijfers/8.gif",
+    "lesson": 2,
+    "explanation": "Het getal 8, een macht van 2 (2×2×2)."
+  },
+  {
+    "translation": "9",
+    "video": "/videos/Cijfers/9.mp4",
+    "gif": "/gifs/Cijfers/9.gif",
+    "lesson": 2,
+    "explanation": "Het getal 9, het kwadraat van 3 (3×3)."
+  },
+  {
+    "translation": "10",
+    "video": "/videos/Cijfers/10.mp4",
+    "gif": "/gifs/Cijfers/10.gif",
+    "lesson": 2,
+    "explanation": "Het getal 10, de basis van ons decimale stelsel."
+  },
+  {
+    "translation": "11",
+    "video": "/videos/Cijfers/11.mp4",
+    "gif": "/gifs/Cijfers/11.gif",
+    "lesson": 2,
+    "explanation": "Het getal 11, een palindroomgetal en een priemgetal."
+  },
+  {
+    "translation": "12",
+    "video": "/videos/Cijfers/12.mp4",
+    "gif": "/gifs/Cijfers/12.gif",
+    "lesson": 2,
+    "explanation": "Het getal 12, een veelvoudig gebruikt getal in tijdsindelingen en maateenheden."
   },
   {
     "translation": "13",
