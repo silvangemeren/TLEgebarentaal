@@ -4,616 +4,1368 @@
     "video": "/videos/Cijfers/0.mp4",
     "gif": "/gifs/Cijfers/0.gif",
     "lesson": 2,
-    "explanation": "Het getal 0, wordt gebruikt als een numerieke aanduiding voor 0."
+    "explanation": "Het getal 0, wordt gebruikt als een numerieke aanduiding voor 0.",
+    "handShapesR": {
+      "shape": "O",
+      "imageUrl": "/handshapes/O.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "1",
     "video": "/videos/Cijfers/1.mp4",
     "gif": "/gifs/Cijfers/1.gif",
     "lesson": 2,
-    "explanation": "Het getal 1, de eerste natuurlijke en positieve eenheid."
+    "explanation": "Het getal 1, de eerste natuurlijke en positieve eenheid.",
+    "handShapesR": {
+      "shape": "1",
+      "imageUrl": "/handshapes/1.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "2",
     "video": "/videos/Cijfers/2.mp4",
     "gif": "/gifs/Cijfers/2.gif",
     "lesson": 2,
-    "explanation": "Het getal 2, het eerste even getal en de kleinste priemgetal."
+    "explanation": "Het getal 2, het eerste even getal en de kleinste priemgetal.",
+    "handShapesR": {
+      "shape": "V",
+      "imageUrl": "/handshapes/V.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "3",
     "video": "/videos/Cijfers/3.mp4",
     "gif": "/gifs/Cijfers/3.gif",
     "lesson": 2,
-    "explanation": "Het getal 3, een oneven getal en het eerste priemgetal na 2."
+    "explanation": "Het getal 3, een oneven getal en het eerste priemgetal na 2.",
+    "handShapesR": {
+      "shape": "3",
+      "imageUrl": "/handshapes/3.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "4",
     "video": "/videos/Cijfers/4.mp4",
     "gif": "/gifs/Cijfers/4.gif",
     "lesson": 2,
-    "explanation": "Het getal 4, het eerste kwadraatgetal (2×2)."
+    "explanation": "Het getal 4, het eerste kwadraatgetal (2×2).",
+    "handShapesR": {
+      "shape": "4",
+      "imageUrl": "/handshapes/4.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "5",
     "video": "/videos/Cijfers/5.mp4",
     "gif": "/gifs/Cijfers/5.gif",
     "lesson": 2,
-    "explanation": "Het getal 5, een oneven priemgetal en halverwege 0 en 10."
+    "explanation": "Het getal 5, een oneven priemgetal en halverwege 0 en 10.",
+    "handShapesR": {
+      "shape": "5",
+      "imageUrl": "/handshapes/5.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "6",
     "video": "/videos/Cijfers/6.mp4",
     "gif": "/gifs/Cijfers/6.gif",
     "lesson": 2,
-    "explanation": "Het getal 6, het eerste perfecte getal (1+2+3=6)."
+    "explanation": "Het getal 6, het eerste perfecte getal (1+2+3=6).",
+    "handShapesR": {
+      "shape": "A",
+      "imageUrl": "/handshapes/A.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "7",
     "video": "/videos/Cijfers/7.mp4",
     "gif": "/gifs/Cijfers/7.gif",
     "lesson": 2,
-    "explanation": "Het getal 7, vaak beschouwd als een geluksgetal."
+    "explanation": "Het getal 7, vaak beschouwd als een geluksgetal.",
+    "handShapesR": {
+      "shape": "L",
+      "imageUrl": "/handshapes/L.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "8",
     "video": "/videos/Cijfers/8.mp4",
     "gif": "/gifs/Cijfers/8.gif",
     "lesson": 2,
-    "explanation": "Het getal 8, een macht van 2 (2×2×2)."
+    "explanation": "Het getal 8, een macht van 2 (2×2×2).",
+    "handShapesR": {
+      "shape": "W",
+      "imageUrl": "/handshapes/W.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "9",
     "video": "/videos/Cijfers/9.mp4",
     "gif": "/gifs/Cijfers/9.gif",
     "lesson": 2,
-    "explanation": "Het getal 9, het kwadraat van 3 (3×3)."
+    "explanation": "Het getal 9, het kwadraat van 3 (3×3).",
+    "handShapesR": {
+      "shape": "9",
+      "imageUrl": "/handshapes/9.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "10",
     "video": "/videos/Cijfers/10.mp4",
     "gif": "/gifs/Cijfers/10.gif",
     "lesson": 2,
-    "explanation": "Het getal 10, de basis van ons decimale stelsel."
+    "explanation": "Het getal 10, de basis van ons decimale stelsel.",
+    "handShapesR": {
+      "shape": "5",
+      "imageUrl": "/handshapes/5.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "11",
     "video": "/videos/Cijfers/11.mp4",
     "gif": "/gifs/Cijfers/11.gif",
     "lesson": 2,
-    "explanation": "Het getal 11, een palindroomgetal en een priemgetal."
+    "explanation": "Het getal 11, een palindroomgetal en een priemgetal.",
+    "handShapesR": {
+      "shape": "A",
+      "imageUrl": "/handshapes/A.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "12",
     "video": "/videos/Cijfers/12.mp4",
     "gif": "/gifs/Cijfers/12.gif",
     "lesson": 2,
-    "explanation": "Het getal 12, een veelvoudig gebruikt getal in tijdsindelingen en maateenheden."
+    "explanation": "Het getal 12, een veelvoudig gebruikt getal in tijdsindelingen en maateenheden.",
+    "handShapesR": {
+      "shape": "L",
+      "imageUrl": "/handshapes/L.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "13",
     "video": "/videos/Cijfers/13.mp4",
     "gif": "/gifs/Cijfers/13.gif",
     "lesson": 4,
-    "explanation": "Het getal 13, wordt gebruikt als een numerieke aanduiding voor 13."
+    "explanation": "Het getal 13, wordt gebruikt als een numerieke aanduiding voor 13.",
+    "handShapesR": {
+      "shape": "3",
+      "imageUrl": "/handshapes/3.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "14",
     "video": "/videos/Cijfers/14.mp4",
     "gif": "/gifs/Cijfers/14.gif",
     "lesson": 4,
-    "explanation": "Het getal 14, wordt gebruikt als een numerieke aanduiding voor 14."
+    "explanation": "Het getal 14, wordt gebruikt als een numerieke aanduiding voor 14.",
+    "handShapesR": {
+      "shape": "4",
+      "imageUrl": "/handshapes/4.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "15",
     "video": "/videos/Cijfers/15.mp4",
     "gif": "/gifs/Cijfers/15.gif",
     "lesson": 4,
-    "explanation": "Het getal 15, wordt gebruikt als een numerieke aanduiding voor 15."
+    "explanation": "Het getal 15, wordt gebruikt als een numerieke aanduiding voor 15.",
+    "handShapesR": {
+      "shape": "5",
+      "imageUrl": "/handshapes/5.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "16",
     "video": "/videos/Cijfers/16.mp4",
     "gif": "/gifs/Cijfers/16.gif",
     "lesson": 4,
-    "explanation": "Het getal 16, wordt gebruikt als een numerieke aanduiding voor 16."
+    "explanation": "Het getal 16, wordt gebruikt als een numerieke aanduiding voor 16.",
+    "handShapesR": {
+      "shape": "A",
+      "imageUrl": "/handshapes/A.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "17",
     "video": "/videos/Cijfers/17.mp4",
     "gif": "/gifs/Cijfers/17.gif",
     "lesson": 4,
-    "explanation": "Het getal 17, wordt gebruikt als een numerieke aanduiding voor 17."
+    "explanation": "Het getal 17, wordt gebruikt als een numerieke aanduiding voor 17.",
+    "handShapesR": {
+      "shape": "L",
+      "imageUrl": "/handshapes/L.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "18",
     "video": "/videos/Cijfers/18.mp4",
     "gif": "/gifs/Cijfers/18.gif",
     "lesson": 4,
-    "explanation": "Het getal 18, wordt gebruikt als een numerieke aanduiding voor 18."
+    "explanation": "Het getal 18, wordt gebruikt als een numerieke aanduiding voor 18.",
+    "handShapesR": {
+      "shape": "W",
+      "imageUrl": "/handshapes/W.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "19",
     "video": "/videos/Cijfers/19.mp4",
     "gif": "/gifs/Cijfers/19.gif",
     "lesson": 4,
-    "explanation": "Het getal 19, wordt gebruikt als een numerieke aanduiding voor 19."
+    "explanation": "Het getal 19, wordt gebruikt als een numerieke aanduiding voor 19.",
+    "handShapesR": {
+      "shape": "9",
+      "imageUrl": "/handshapes/9.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "20",
     "video": "/videos/Cijfers/20.mp4",
     "gif": "/gifs/Cijfers/20.gif",
     "lesson": 4,
-    "explanation": "Het getal 20, wordt gebruikt als een numerieke aanduiding voor 20."
+    "explanation": "Het getal 20, wordt gebruikt als een numerieke aanduiding voor 20.",
+    "handShapesR": {
+      "shape": "V",
+      "imageUrl": "/handshapes/V.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "21",
     "video": "/videos/Cijfers/21.mp4",
     "gif": "/gifs/Cijfers/21.gif",
     "lesson": 4,
-    "explanation": "Het getal 21, wordt gebruikt als een numerieke aanduiding voor 21."
+    "explanation": "Het getal 21, wordt gebruikt als een numerieke aanduiding voor 21.",
+    "handShapesR": [
+      {
+        "shape": "1",
+        "imageUrl": "/handshapes/1.png"
+      },
+      {
+        "shape": "V",
+        "imageUrl": "/handshapes/V.png"
+      }
+    ],
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "22",
     "video": "/videos/Cijfers/22.mp4",
     "gif": "/gifs/Cijfers/22.gif",
     "lesson": 4,
-    "explanation": "Het getal 22, wordt gebruikt als een numerieke aanduiding voor 22."
+    "explanation": "Het getal 22, wordt gebruikt als een numerieke aanduiding voor 22.",
+    "handShapesR": {
+      "shape": "V",
+      "imageUrl": "/handshapes/V.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "23",
     "video": "/videos/Cijfers/23.mp4",
     "gif": "/gifs/Cijfers/23.gif",
     "lesson": 4,
-    "explanation": "Het getal 23, wordt gebruikt als een numerieke aanduiding voor 23."
+    "explanation": "Het getal 23, wordt gebruikt als een numerieke aanduiding voor 23.",
+    "handShapesR": [
+      {
+        "shape": "3",
+        "imageUrl": "/handshapes/3.png"
+      },
+      {
+        "shape": "V",
+        "imageUrl": "/handshapes/V.png"
+      }
+    ],
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "24",
     "video": "/videos/Cijfers/24.mp4",
     "gif": "/gifs/Cijfers/24.gif",
     "lesson": 4,
-    "explanation": "Het getal 24, wordt gebruikt als een numerieke aanduiding voor 24."
+    "explanation": "Het getal 24, wordt gebruikt als een numerieke aanduiding voor 24.",
+    "handShapesR": [
+      {
+        "shape": "4",
+        "imageUrl": "/handshapes/4.png"
+      },
+      {
+        "shape": "V",
+        "imageUrl": "/handshapes/V.png"
+      }
+    ],
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "25",
     "video": "/videos/Cijfers/25.mp4",
     "gif": "/gifs/Cijfers/25.gif",
     "lesson": 4,
-    "explanation": "Het getal 25, wordt gebruikt als een numerieke aanduiding voor 25."
+    "explanation": "Het getal 25, wordt gebruikt als een numerieke aanduiding voor 25.",
+    "handShapesR": [
+      {
+        "shape": "5",
+        "imageUrl": "/handshapes/5.png"
+      },
+      {
+        "shape": "V",
+        "imageUrl": "/handshapes/V.png"
+      }
+    ],
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "26",
     "video": "/videos/Cijfers/26.mp4",
     "gif": "/gifs/Cijfers/26.gif",
     "lesson": 4,
-    "explanation": "Het getal 26, wordt gebruikt als een numerieke aanduiding voor 26."
+    "explanation": "Het getal 26, wordt gebruikt als een numerieke aanduiding voor 26.",
+    "handShapesR": [
+      {
+        "shape": "A",
+        "imageUrl": "/handshapes/A.png"
+      },
+      {
+        "shape": "V",
+        "imageUrl": "/handshapes/V.png"
+      }
+    ],
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "27",
     "video": "/videos/Cijfers/27.mp4",
     "gif": "/gifs/Cijfers/27.gif",
     "lesson": 4,
-    "explanation": "Het getal 27, wordt gebruikt als een numerieke aanduiding voor 27."
+    "explanation": "Het getal 27, wordt gebruikt als een numerieke aanduiding voor 27.",
+    "handShapesR": [
+      {
+        "shape": "L",
+        "imageUrl": "/handshapes/L.png"
+      },
+      {
+        "shape": "V",
+        "imageUrl": "/handshapes/V.png"
+      }
+    ],
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "28",
     "video": "/videos/Cijfers/28.mp4",
     "gif": "/gifs/Cijfers/28.gif",
     "lesson": 4,
-    "explanation": "Het getal 28, wordt gebruikt als een numerieke aanduiding voor 28."
+    "explanation": "Het getal 28, wordt gebruikt als een numerieke aanduiding voor 28.",
+    "handShapesR": [
+      {
+        "shape": "W",
+        "imageUrl": "/handshapes/W.png"
+      },
+      {
+        "shape": "V",
+        "imageUrl": "/handshapes/V.png"
+      }
+    ],
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "29",
     "video": "/videos/Cijfers/29.mp4",
     "gif": "/gifs/Cijfers/29.gif",
     "lesson": 4,
-    "explanation": "Het getal 29, wordt gebruikt als een numerieke aanduiding voor 29."
+    "explanation": "Het getal 29, wordt gebruikt als een numerieke aanduiding voor 29.",
+    "handShapesR": [
+      {
+        "shape": "9",
+        "imageUrl": "/handshapes/9.png"
+      },
+      {
+        "shape": "V",
+        "imageUrl": "/handshapes/V.png"
+      }
+    ],
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "30",
     "video": "/videos/Cijfers/30.mp4",
     "gif": "/gifs/Cijfers/30.gif",
     "lesson": 4,
-    "explanation": "Het getal 30, wordt gebruikt als een numerieke aanduiding voor 30."
+    "explanation": "Het getal 30, wordt gebruikt als een numerieke aanduiding voor 30.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "33",
     "video": "/videos/Cijfers/33.mp4",
     "gif": "/gifs/Cijfers/33.gif",
     "lesson": 4,
-    "explanation": "Het getal 33, wordt gebruikt als een numerieke aanduiding voor 33."
+    "explanation": "Het getal 33, wordt gebruikt als een numerieke aanduiding voor 33.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "40",
     "video": "/videos/Cijfers/40.mp4",
     "gif": "/gifs/Cijfers/40.gif",
     "lesson": 4,
-    "explanation": "Het getal 40, wordt gebruikt als een numerieke aanduiding voor 40."
+    "explanation": "Het getal 40, wordt gebruikt als een numerieke aanduiding voor 40.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "44",
     "video": "/videos/Cijfers/44.mp4",
     "gif": "/gifs/Cijfers/44.gif",
     "lesson": 4,
-    "explanation": "Het getal 44, wordt gebruikt als een numerieke aanduiding voor 44."
+    "explanation": "Het getal 44, wordt gebruikt als een numerieke aanduiding voor 44.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "50",
     "video": "/videos/Cijfers/50.mp4",
     "gif": "/gifs/Cijfers/50.gif",
     "lesson": 4,
-    "explanation": "Het getal 50, wordt gebruikt als een numerieke aanduiding voor 50."
+    "explanation": "Het getal 50, wordt gebruikt als een numerieke aanduiding voor 50.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "55",
     "video": "/videos/Cijfers/55.mp4",
     "gif": "/gifs/Cijfers/55.gif",
     "lesson": 4,
-    "explanation": "Het getal 55, wordt gebruikt als een numerieke aanduiding voor 55."
+    "explanation": "Het getal 55, wordt gebruikt als een numerieke aanduiding voor 55.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "60",
     "video": "/videos/Cijfers/60.mp4",
     "gif": "/gifs/Cijfers/60.gif",
     "lesson": 4,
-    "explanation": "Het getal 60, wordt gebruikt als een numerieke aanduiding voor 60."
+    "explanation": "Het getal 60, wordt gebruikt als een numerieke aanduiding voor 60.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "66",
     "video": "/videos/Cijfers/66.mp4",
     "gif": "/gifs/Cijfers/66.gif",
     "lesson": 4,
-    "explanation": "Het getal 66, wordt gebruikt als een numerieke aanduiding voor 66."
+    "explanation": "Het getal 66, wordt gebruikt als een numerieke aanduiding voor 66.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "70",
     "video": "/videos/Cijfers/70.mp4",
     "gif": "/gifs/Cijfers/70.gif",
     "lesson": 4,
-    "explanation": "Het getal 70, wordt gebruikt als een numerieke aanduiding voor 70."
+    "explanation": "Het getal 70, wordt gebruikt als een numerieke aanduiding voor 70.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "77",
     "video": "/videos/Cijfers/77.mp4",
     "gif": "/gifs/Cijfers/77.gif",
     "lesson": 4,
-    "explanation": "Het getal 77, wordt gebruikt als een numerieke aanduiding voor 77."
+    "explanation": "Het getal 77, wordt gebruikt als een numerieke aanduiding voor 77.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "80",
     "video": "/videos/Cijfers/80.mp4",
     "gif": "/gifs/Cijfers/80.gif",
     "lesson": 4,
-    "explanation": "Het getal 80, wordt gebruikt als een numerieke aanduiding voor 80."
+    "explanation": "Het getal 80, wordt gebruikt als een numerieke aanduiding voor 80.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "88",
     "video": "/videos/Cijfers/88.mp4",
     "gif": "/gifs/Cijfers/88.gif",
     "lesson": 4,
-    "explanation": "Het getal 88, wordt gebruikt als een numerieke aanduiding voor 88."
+    "explanation": "Het getal 88, wordt gebruikt als een numerieke aanduiding voor 88.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "90",
     "video": "/videos/Cijfers/90.mp4",
     "gif": "/gifs/Cijfers/90.gif",
     "lesson": 4,
-    "explanation": "Het getal 90, wordt gebruikt als een numerieke aanduiding voor 90."
+    "explanation": "Het getal 90, wordt gebruikt als een numerieke aanduiding voor 90.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "99",
     "video": "/videos/Cijfers/99.mp4",
     "gif": "/gifs/Cijfers/99.gif",
     "lesson": 4,
-    "explanation": "Het getal 99, wordt gebruikt als een numerieke aanduiding voor 99."
+    "explanation": "Het getal 99, wordt gebruikt als een numerieke aanduiding voor 99.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "100",
     "video": "/videos/Cijfers/100.mp4",
     "gif": "/gifs/Cijfers/100.gif",
     "lesson": 4,
-    "explanation": "Het getal 100, wordt gebruikt als een numerieke aanduiding voor 100."
+    "explanation": "Het getal 100, wordt gebruikt als een numerieke aanduiding voor 100.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Maandag",
     "video": "/videos/Dagen/1 Maandag.mp4",
     "gif": "/gifs/Dagen/1 Maandag.gif",
     "lesson": 3,
-    "explanation": "Maandag is de 1e dag van de week."
+    "explanation": "Maandag is de 1e dag van de week.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Dinsdag",
     "video": "/videos/Dagen/2 Dinsdag.mp4",
     "gif": "/gifs/Dagen/2 Dinsdag.gif",
     "lesson": 3,
-    "explanation": "Dinsdag is de 2e dag van de week."
+    "explanation": "Dinsdag is de 2e dag van de week.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Woensdag",
     "video": "/videos/Dagen/3 Woensdag.mp4",
     "gif": "/gifs/Dagen/3 Woensdag.gif",
     "lesson": 3,
-    "explanation": "Woensdag is de 3e dag van de week."
+    "explanation": "Woensdag is de 3e dag van de week.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Donderdag",
     "video": "/videos/Dagen/4 Donderdag.mp4",
     "gif": "/gifs/Dagen/4 Donderdag.gif",
     "lesson": 3,
-    "explanation": "Donderdag is de 4e dag van de week."
+    "explanation": "Donderdag is de 4e dag van de week.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vrijdag",
     "video": "/videos/Dagen/5 Vrijdag.mp4",
     "gif": "/gifs/Dagen/5 Vrijdag.gif",
     "lesson": 3,
-    "explanation": "Vrijdag is de 5e dag van de week."
+    "explanation": "Vrijdag is de 5e dag van de week.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Zaterdag",
     "video": "/videos/Dagen/6 Zaterdag.mp4",
     "gif": "/gifs/Dagen/6 Zaterdag.gif",
     "lesson": 3,
-    "explanation": "Zaterdag is de 6e dag van de week."
+    "explanation": "Zaterdag is de 6e dag van de week.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Zondag",
     "video": "/videos/Dagen/7 Zondag.mp4",
     "gif": "/gifs/Dagen/7 Zondag.gif",
     "lesson": 3,
-    "explanation": "Zondag is de 7e dag van de week."
+    "explanation": "Zondag is de 7e dag van de week.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Januari",
     "video": "/videos/Maanden/1 Januari.mp4",
     "gif": "/gifs/Maanden/1 Januari.gif",
     "lesson": 3,
-    "explanation": "Januari is de 1e maand van het jaar."
+    "explanation": "Januari is de 1e maand van het jaar.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Februari",
     "video": "/videos/Maanden/2 Februari.mp4",
     "gif": "/gifs/Maanden/2 Februari.gif",
     "lesson": 3,
-    "explanation": "Februari is de 2e maand van het jaar."
+    "explanation": "Februari is de 2e maand van het jaar.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Maart",
     "video": "/videos/Maanden/3 Maart.mp4",
     "gif": "/gifs/Maanden/3 Maart.gif",
     "lesson": 3,
-    "explanation": "Maart is de 3e maand van het jaar."
+    "explanation": "Maart is de 3e maand van het jaar.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "April",
     "video": "/videos/Maanden/4 April.mp4",
     "gif": "/gifs/Maanden/4 April.gif",
     "lesson": 3,
-    "explanation": "April is de 4e maand van het jaar."
+    "explanation": "April is de 4e maand van het jaar.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Mei",
     "video": "/videos/Maanden/5 Mei.mp4",
     "gif": "/gifs/Maanden/5 Mei.gif",
     "lesson": 3,
-    "explanation": "Mei is de 5e maand van het jaar."
+    "explanation": "Mei is de 5e maand van het jaar.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Juni",
     "video": "/videos/Maanden/6 Juni.mp4",
     "gif": "/gifs/Maanden/6 Juni.gif",
     "lesson": 3,
-    "explanation": "Juni is de 6e maand van het jaar."
+    "explanation": "Juni is de 6e maand van het jaar.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Juli",
     "video": "/videos/Maanden/7 Juli.mp4",
     "gif": "/gifs/Maanden/7 Juli.gif",
     "lesson": 3,
-    "explanation": "Juli is de 7e maand van het jaar."
+    "explanation": "Juli is de 7e maand van het jaar.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Augustus",
     "video": "/videos/Maanden/8 Augustus.mp4",
     "gif": "/gifs/Maanden/8 Augustus.gif",
     "lesson": 3,
-    "explanation": "Augustus is de 8e maand van het jaar."
+    "explanation": "Augustus is de 8e maand van het jaar.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "September",
     "video": "/videos/Maanden/9 September.mp4",
     "gif": "/gifs/Maanden/9 September.gif",
     "lesson": 3,
-    "explanation": "September is de 9e maand van het jaar."
+    "explanation": "September is de 9e maand van het jaar.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Oktober",
     "video": "/videos/Maanden/10 Oktober.mp4",
     "gif": "/gifs/Maanden/10 Oktober.gif",
     "lesson": 3,
-    "explanation": "Oktober is de 10e maand van het jaar."
+    "explanation": "Oktober is de 10e maand van het jaar.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "November",
     "video": "/videos/Maanden/11 November.mp4",
     "gif": "/gifs/Maanden/11 November.gif",
     "lesson": 3,
-    "explanation": "November is de 11e maand van het jaar."
+    "explanation": "November is de 11e maand van het jaar.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "December",
     "video": "/videos/Maanden/12 December.mp4",
     "gif": "/gifs/Maanden/12 December.gif",
     "lesson": 3,
-    "explanation": "December is de 12e maand van het jaar."
+    "explanation": "December is de 12e maand van het jaar.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Amsterdam",
     "video": "/videos/Plaatsnamen/Amsterdam.mp4",
     "gif": "/gifs/Plaatsnamen/Amsterdam.gif",
     "lesson": 5,
-    "explanation": "Amsterdam is een stad in Nederland."
+    "explanation": "Amsterdam is een stad in Nederland.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Breda",
     "video": "/videos/Plaatsnamen/Breda.mp4",
     "gif": "/gifs/Plaatsnamen/Breda.gif",
     "lesson": 5,
-    "explanation": "Breda is een stad in Nederland."
+    "explanation": "Breda is een stad in Nederland.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Den Haag",
     "video": "/videos/Plaatsnamen/Den Haag.mp4",
     "gif": "/gifs/Plaatsnamen/Den Haag.gif",
     "lesson": 5,
-    "explanation": "Den Haag is een stad in Nederland."
+    "explanation": "Den Haag is een stad in Nederland.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Rotterdam",
     "video": "/videos/Plaatsnamen/Rotterdam.mp4",
     "gif": "/gifs/Plaatsnamen/Rotterdam.gif",
     "lesson": 5,
-    "explanation": "Rotterdam is een stad in Nederland."
+    "explanation": "Rotterdam is een stad in Nederland.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Schiedam",
     "video": "/videos/Plaatsnamen/Schiedam.mp4",
     "gif": "/gifs/Plaatsnamen/Schiedam.gif",
     "lesson": 5,
-    "explanation": "Schiedam is een stad in Nederland."
+    "explanation": "Schiedam is een stad in Nederland.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Zoetermeer",
     "video": "/videos/Plaatsnamen/Zoetermeer.mp4",
     "gif": "/gifs/Plaatsnamen/Zoetermeer.gif",
     "lesson": 5,
-    "explanation": "Zoetermeer is een stad in Nederland."
+    "explanation": "Zoetermeer is een stad in Nederland.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "1 uur",
     "video": "/videos/Tijd/1 uur.mp4",
     "gif": "/gifs/Tijd/1 uur.gif",
     "lesson": 4,
-    "explanation": "Een tijdsperiode van zestig minuten."
+    "explanation": "Een tijdsperiode van zestig minuten.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "1 uur lang",
     "video": "/videos/Tijd/1 uur lang.mp4",
     "gif": "/gifs/Tijd/1 uur lang.gif",
     "lesson": 4,
-    "explanation": "Een duur van precies zestig minuten."
+    "explanation": "Een duur van precies zestig minuten.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "10 over 1",
     "video": "/videos/Tijd/10 over 1.mp4",
     "gif": "/gifs/Tijd/10 over 1.gif",
     "lesson": 4,
-    "explanation": "De tijdsaanduiding voor tien minuten na één uur."
+    "explanation": "De tijdsaanduiding voor tien minuten na één uur.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "10 over 2",
     "video": "/videos/Tijd/10 over 2.mp4",
     "gif": "/gifs/Tijd/10 over 2.gif",
     "lesson": 4,
-    "explanation": "De tijdsaanduiding voor tien minuten na twee uur."
+    "explanation": "De tijdsaanduiding voor tien minuten na twee uur.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "10 over 3",
     "video": "/videos/Tijd/10 over 3.mp4",
     "gif": "/gifs/Tijd/10 over 3.gif",
     "lesson": 4,
-    "explanation": "De tijdsaanduiding voor tien minuten na drie uur."
+    "explanation": "De tijdsaanduiding voor tien minuten na drie uur.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "10 voor 1",
     "video": "/videos/Tijd/10 voor 1.mp4",
     "gif": "/gifs/Tijd/10 voor 1.gif",
     "lesson": 4,
-    "explanation": "De tijdsaanduiding voor tien minuten voor één uur."
+    "explanation": "De tijdsaanduiding voor tien minuten voor één uur.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "10 voor 2",
     "video": "/videos/Tijd/10 voor 2.mp4",
     "gif": "/gifs/Tijd/10 voor 2.gif",
     "lesson": 4,
-    "explanation": "De tijdsaanduiding voor tien minuten voor twee uur."
+    "explanation": "De tijdsaanduiding voor tien minuten voor twee uur.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "10 voor 3",
     "video": "/videos/Tijd/10 voor 3.mp4",
     "gif": "/gifs/Tijd/10 voor 3.gif",
     "lesson": 4,
-    "explanation": "De tijdsaanduiding voor tien minuten voor drie uur."
+    "explanation": "De tijdsaanduiding voor tien minuten voor drie uur.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "2 uur",
     "video": "/videos/Tijd/2 uur.mp4",
     "gif": "/gifs/Tijd/2 uur.gif",
     "lesson": 4,
-    "explanation": "Een tijdsperiode van honderdtwintig minuten."
+    "explanation": "Een tijdsperiode van honderdtwintig minuten.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "2 uur lang",
     "video": "/videos/Tijd/2 uur lang.mp4",
     "gif": "/gifs/Tijd/2 uur lang.gif",
     "lesson": 4,
-    "explanation": "Een duur van precies honderdtwintig minuten."
+    "explanation": "Een duur van precies honderdtwintig minuten.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Half 1",
     "video": "/videos/Tijd/Half 1.mp4",
     "gif": "/gifs/Tijd/Half 1.gif",
     "lesson": 4,
-    "explanation": "Een tijdsaanduiding voor dertig minuten voor één uur."
+    "explanation": "Een tijdsaanduiding voor dertig minuten voor één uur.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Half 2",
     "video": "/videos/Tijd/Half 2.mp4",
     "gif": "/gifs/Tijd/Half 2.gif",
     "lesson": 4,
-    "explanation": "Een tijdsaanduiding voor dertig minuten voor twee uur."
+    "explanation": "Een tijdsaanduiding voor dertig minuten voor twee uur.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Half uur lang",
     "video": "/videos/Tijd/Half uur lang.mp4",
     "gif": "/gifs/Tijd/Half uur lang.gif",
     "lesson": 4,
-    "explanation": "Een tijdsperiode van dertig minuten."
+    "explanation": "Een tijdsperiode van dertig minuten.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Kwart over",
     "video": "/videos/Tijd/Kwart over.mp4",
     "gif": "/gifs/Tijd/Kwart over.gif",
     "lesson": 4,
-    "explanation": "Een tijdsaanduiding voor vijftien minuten na het hele uur."
+    "explanation": "Een tijdsaanduiding voor vijftien minuten na het hele uur.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Kwart voor",
     "video": "/videos/Tijd/Kwart voor.mp4",
     "gif": "/gifs/Tijd/Kwart voor.gif",
     "lesson": 4,
-    "explanation": "Een tijdsaanduiding voor vijftien minuten voor het hele uur."
+    "explanation": "Een tijdsaanduiding voor vijftien minuten voor het hele uur.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Kwartier",
     "video": "/videos/Tijd/Kwartier.mp4",
     "gif": "/gifs/Tijd/Kwartier.gif",
     "lesson": 4,
-    "explanation": "Een tijdsperiode van vijftien minuten."
+    "explanation": "Een tijdsperiode van vijftien minuten.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Minuut",
     "video": "/videos/Tijd/Minuut.mp4",
     "gif": "/gifs/Tijd/Minuut.gif",
     "lesson": 4,
-    "explanation": "Een tijdsperiode van zestig seconden."
+    "explanation": "Een tijdsperiode van zestig seconden.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Uur",
     "video": "/videos/Tijd/Uur.mp4",
     "gif": "/gifs/Tijd/Uur.gif",
     "lesson": 4,
-    "explanation": "Een tijdsperiode van zestig minuten."
+    "explanation": "Een tijdsperiode van zestig minuten.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Aanwezig",
@@ -635,2015 +1387,4319 @@
     "video": "/videos/Achternaam.mp4",
     "gif": "/gifs/Achternaam.gif",
     "lesson": 1,
-    "explanation": "De familienaam die iemand draagt."
+    "explanation": "De familienaam die iemand draagt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Ademen",
     "video": "/videos/Ademen.mp4",
     "gif": "/gifs/Ademen.gif",
     "lesson": 6,
-    "explanation": "Het proces van lucht in- en uit de longen laten stromen."
+    "explanation": "Het proces van lucht in- en uit de longen laten stromen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Adres",
     "video": "/videos/Adres.mp4",
     "gif": "/gifs/Adres.gif",
     "lesson": 5,
-    "explanation": "De locatie waar iemand woont of waar iets zich bevindt."
+    "explanation": "De locatie waar iemand woont of waar iets zich bevindt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Afgesproken",
     "video": "/videos/Afgesproken.mp4",
     "gif": "/gifs/Afgesproken.gif",
     "lesson": 3,
-    "explanation": "Een gemaakte afspraak of overeengekomen plan."
+    "explanation": "Een gemaakte afspraak of overeengekomen plan.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Afspraak",
     "video": "/videos/Afspraak.mp4",
     "gif": "/gifs/Afspraak.gif",
     "lesson": 3,
-    "explanation": "Een geplande ontmoeting of overeenkomst tussen mensen."
+    "explanation": "Een geplande ontmoeting of overeenkomst tussen mensen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Afspreken",
     "video": "/videos/Afspreken.mp4",
     "gif": "/gifs/Afspreken.gif",
     "lesson": 3,
-    "explanation": "Een plan maken om iemand te ontmoeten."
+    "explanation": "Een plan maken om iemand te ontmoeten.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Agenda",
     "video": "/videos/Agenda.mp4",
     "gif": "/gifs/Agenda.gif",
     "lesson": 3,
-    "explanation": "Een lijst of boek waarin afspraken en taken worden bijgehouden."
+    "explanation": "Een lijst of boek waarin afspraken en taken worden bijgehouden.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Al",
     "video": "/videos/Al.mp4",
     "gif": "/gifs/Al.gif",
     "lesson": 7,
-    "explanation": "Reeds, eerder gebeurd of in gang gezet."
+    "explanation": "Reeds, eerder gebeurd of in gang gezet.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Algemeen vraag gebaar",
     "video": "/videos/Algemeen vraag gebaar.mp4",
     "gif": "/gifs/Algemeen vraag gebaar.gif",
     "lesson": 3,
-    "explanation": "Een gebaar dat gebruikt wordt om een algemene vraag aan te duiden."
+    "explanation": "Een gebaar dat gebruikt wordt om een algemene vraag aan te duiden.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Alsjeblieft (iets geven)",
     "video": "/videos/Alsjeblieft (iets geven).mp4",
     "gif": "/gifs/Alsjeblieft (iets geven).gif",
     "lesson": 2,
-    "explanation": "Een uitdrukking gebruikt bij het overhandigen van iets aan iemand."
+    "explanation": "Een uitdrukking gebruikt bij het overhandigen van iets aan iemand.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Alsjeblieft (verzoek)",
     "video": "/videos/Alsjeblieft (verzoek).mp4",
     "gif": "/gifs/Alsjeblieft (verzoek).gif",
     "lesson": 2,
-    "explanation": "Een beleefde manier om iets te vragen of te verzoeken."
+    "explanation": "Een beleefde manier om iets te vragen of te verzoeken.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Altijd",
     "video": "/videos/Altijd.mp4",
     "gif": "/gifs/Altijd.gif",
     "lesson": 4,
-    "explanation": "Voortdurend, zonder onderbreking."
+    "explanation": "Voortdurend, zonder onderbreking.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Alvleesklier",
     "video": "/videos/Alvleesklier.mp4",
     "gif": "/gifs/Alvleesklier.gif",
     "lesson": 7,
-    "explanation": "Een orgaan in het lichaam dat spijsverteringssappen en insuline produceert."
+    "explanation": "Een orgaan in het lichaam dat spijsverteringssappen en insuline produceert.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Ambulance",
     "video": "/videos/Ambulance.mp4",
     "gif": "/gifs/Ambulance.gif",
     "lesson": 7,
-    "explanation": "Een voertuig dat wordt gebruikt om gewonde of zieke mensen te vervoeren."
+    "explanation": "Een voertuig dat wordt gebruikt om gewonde of zieke mensen te vervoeren.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Andere",
     "video": "/videos/Andere.mp4",
     "gif": "/gifs/Andere.gif",
     "lesson": 3,
-    "explanation": "Iets of iemand anders dan wat eerder genoemd werd."
+    "explanation": "Iets of iemand anders dan wat eerder genoemd werd.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Antwoorden",
     "video": "/videos/Antwoorden.mp4",
     "gif": "/gifs/Antwoorden.gif",
     "lesson": 2,
-    "explanation": "Reageren op een vraag of opmerking."
+    "explanation": "Reageren op een vraag of opmerking.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Anus",
     "video": "/videos/Anus.mp4",
     "gif": "/gifs/Anus.gif",
     "lesson": 7,
-    "explanation": "Het uiteinde van het spijsverteringskanaal waar ontlasting het lichaam verlaat."
+    "explanation": "Het uiteinde van het spijsverteringskanaal waar ontlasting het lichaam verlaat.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Apotheek",
     "video": "/videos/Apotheek.mp4",
     "gif": "/gifs/Apotheek.gif",
     "lesson": 5,
-    "explanation": "Een plek waar medicijnen worden bereid en verkocht."
+    "explanation": "Een plek waar medicijnen worden bereid en verkocht.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Arm",
     "video": "/videos/Arm.mp4",
     "gif": "/gifs/Arm.gif",
     "lesson": 7,
-    "explanation": "Een ledemaat van het menselijk lichaam dat aan de schouder vastzit."
+    "explanation": "Een ledemaat van het menselijk lichaam dat aan de schouder vastzit.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Assistente",
     "video": "/videos/Assistente.mp4",
     "gif": "/gifs/Assistente.gif",
     "lesson": 5,
-    "explanation": "Iemand die helpt bij het uitvoeren van taken, vaak in een medische of administratieve rol."
+    "explanation": "Iemand die helpt bij het uitvoeren van taken, vaak in een medische of administratieve rol.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Avond",
     "video": "/videos/Avond.mp4",
     "gif": "/gifs/Avond.gif",
     "lesson": 3,
-    "explanation": "Het deel van de dag tussen de middag en de nacht."
+    "explanation": "Het deel van de dag tussen de middag en de nacht.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Baarmoeder",
     "video": "/videos/Baarmoeder.mp4",
     "gif": "/gifs/Baarmoeder.gif",
     "lesson": 7,
-    "explanation": "Het orgaan in een vrouwelijk lichaam waar een baby zich ontwikkelt tijdens de zwangerschap."
+    "explanation": "Het orgaan in een vrouwelijk lichaam waar een baby zich ontwikkelt tijdens de zwangerschap.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Bang",
     "video": "/videos/Bang.mp4",
     "gif": "/gifs/Bang.gif",
     "lesson": 2,
-    "explanation": "Een emotie van angst of bezorgdheid."
+    "explanation": "Een emotie van angst of bezorgdheid.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Bedankt",
     "video": "/videos/Bedankt.mp4",
     "gif": "/gifs/Bedankt.gif",
     "lesson": 2,
-    "explanation": "Een uitdrukking van dankbaarheid."
+    "explanation": "Een uitdrukking van dankbaarheid.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Bedoeling",
     "video": "/videos/Bedoeling.mp4",
     "gif": "/gifs/Bedoeling.gif",
     "lesson": 1,
-    "explanation": "Het doel of de intentie achter een actie of uitspraak."
+    "explanation": "Het doel of de intentie achter een actie of uitspraak.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Been",
     "video": "/videos/Been.mp4",
     "gif": "/gifs/Been.gif",
     "lesson": 7,
-    "explanation": "Een deel van het lichaam dat wordt gebruikt om te staan en te lopen."
+    "explanation": "Een deel van het lichaam dat wordt gebruikt om te staan en te lopen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Beginnen",
     "video": "/videos/Beginnen.mp4",
     "gif": "/gifs/Beginnen.gif",
     "lesson": 1,
-    "explanation": "Het starten van iets nieuws of een activiteit."
+    "explanation": "Het starten van iets nieuws of een activiteit.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Behandelen",
     "video": "/videos/Behandelen.mp4",
     "gif": "/gifs/Behandelen.gif",
     "lesson": 6,
-    "explanation": "Het uitvoeren van een medische handeling of zorg verlenen."
+    "explanation": "Het uitvoeren van een medische handeling of zorg verlenen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Beroep",
     "video": "/videos/Beroep.mp4",
     "gif": "/gifs/Beroep.gif",
     "lesson": 5,
-    "explanation": "Een vak of werk dat iemand doet voor zijn of haar levensonderhoud."
+    "explanation": "Een vak of werk dat iemand doet voor zijn of haar levensonderhoud.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Beter (zijn)",
     "video": "/videos/Beter (zijn).mp4",
     "gif": "/gifs/Beter (zijn).gif",
     "lesson": 5,
-    "explanation": "In een verbeterde toestand verkeren, vaak na ziekte."
+    "explanation": "In een verbeterde toestand verkeren, vaak na ziekte.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Beter-gaan",
     "video": "/videos/Beter-gaan.mp4",
     "gif": "/gifs/Beter-gaan.gif",
     "lesson": 5,
-    "explanation": "Verbetering in gezondheid of situatie."
+    "explanation": "Verbetering in gezondheid of situatie.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Bewegen",
     "video": "/videos/Bewegen.mp4",
     "gif": "/gifs/Bewegen.gif",
     "lesson": 6,
-    "explanation": "Van positie veranderen of in actie komen."
+    "explanation": "Van positie veranderen of in actie komen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Bezorgd",
     "video": "/videos/Bezorgd.mp4",
     "gif": "/gifs/Bezorgd.gif",
     "lesson": 7,
-    "explanation": "Zich zorgen makend over iets of iemand."
+    "explanation": "Zich zorgen makend over iets of iemand.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Billen",
     "video": "/videos/Billen.mp4",
     "gif": "/gifs/Billen.gif",
     "lesson": 7,
-    "explanation": "Het achterste deel van het lichaam waar men op zit."
+    "explanation": "Het achterste deel van het lichaam waar men op zit.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Biopsie",
     "video": "/videos/Biopsie.mp4",
     "gif": "/gifs/Biopsie.gif",
     "lesson": 6,
-    "explanation": "Een medische procedure waarbij een klein stukje weefsel wordt verwijderd voor onderzoek."
+    "explanation": "Een medische procedure waarbij een klein stukje weefsel wordt verwijderd voor onderzoek.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Blaas",
     "video": "/videos/Blaas.mp4",
     "gif": "/gifs/Blaas.gif",
     "lesson": 7,
-    "explanation": "Een orgaan in het lichaam dat urine opslaat."
+    "explanation": "Een orgaan in het lichaam dat urine opslaat.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Blij",
     "video": "/videos/Blij.mp4",
     "gif": "/gifs/Blij.gif",
     "lesson": 2,
-    "explanation": "Een gevoel van vreugde en geluk."
+    "explanation": "Een gevoel van vreugde en geluk.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Bloed",
     "video": "/videos/Bloed.mp4",
     "gif": "/gifs/Bloed.gif",
     "lesson": 6,
-    "explanation": "De rode vloeistof die door het lichaam circuleert en zuurstof vervoert."
+    "explanation": "De rode vloeistof die door het lichaam circuleert en zuurstof vervoert.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Bloeddruk",
     "video": "/videos/Bloeddruk.mp4",
     "gif": "/gifs/Bloeddruk.gif",
     "lesson": 6,
-    "explanation": "De druk waarmee bloed door de bloedvaten stroomt."
+    "explanation": "De druk waarmee bloed door de bloedvaten stroomt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Bloeddruk hoog",
     "video": "/videos/Bloeddruk hoog.mp4",
     "gif": "/gifs/Bloeddruk hoog.gif",
     "lesson": 6,
-    "explanation": "Een medische aandoening waarbij de bloeddruk hoger is dan normaal."
+    "explanation": "Een medische aandoening waarbij de bloeddruk hoger is dan normaal.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Bloeddruk laag",
     "video": "/videos/Bloeddruk laag.mp4",
     "gif": "/gifs/Bloeddruk laag.gif",
     "lesson": 6,
-    "explanation": "Een medische aandoening waarbij de bloeddruk lager is dan normaal."
+    "explanation": "Een medische aandoening waarbij de bloeddruk lager is dan normaal.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Boek",
     "video": "/videos/Boek.mp4",
     "gif": "/gifs/Boek.gif",
     "lesson": 1,
-    "explanation": "Een verzameling beschreven of bedrukte vellen papier die samen zijn gebonden."
+    "explanation": "Een verzameling beschreven of bedrukte vellen papier die samen zijn gebonden.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Boos",
     "video": "/videos/Boos.mp4",
     "gif": "/gifs/Boos.gif",
     "lesson": 2,
-    "explanation": "Een gevoel van ergernis of woede."
+    "explanation": "Een gevoel van ergernis of woede.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Borst",
     "video": "/videos/Borst.mp4",
     "gif": "/gifs/Borst.gif",
     "lesson": 7,
-    "explanation": "Het voorste deel van het lichaam tussen de hals en de buik."
+    "explanation": "Het voorste deel van het lichaam tussen de hals en de buik.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Braken",
     "video": "/videos/Braken.mp4",
     "gif": "/gifs/Braken.gif",
     "lesson": 6,
-    "explanation": "Het krachtig uitstoten van de maaginhoud door de mond."
+    "explanation": "Het krachtig uitstoten van de maaginhoud door de mond.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Buik",
     "video": "/videos/Buik.mp4",
     "gif": "/gifs/Buik.gif",
     "lesson": 7,
-    "explanation": "Het deel van het lichaam tussen de borst en de benen."
+    "explanation": "Het deel van het lichaam tussen de borst en de benen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Chirurg",
     "video": "/videos/Chirurg.mp4",
     "gif": "/gifs/Chirurg.gif",
     "lesson": 6,
-    "explanation": "Een arts die gespecialiseerd is in operaties."
+    "explanation": "Een arts die gespecialiseerd is in operaties.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Cijfer",
     "video": "/videos/Cijfer.mp4",
     "gif": "/gifs/Cijfer.gif",
     "lesson": 4,
-    "explanation": "Een symbool dat een getal voorstelt."
+    "explanation": "Een symbool dat een getal voorstelt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Controle",
     "video": "/videos/Controle.mp4",
     "gif": "/gifs/Controle.gif",
     "lesson": 6,
-    "explanation": "Het beheersen of in de hand houden van iets."
+    "explanation": "Het beheersen of in de hand houden van iets.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Dag",
     "video": "/videos/Dag.mp4",
     "gif": "/gifs/Dag.gif",
     "lesson": 3,
-    "explanation": "De periode van 24 uur die nodig is voor de aarde om eenmaal om haar as te draaien."
+    "explanation": "De periode van 24 uur die nodig is voor de aarde om eenmaal om haar as te draaien.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Darmen",
     "video": "/videos/Darmen.mp4",
     "gif": "/gifs/Darmen.gif",
     "lesson": 7,
-    "explanation": "Een buisvormig orgaan in het spijsverteringsstelsel dat voedsel verteert en afvalstoffen verwijdert."
+    "explanation": "Een buisvormig orgaan in het spijsverteringsstelsel dat voedsel verteert en afvalstoffen verwijdert.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Datum",
     "video": "/videos/Datum.mp4",
     "gif": "/gifs/Datum.gif",
     "lesson": 3,
-    "explanation": "De aanduiding van een bepaalde dag in een kalender."
+    "explanation": "De aanduiding van een bepaalde dag in een kalender.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Dikke-darm",
     "video": "/videos/Dikke-darm.mp4",
     "gif": "/gifs/Dikke-darm.gif",
     "lesson": 7,
-    "explanation": "Het laatste deel van de darmen, waar water en zouten worden opgenomen."
+    "explanation": "Het laatste deel van de darmen, waar water en zouten worden opgenomen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Docent",
     "video": "/videos/Docent.mp4",
     "gif": "/gifs/Docent.gif",
     "lesson": 1,
-    "explanation": "Een persoon die lesgeeft, meestal aan een universiteit of hogeschool."
+    "explanation": "Een persoon die lesgeeft, meestal aan een universiteit of hogeschool.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Dochter",
     "video": "/videos/Dochter.mp4",
     "gif": "/gifs/Dochter.gif",
     "lesson": 5,
-    "explanation": "Een vrouwelijk kind."
+    "explanation": "Een vrouwelijk kind.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Doen",
     "video": "/videos/Doen.mp4",
     "gif": "/gifs/Doen.gif",
     "lesson": 2,
-    "explanation": "Een handeling verrichten."
+    "explanation": "Een handeling verrichten.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Dokter",
     "video": "/videos/Dokter.mp4",
     "gif": "/gifs/Dokter.gif",
     "lesson": 5,
-    "explanation": "Een persoon die is opgeleid om zieke of gewonde mensen te behandelen."
+    "explanation": "Een persoon die is opgeleid om zieke of gewonde mensen te behandelen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Doorverwijzen",
     "video": "/videos/Doorverwijzen.mp4",
     "gif": "/gifs/Doorverwijzen.gif",
     "lesson": 5,
-    "explanation": "Iemand naar een andere arts of specialist sturen."
+    "explanation": "Iemand naar een andere arts of specialist sturen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Drinken",
     "video": "/videos/Drinken.mp4",
     "gif": "/gifs/Drinken.gif",
     "lesson": 7,
-    "explanation": "Vloeistof tot zich nemen."
+    "explanation": "Vloeistof tot zich nemen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Duizelig",
     "video": "/videos/Duizelig.mp4",
     "gif": "/gifs/Duizelig.gif",
     "lesson": 6,
-    "explanation": "Een gevoel van draaierigheid of evenwichtsverlies."
+    "explanation": "Een gevoel van draaierigheid of evenwichtsverlies.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Dunne-darm",
     "video": "/videos/Dunne-darm.mp4",
     "gif": "/gifs/Dunne-darm.gif",
     "lesson": 7,
-    "explanation": "Het deel van de darmen waar de meeste voedingsstoffen worden opgenomen."
+    "explanation": "Het deel van de darmen waar de meeste voedingsstoffen worden opgenomen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Duur",
     "video": "/videos/Duur.mp4",
     "gif": "/gifs/Duur.gif",
     "lesson": 5,
-    "explanation": "Veel geld of tijd kostend."
+    "explanation": "Veel geld of tijd kostend.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Echo",
     "video": "/videos/Echo.mp4",
     "gif": "/gifs/Echo.gif",
     "lesson": 6,
-    "explanation": "Een onderzoek waarbij geluidsgolven worden gebruikt om beelden van het lichaam te maken."
+    "explanation": "Een onderzoek waarbij geluidsgolven worden gebruikt om beelden van het lichaam te maken.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Eerder",
     "video": "/videos/Eerder.mp4",
     "gif": "/gifs/Eerder.gif",
     "lesson": 4,
-    "explanation": "In een vroeger stadium."
+    "explanation": "In een vroeger stadium.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Eergisteren",
     "video": "/videos/Eergisteren.mp4",
     "gif": "/gifs/Eergisteren.gif",
     "lesson": 3,
-    "explanation": "De dag voor gisteren."
+    "explanation": "De dag voor gisteren.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Eerste hulp",
     "video": "/videos/Eerste hulp.mp4",
     "gif": "/gifs/Eerste hulp.gif",
     "lesson": 6,
-    "explanation": "De eerste medische hulp die wordt verleend bij een ongeluk of ziekte."
+    "explanation": "De eerste medische hulp die wordt verleend bij een ongeluk of ziekte.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Eierstokken",
     "video": "/videos/Eierstokken.mp4",
     "gif": "/gifs/Eierstokken.gif",
     "lesson": 7,
-    "explanation": "De vrouwelijke voortplantingsorganen die eicellen produceren."
+    "explanation": "De vrouwelijke voortplantingsorganen die eicellen produceren.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Elleboog",
     "video": "/videos/Elleboog.mp4",
     "gif": "/gifs/Elleboog.gif",
     "lesson": 7,
-    "explanation": "Het gewricht tussen de boven- en onderarm."
+    "explanation": "Het gewricht tussen de boven- en onderarm.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Endeldarm",
     "video": "/videos/Endeldarm.mp4",
     "gif": "/gifs/Endeldarm.gif",
     "lesson": 7,
-    "explanation": "Het laatste deel van de dikke darm, waar ontlasting wordt opgeslagen."
+    "explanation": "Het laatste deel van de dikke darm, waar ontlasting wordt opgeslagen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Enkel",
     "video": "/videos/Enkel.mp4",
     "gif": "/gifs/Enkel.gif",
     "lesson": 7,
-    "explanation": "Het gewricht tussen het onderbeen en de voet."
+    "explanation": "Het gewricht tussen het onderbeen en de voet.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Erge pijn",
     "video": "/videos/Erge pijn.mp4",
     "gif": "/gifs/Erge pijn.gif",
     "lesson": 6,
-    "explanation": "Intense, onaangename lichamelijke gewaarwording."
+    "explanation": "Intense, onaangename lichamelijke gewaarwording.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Eten",
     "video": "/videos/Eten.mp4",
     "gif": "/gifs/Eten.gif",
     "lesson": 7,
-    "explanation": "Voedsel tot zich nemen."
+    "explanation": "Voedsel tot zich nemen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Familie",
     "video": "/videos/Familie.mp4",
     "gif": "/gifs/Familie.gif",
     "lesson": 5,
-    "explanation": "Een groep mensen die door bloedverwantschap, huwelijk of adoptie met elkaar verbonden zijn."
+    "explanation": "Een groep mensen die door bloedverwantschap, huwelijk of adoptie met elkaar verbonden zijn.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Flauwvallen",
     "video": "/videos/Flauwvallen.mp4",
     "gif": "/gifs/Flauwvallen.gif",
     "lesson": 6,
-    "explanation": "Het bewustzijn verliezen als gevolg van een tijdelijke vermindering van de bloedtoevoer naar de hersenen."
+    "explanation": "Het bewustzijn verliezen als gevolg van een tijdelijke vermindering van de bloedtoevoer naar de hersenen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Gaan naar",
     "video": "/videos/Gaan naar.mp4",
     "gif": "/gifs/Gaan naar.gif",
     "lesson": 7,
-    "explanation": "Zich verplaatsen naar een bepaalde locatie."
+    "explanation": "Zich verplaatsen naar een bepaalde locatie.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Gaat het goed",
     "video": "/videos/Gaat het goed.mp4",
     "gif": "/gifs/Gaat het goed.gif",
     "lesson": 1,
-    "explanation": "Een vraag om te informeren naar iemands welzijn."
+    "explanation": "Een vraag om te informeren naar iemands welzijn.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Geboortedatum",
     "video": "/videos/Geboortedatum.mp4",
     "gif": "/gifs/Geboortedatum.gif",
     "lesson": 5,
-    "explanation": "De datum waarop iemand geboren is."
+    "explanation": "De datum waarop iemand geboren is.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Geboorteplaats",
     "video": "/videos/Geboorteplaats.mp4",
     "gif": "/gifs/Geboorteplaats.gif",
     "lesson": 5,
-    "explanation": "De plaats waar iemand geboren is."
+    "explanation": "De plaats waar iemand geboren is.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Geboren",
     "video": "/videos/Geboren.mp4",
     "gif": "/gifs/Geboren.gif",
     "lesson": 4,
-    "explanation": "Ter wereld gekomen zijn."
+    "explanation": "Ter wereld gekomen zijn.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Gebroken",
     "video": "/videos/Gebroken.mp4",
     "gif": "/gifs/Gebroken.gif",
     "lesson": 6,
-    "explanation": "In stukken uiteen gevallen."
+    "explanation": "In stukken uiteen gevallen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Gekneusd",
     "video": "/videos/Gekneusd.mp4",
     "gif": "/gifs/Gekneusd.gif",
     "lesson": 6,
-    "explanation": "Beschadigd door een stoot of slag, zonder dat de huid open is."
+    "explanation": "Beschadigd door een stoot of slag, zonder dat de huid open is.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Gelukt",
     "video": "/videos/Gelukt.mp4",
     "gif": "/gifs/Gelukt.gif",
     "lesson": 3,
-    "explanation": "Geslaagd, met succes uitgevoerd."
+    "explanation": "Geslaagd, met succes uitgevoerd.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Getrouwd",
     "video": "/videos/Getrouwd.mp4",
     "gif": "/gifs/Getrouwd.gif",
     "lesson": 5,
-    "explanation": "Door een huwelijk verbonden zijn."
+    "explanation": "Door een huwelijk verbonden zijn.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Geven",
     "video": "/videos/Geven.mp4",
     "gif": "/gifs/Geven.gif",
     "lesson": 2,
-    "explanation": "Iets aan iemand anders overhandigen."
+    "explanation": "Iets aan iemand anders overhandigen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Gezicht",
     "video": "/videos/Gezicht.mp4",
     "gif": "/gifs/Gezicht.gif",
     "lesson": 7,
-    "explanation": "Het voorste deel van het hoofd, van kin tot voorhoofd."
+    "explanation": "Het voorste deel van het hoofd, van kin tot voorhoofd.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Gezin",
     "video": "/videos/Gezin.mp4",
     "gif": "/gifs/Gezin.gif",
     "lesson": 5,
-    "explanation": "Een groep mensen die samenwonen en een sociale eenheid vormen, meestal bestaande uit ouders en kinderen."
+    "explanation": "Een groep mensen die samenwonen en een sociale eenheid vormen, meestal bestaande uit ouders en kinderen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Gezond (zijn)",
     "video": "/videos/Gezond (zijn).mp4",
     "gif": "/gifs/Gezond (zijn).gif",
     "lesson": 5,
-    "explanation": "In een goede lichamelijke en geestelijke toestand verkeren."
+    "explanation": "In een goede lichamelijke en geestelijke toestand verkeren.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Gips",
     "video": "/videos/Gips.mp4",
     "gif": "/gifs/Gips.gif",
     "lesson": 6,
-    "explanation": "Een materiaal dat wordt gebruikt om een gebroken bot te fixeren."
+    "explanation": "Een materiaal dat wordt gebruikt om een gebroken bot te fixeren.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Gisteren",
     "video": "/videos/Gisteren.mp4",
     "gif": "/gifs/Gisteren.gif",
     "lesson": 3,
-    "explanation": "De dag voor vandaag."
+    "explanation": "De dag voor vandaag.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Goed",
     "video": "/videos/Goed.mp4",
     "gif": "/gifs/Goed.gif",
     "lesson": 1,
-    "explanation": "Van hoge kwaliteit, juist, correct."
+    "explanation": "Van hoge kwaliteit, juist, correct.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Goedemorgen",
     "video": "/videos/Goede morgen.mp4",
     "gif": "/gifs/Goede morgen.gif",
     "lesson": 1,
-    "explanation": "Een begroeting die 's ochtends wordt gebruikt."
+    "explanation": "Een begroeting die 's ochtends wordt gebruikt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Goedeavond",
     "video": "/videos/Goedeavond.mp4",
     "gif": "/gifs/Goedeavond.gif",
     "lesson": 1,
-    "explanation": "Een begroeting die 's avonds wordt gebruikt."
+    "explanation": "Een begroeting die 's avonds wordt gebruikt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Goedemiddag",
     "video": "/videos/Goedemiddag.mp4",
     "gif": "/gifs/Goedemiddag.gif",
     "lesson": 1,
-    "explanation": "Een begroeting die in de middag wordt gebruikt."
+    "explanation": "Een begroeting die in de middag wordt gebruikt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Haar",
     "video": "/videos/Haar.mp4",
     "gif": "/gifs/Haar.gif",
     "lesson": 7,
-    "explanation": "Dunne, draadachtige structuren die op de huid groeien."
+    "explanation": "Dunne, draadachtige structuren die op de huid groeien.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Hallo",
     "video": "/videos/Hallo.mp4",
     "gif": "/gifs/Hallo.gif",
     "lesson": 1,
-    "explanation": "Een begroeting die wordt gebruikt om iemands aandacht te trekken."
+    "explanation": "Een begroeting die wordt gebruikt om iemands aandacht te trekken.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Hand",
     "video": "/videos/Hand.mp4",
     "gif": "/gifs/Hand.gif",
     "lesson": 7,
-    "explanation": "Het uiteinde van de arm, met vingers en duim."
+    "explanation": "Het uiteinde van de arm, met vingers en duim.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Hart",
     "video": "/videos/Hart.mp4",
     "gif": "/gifs/Hart.gif",
     "lesson": 7,
-    "explanation": "Een orgaan dat bloed door het lichaam pompt."
+    "explanation": "Een orgaan dat bloed door het lichaam pompt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Hebben",
     "video": "/videos/Hebben.mp4",
     "gif": "/gifs/Hebben.gif",
     "lesson": 2,
-    "explanation": "In bezit hebben, beschikken over."
+    "explanation": "In bezit hebben, beschikken over.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Hechten",
     "video": "/videos/Hechten.mp4",
     "gif": "/gifs/Hechten.gif",
     "lesson": 6,
-    "explanation": "Wonden sluiten met hechtdraad."
+    "explanation": "Wonden sluiten met hechtdraad.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Helpen",
     "video": "/videos/Helpen.mp4",
     "gif": "/gifs/Helpen.gif",
     "lesson": 2,
-    "explanation": "Iemand bijstaan, ondersteunen."
+    "explanation": "Iemand bijstaan, ondersteunen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Hersenen",
     "video": "/videos/Hersenen.mp4",
     "gif": "/gifs/Hersenen.gif",
     "lesson": 7,
-    "explanation": "Het orgaan in het hoofd dat het zenuwstelsel bestuurt."
+    "explanation": "Het orgaan in het hoofd dat het zenuwstelsel bestuurt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Hoe",
     "video": "/videos/Hoe.mp4",
     "gif": "/gifs/Hoe.gif",
     "lesson": 3,
-    "explanation": "Op welke manier."
+    "explanation": "Op welke manier.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Hoe laat",
     "video": "/videos/Hoe laat.mp4",
     "gif": "/gifs/Hoe laat.gif",
     "lesson": 3,
-    "explanation": "Op welk tijdstip."
+    "explanation": "Op welk tijdstip.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Hoe oud",
     "video": "/videos/Hoe oud.mp4",
     "gif": "/gifs/Hoe oud.gif",
     "lesson": 4,
-    "explanation": "Welke leeftijd."
+    "explanation": "Welke leeftijd.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Hoelang",
     "video": "/videos/Hoelang.mp4",
     "gif": "/gifs/Hoelang.gif",
     "lesson": 3,
-    "explanation": "Welke tijdsduur."
+    "explanation": "Welke tijdsduur.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Hoeveel",
     "video": "/videos/Hoeveel.mp4",
     "gif": "/gifs/Hoeveel.gif",
     "lesson": 3,
-    "explanation": "Welke hoeveelheid."
+    "explanation": "Welke hoeveelheid.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Honger",
     "video": "/videos/Honger.mp4",
     "gif": "/gifs/Honger.gif",
     "lesson": 7,
-    "explanation": "Het gevoel dat je moet eten."
+    "explanation": "Het gevoel dat je moet eten.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Hoofd",
     "video": "/videos/Hoofd.mp4",
     "gif": "/gifs/Hoofd.gif",
     "lesson": 7,
-    "explanation": "Het bovenste deel van het lichaam."
+    "explanation": "Het bovenste deel van het lichaam.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Hoofdpijn",
     "video": "/videos/Hoofdpijn.mp4",
     "gif": "/gifs/Hoofdpijn.gif",
     "lesson": 6,
-    "explanation": "Pijn in het hoofd."
+    "explanation": "Pijn in het hoofd.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Horloge",
     "video": "/videos/Horloge.mp4",
     "gif": "/gifs/Horloge.gif",
     "lesson": 4,
-    "explanation": "Een draagbaar instrument om de tijd te meten."
+    "explanation": "Een draagbaar instrument om de tijd te meten.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Huid",
     "video": "/videos/Huid.mp4",
     "gif": "/gifs/Huid.gif",
     "lesson": 7,
-    "explanation": "De buitenste laag van het lichaam."
+    "explanation": "De buitenste laag van het lichaam.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Huis",
     "video": "/videos/Huis.mp4",
     "gif": "/gifs/Huis.gif",
     "lesson": 7,
-    "explanation": "Een gebouw om in te wonen."
+    "explanation": "Een gebouw om in te wonen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Huisarts",
     "video": "/videos/Huisarts.mp4",
     "gif": "/gifs/Huisarts.gif",
     "lesson": 5,
-    "explanation": "Een arts die algemene medische zorg verleent."
+    "explanation": "Een arts die algemene medische zorg verleent.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Huiswerk",
     "video": "/videos/Huiswerk.mp4",
     "gif": "/gifs/Huiswerk.gif",
     "lesson": 1,
-    "explanation": "Werk dat leerlingen thuis moeten maken."
+    "explanation": "Werk dat leerlingen thuis moeten maken.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Ik begrijp het",
     "video": "/videos/Ik begrijp het.mp4",
     "gif": "/gifs/Ik begrijp het.gif",
     "lesson": 2,
-    "explanation": "Ik ben het eens met wat je zegt."
+    "explanation": "Ik ben het eens met wat je zegt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Ik begrijp het niet",
     "video": "/videos/Ik begrijp het niet.mp4",
     "gif": "/gifs/Ik begrijp het niet.gif",
     "lesson": 2,
-    "explanation": "Ik ben het niet eens met wat je zegt."
+    "explanation": "Ik ben het niet eens met wat je zegt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Infuus",
     "video": "/videos/Infuus.mp4",
     "gif": "/gifs/Infuus.gif",
     "lesson": 6,
-    "explanation": "Het toedienen van vloeistoffen rechtstreeks in een ader."
+    "explanation": "Het toedienen van vloeistoffen rechtstreeks in een ader.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Jaar",
     "video": "/videos/Jaar.mp4",
     "gif": "/gifs/Jaar.gif",
     "lesson": 3,
-    "explanation": "Een periode van 365 dagen."
+    "explanation": "Een periode van 365 dagen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Jammer",
     "video": "/videos/Jammer.mp4",
     "gif": "/gifs/Jammer.gif",
     "lesson": 2,
-    "explanation": "Spijtig, vervelend."
+    "explanation": "Spijtig, vervelend.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Jarig",
     "video": "/videos/Jarig.mp4",
     "gif": "/gifs/Jarig.gif",
     "lesson": 4,
-    "explanation": "Op de verjaardag."
+    "explanation": "Op de verjaardag.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Jeuk",
     "video": "/videos/Jeuk.mp4",
     "gif": "/gifs/Jeuk.gif",
     "lesson": 6,
-    "explanation": "Een onaangenaam gevoel dat aanzet tot krabben."
+    "explanation": "Een onaangenaam gevoel dat aanzet tot krabben.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Keel",
     "video": "/videos/Keel.mp4",
     "gif": "/gifs/Keel.gif",
     "lesson": 7,
-    "explanation": "Het deel van het lichaam achter de mond."
+    "explanation": "Het deel van het lichaam achter de mond.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Kijken",
     "video": "/videos/Kijken.mp4",
     "gif": "/gifs/Kijken.gif",
     "lesson": 2,
-    "explanation": "De ogen richten op iets."
+    "explanation": "De ogen richten op iets.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Kind",
     "video": "/videos/Kind.mp4",
     "gif": "/gifs/Kind.gif",
     "lesson": 5,
-    "explanation": "Een jonge persoon."
+    "explanation": "Een jonge persoon.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Kinderen",
     "video": "/videos/Kinderen.mp4",
     "gif": "/gifs/Kinderen.gif",
     "lesson": 5,
-    "explanation": "Meervoud van kind."
+    "explanation": "Meervoud van kind.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Klaar",
     "video": "/videos/Klaar.mp4",
     "gif": "/gifs/Klaar.gif",
     "lesson": 1,
-    "explanation": "Voltooid, beëindigd."
+    "explanation": "Voltooid, beëindigd.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Klacht",
     "video": "/videos/Klacht.mp4",
     "gif": "/gifs/Klacht.gif",
     "lesson": 5,
-    "explanation": "Een uiting van ontevredenheid."
+    "explanation": "Een uiting van ontevredenheid.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Klok",
     "video": "/videos/Klok.mp4",
     "gif": "/gifs/Klok.gif",
     "lesson": 4,
-    "explanation": "Een instrument dat de tijd aangeeft."
+    "explanation": "Een instrument dat de tijd aangeeft.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Klopt",
     "video": "/videos/Klopt.mp4",
     "gif": "/gifs/Klopt.gif",
     "lesson": 2,
-    "explanation": "Correct, waar."
+    "explanation": "Correct, waar.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Klopt niet",
     "video": "/videos/Klopt niet.mp4",
     "gif": "/gifs/Klopt niet.gif",
     "lesson": 2,
-    "explanation": "Incorrect, niet waar."
+    "explanation": "Incorrect, niet waar.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Knie",
     "video": "/videos/Knie.mp4",
     "gif": "/gifs/Knie.gif",
     "lesson": 7,
-    "explanation": "Het gewricht tussen het boven- en onderbeen."
+    "explanation": "Het gewricht tussen het boven- en onderbeen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Koffie",
     "video": "/videos/Koffie.mp4",
     "gif": "/gifs/Koffie.gif",
     "lesson": 1,
-    "explanation": "Een warme drank gemaakt van koffiebonen."
+    "explanation": "Een warme drank gemaakt van koffiebonen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Komt goed",
     "video": "/videos/Komt goed.mp4",
     "gif": "/gifs/Komt goed.gif",
     "lesson": 7,
-    "explanation": "Het zal in orde komen."
+    "explanation": "Het zal in orde komen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Koorts",
     "video": "/videos/Koorts.mp4",
     "gif": "/gifs/Koorts.gif",
     "lesson": 6,
-    "explanation": "Een verhoging van de lichaamstemperatuur."
+    "explanation": "Een verhoging van de lichaamstemperatuur.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Koud",
     "video": "/videos/Koud.mp4",
     "gif": "/gifs/Koud.gif",
     "lesson": 6,
-    "explanation": "Een lage temperatuur."
+    "explanation": "Een lage temperatuur.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Kunnen",
     "video": "/videos/Kunnen.mp4",
     "gif": "/gifs/Kunnen.gif",
     "lesson": 2,
-    "explanation": "In staat zijn tot."
+    "explanation": "In staat zijn tot.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Later",
     "video": "/videos/Later.mp4",
     "gif": "/gifs/Later.gif",
     "lesson": 4,
-    "explanation": "Op een later tijdstip."
+    "explanation": "Op een later tijdstip.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Leren",
     "video": "/videos/Leren.mp4",
     "gif": "/gifs/Leren.gif",
     "lesson": 2,
-    "explanation": "Kennis of vaardigheden verwerven."
+    "explanation": "Kennis of vaardigheden verwerven.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Les",
     "video": "/videos/Les.mp4",
     "gif": "/gifs/Les.gif",
     "lesson": 1,
-    "explanation": "Een onderwijsbijeenkomst."
+    "explanation": "Een onderwijsbijeenkomst.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Leuk",
     "video": "/videos/Leuk.mp4",
     "gif": "/gifs/Leuk.gif",
     "lesson": 2,
-    "explanation": "Aangenaam, plezierig."
+    "explanation": "Aangenaam, plezierig.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Lever",
     "video": "/videos/Lever.mp4",
     "gif": "/gifs/Lever.gif",
     "lesson": 7,
-    "explanation": "Een groot orgaan in de buikholte."
+    "explanation": "Een groot orgaan in de buikholte.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Lezen",
     "video": "/videos/Lezen.mp4",
     "gif": "/gifs/Lezen.gif",
     "lesson": 2,
-    "explanation": "Geschreven tekst begrijpen."
+    "explanation": "Geschreven tekst begrijpen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Lokaal",
     "video": "/videos/Lokaal.mp4",
     "gif": "/gifs/Lokaal.gif",
     "lesson": 1,
-    "explanation": "Plaatselijk, in de buurt."
+    "explanation": "Plaatselijk, in de buurt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Longen",
     "video": "/videos/Longen.mp4",
     "gif": "/gifs/Longen.gif",
     "lesson": 7,
-    "explanation": "Organen in de borstkas die zorgen voor de ademhaling."
+    "explanation": "Organen in de borstkas die zorgen voor de ademhaling.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Lopen",
     "video": "/videos/Lopen.mp4",
     "gif": "/gifs/Lopen.gif",
     "lesson": 6,
-    "explanation": "Zich voortbewegen te voet."
+    "explanation": "Zich voortbewegen te voet.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Maag",
     "video": "/videos/Maag.mp4",
     "gif": "/gifs/Maag.gif",
     "lesson": 7,
-    "explanation": "Een orgaan in de buikholte waar voedsel wordt verteerd."
+    "explanation": "Een orgaan in de buikholte waar voedsel wordt verteerd.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Maakt niet uit",
     "video": "/videos/Maakt niet uit.mp4",
     "gif": "/gifs/Maakt niet uit.gif",
     "lesson": 3,
-    "explanation": "Het is niet belangrijk."
+    "explanation": "Het is niet belangrijk.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Maand",
     "video": "/videos/Maand.mp4",
     "gif": "/gifs/Maand.gif",
     "lesson": 3,
-    "explanation": "Een periode van ongeveer 30 dagen."
+    "explanation": "Een periode van ongeveer 30 dagen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Mag niet",
     "video": "/videos/Mag niet.mp4",
     "gif": "/gifs/Mag niet.gif",
     "lesson": 7,
-    "explanation": "Het is niet toegestaan."
+    "explanation": "Het is niet toegestaan.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Mag wel",
     "video": "/videos/Mag wel.mp4",
     "gif": "/gifs/Mag wel.gif",
     "lesson": 7,
-    "explanation": "Het is toegestaan."
+    "explanation": "Het is toegestaan.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Makkelijk",
     "video": "/videos/Makkelijk.mp4",
     "gif": "/gifs/Makkelijk.gif",
     "lesson": 1,
-    "explanation": "Niet moeilijk."
+    "explanation": "Niet moeilijk.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Mammografie",
     "video": "/videos/Mammografie.mp4",
     "gif": "/gifs/Mammografie.gif",
     "lesson": 6,
-    "explanation": "Een röntgenfoto van de borst."
+    "explanation": "Een röntgenfoto van de borst.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Man (platonisch)",
     "video": "/videos/Man (platonisch).mp4",
     "gif": "/gifs/Man (platonisch).gif",
     "lesson": 5,
-    "explanation": "Een volwassen persoon van het mannelijk geslacht (zonder romantische connotatie)."
+    "explanation": "Een volwassen persoon van het mannelijk geslacht (zonder romantische connotatie).",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Man (relatie)",
     "video": "/videos/Man (relatie).mp4",
     "gif": "/gifs/Man (relatie).gif",
     "lesson": 5,
-    "explanation": "Een partner in een romantische relatie."
+    "explanation": "Een partner in een romantische relatie.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Medicijnen",
     "video": "/videos/Medicijnen.mp4",
     "gif": "/gifs/Medicijnen.gif",
     "lesson": 5,
-    "explanation": "Stoffen die worden gebruikt om ziekten te genezen of te voorkomen."
+    "explanation": "Stoffen die worden gebruikt om ziekten te genezen of te voorkomen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Meenemen",
     "video": "/videos/Meenemen.mp4",
     "gif": "/gifs/Meenemen.gif",
     "lesson": 1,
-    "explanation": "Iets of iemand met zich meedragen."
+    "explanation": "Iets of iemand met zich meedragen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Middag",
     "video": "/videos/Middag.mp4",
     "gif": "/gifs/Middag.gif",
     "lesson": 3,
-    "explanation": "De periode tussen 12.00 uur en de avond."
+    "explanation": "De periode tussen 12.00 uur en de avond.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Misselijk",
     "video": "/videos/Misselijk.mp4",
     "gif": "/gifs/Misselijk.gif",
     "lesson": 6,
-    "explanation": "Een gevoel van onbehagen in de maag, met de neiging tot overgeven."
+    "explanation": "Een gevoel van onbehagen in de maag, met de neiging tot overgeven.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Moeder",
     "video": "/videos/Moeder.mp4",
     "gif": "/gifs/Moeder.gif",
     "lesson": 5,
-    "explanation": "Een vrouwelijke ouder."
+    "explanation": "Een vrouwelijke ouder.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Moeilijk",
     "video": "/videos/Moeilijk.mp4",
     "gif": "/gifs/Moeilijk.gif",
     "lesson": 1,
-    "explanation": "Niet gemakkelijk, lastig."
+    "explanation": "Niet gemakkelijk, lastig.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Mond",
     "video": "/videos/Mond.mp4",
     "gif": "/gifs/Mond.gif",
     "lesson": 7,
-    "explanation": "De opening in het gezicht waardoor voedsel wordt ingenomen."
+    "explanation": "De opening in het gezicht waardoor voedsel wordt ingenomen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Morgen",
     "video": "/videos/Morgen.mp4",
     "gif": "/gifs/Morgen.gif",
     "lesson": 3,
-    "explanation": "De dag na vandaag."
+    "explanation": "De dag na vandaag.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Naam",
     "video": "/videos/Naam.mp4",
     "gif": "/gifs/Naam.gif",
     "lesson": 1,
-    "explanation": "Een woord of combinatie van woorden waarmee een persoon, plaats of ding wordt aangeduid."
+    "explanation": "Een woord of combinatie van woorden waarmee een persoon, plaats of ding wordt aangeduid.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Nacht",
     "video": "/videos/Nacht.mp4",
     "gif": "/gifs/Nacht.gif",
     "lesson": 3,
-    "explanation": "De periode van duisternis tussen zonsondergang en zonsopgang."
+    "explanation": "De periode van duisternis tussen zonsondergang en zonsopgang.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Nadenken",
     "video": "/videos/Nadenken.mp4",
     "gif": "/gifs/Nadenken.gif",
     "lesson": 3,
-    "explanation": "De geest gebruiken om iets te overwegen."
+    "explanation": "De geest gebruiken om iets te overwegen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Nagel",
     "video": "/videos/Nagel.mp4",
     "gif": "/gifs/Nagel.gif",
     "lesson": 7,
-    "explanation": "Een harde, beschermende laag op de vingers en tenen."
+    "explanation": "Een harde, beschermende laag op de vingers en tenen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Narcose",
     "video": "/videos/Narcose.mp4",
     "gif": "/gifs/Narcose.gif",
     "lesson": 6,
-    "explanation": "Een toestand van bewusteloosheid die wordt veroorzaakt door medicijnen."
+    "explanation": "Een toestand van bewusteloosheid die wordt veroorzaakt door medicijnen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Nek",
     "video": "/videos/Nek.mp4",
     "gif": "/gifs/Nek.gif",
     "lesson": 7,
-    "explanation": "Het deel van het lichaam dat het hoofd met de romp verbindt."
+    "explanation": "Het deel van het lichaam dat het hoofd met de romp verbindt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Neus",
     "video": "/videos/Neus.mp4",
     "gif": "/gifs/Neus.gif",
     "lesson": 7,
-    "explanation": "Een orgaan in het gezicht dat wordt gebruikt om te ruiken en te ademen."
+    "explanation": "Een orgaan in het gezicht dat wordt gebruikt om te ruiken en te ademen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Nooit",
     "video": "/videos/Nooit.mp4",
     "gif": "/gifs/Nooit.gif",
     "lesson": 4,
-    "explanation": "Op geen enkel moment."
+    "explanation": "Op geen enkel moment.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Nu",
     "video": "/videos/Nu.mp4",
     "gif": "/gifs/Nu.gif",
     "lesson": 1,
-    "explanation": "Op dit moment."
+    "explanation": "Op dit moment.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Nuchtere maag",
     "video": "/videos/Nuchtere maag.mp4",
     "gif": "/gifs/Nuchtere maag.gif",
     "lesson": 6,
-    "explanation": "Een lege maag, meestal 's ochtends voor het ontbijt."
+    "explanation": "Een lege maag, meestal 's ochtends voor het ontbijt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Ochtend",
     "video": "/videos/Ochtend.mp4",
     "gif": "/gifs/Ochtend.gif",
     "lesson": 3,
-    "explanation": "Het deel van de dag tussen zonsopgang en de middag."
+    "explanation": "Het deel van de dag tussen zonsopgang en de middag.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Oefenen",
     "video": "/videos/Oefenen.mp4",
     "gif": "/gifs/Oefenen.gif",
     "lesson": 2,
-    "explanation": "Herhaaldelijk iets doen om vaardigheid te verwerven."
+    "explanation": "Herhaaldelijk iets doen om vaardigheid te verwerven.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "OK",
     "video": "/videos/OK.mp4",
     "gif": "/gifs/OK.gif",
     "lesson": 1,
-    "explanation": "Goed, in orde."
+    "explanation": "Goed, in orde.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Onderzoek",
     "video": "/videos/Onderzoek.mp4",
     "gif": "/gifs/Onderzoek.gif",
     "lesson": 6,
-    "explanation": "Een systematische studie van een onderwerp."
+    "explanation": "Een systematische studie van een onderwerp.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Onthouden",
     "video": "/videos/Onthouden.mp4",
     "gif": "/gifs/Onthouden.gif",
     "lesson": 2,
-    "explanation": "In het geheugen bewaren."
+    "explanation": "In het geheugen bewaren.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Ontspannen",
     "video": "/videos/Ontspannen.mp4",
     "gif": "/gifs/Ontspannen.gif",
     "lesson": 6,
-    "explanation": "Vrij van spanning of stress."
+    "explanation": "Vrij van spanning of stress.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Oog",
     "video": "/videos/Oog.mp4",
     "gif": "/gifs/Oog.gif",
     "lesson": 7,
-    "explanation": "Een orgaan dat wordt gebruikt om te zien."
+    "explanation": "Een orgaan dat wordt gebruikt om te zien.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Ook",
     "video": "/videos/Ook.mp4",
     "gif": "/gifs/Ook.gif",
     "lesson": 1,
-    "explanation": "Daarnaast, eveneens."
+    "explanation": "Daarnaast, eveneens.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Oor",
     "video": "/videos/Oor.mp4",
     "gif": "/gifs/Oor.gif",
     "lesson": 7,
-    "explanation": "Een orgaan dat wordt gebruikt om te horen."
+    "explanation": "Een orgaan dat wordt gebruikt om te horen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Oorzaak",
     "video": "/videos/Oorzaak.mp4",
     "gif": "/gifs/Oorzaak.gif",
     "lesson": 5,
-    "explanation": "De reden waarom iets gebeurt."
+    "explanation": "De reden waarom iets gebeurt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Opdracht",
     "video": "/videos/Opdracht.mp4",
     "gif": "/gifs/Opdracht.gif",
     "lesson": 1,
-    "explanation": "Een taak die moet worden uitgevoerd."
+    "explanation": "Een taak die moet worden uitgevoerd.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Operatie",
     "video": "/videos/Operatie.mp4",
     "gif": "/gifs/Operatie.gif",
     "lesson": 6,
-    "explanation": "Een medische ingreep waarbij in het lichaam wordt gesneden."
+    "explanation": "Een medische ingreep waarbij in het lichaam wordt gesneden.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Opgelucht",
     "video": "/videos/Opgelucht.mp4",
     "gif": "/gifs/Opgelucht.gif",
     "lesson": 2,
-    "explanation": "Bevrijd van angst of bezorgdheid."
+    "explanation": "Bevrijd van angst of bezorgdheid.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Opnieuw",
     "video": "/videos/Opnieuw.mp4",
     "gif": "/gifs/Opnieuw.gif",
     "lesson": 2,
-    "explanation": "Nog een keer."
+    "explanation": "Nog een keer.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Opruimen",
     "video": "/videos/Opruimen.mp4",
     "gif": "/gifs/Opruimen.gif",
     "lesson": 2,
-    "explanation": "Dingen terugbrengen naar hun oorspronkelijke plaats."
+    "explanation": "Dingen terugbrengen naar hun oorspronkelijke plaats.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Orgaan",
     "video": "/videos/Orgaan.mp4",
     "gif": "/gifs/Orgaan.gif",
     "lesson": 7,
-    "explanation": "Een deel van het lichaam met een specifieke functie."
+    "explanation": "Een deel van het lichaam met een specifieke functie.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Ouders",
     "video": "/videos/Ouders.mp4",
     "gif": "/gifs/Ouders.gif",
     "lesson": 5,
-    "explanation": "De vader en moeder van een kind."
+    "explanation": "De vader en moeder van een kind.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Over gaan",
     "video": "/videos/Over gaan.mp4",
     "gif": "/gifs/Over gaan.gif",
     "lesson": 7,
-    "explanation": "Veranderen van onderwerp of situatie."
+    "explanation": "Veranderen van onderwerp of situatie.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Overleden",
     "video": "/videos/Overleden.mp4",
     "gif": "/gifs/Overleden.gif",
     "lesson": 7,
-    "explanation": "Gestorven zijn."
+    "explanation": "Gestorven zijn.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Overmorgen",
     "video": "/videos/Overmorgen.mp4",
     "gif": "/gifs/Overmorgen.gif",
     "lesson": 3,
-    "explanation": "De dag na morgen."
+    "explanation": "De dag na morgen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Patiënt",
     "video": "/videos/Patiënt.mp4",
     "gif": "/gifs/Patiënt.gif",
     "lesson": 5,
-    "explanation": "Iemand die medische zorg ontvangt."
+    "explanation": "Iemand die medische zorg ontvangt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Pauze",
     "video": "/videos/Pauze.mp4",
     "gif": "/gifs/Pauze.gif",
     "lesson": 1,
-    "explanation": "Een korte onderbreking."
+    "explanation": "Een korte onderbreking.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Penis",
     "video": "/videos/Penis.mp4",
     "gif": "/gifs/Penis.gif",
     "lesson": 7,
-    "explanation": "Het mannelijke geslachtsorgaan."
+    "explanation": "Het mannelijke geslachtsorgaan.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Pijn",
     "video": "/videos/Pijn.mp4",
     "gif": "/gifs/Pijn.gif",
     "lesson": 6,
-    "explanation": "Een onaangenaam lichamelijk gevoel."
+    "explanation": "Een onaangenaam lichamelijk gevoel.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Plassen",
     "video": "/videos/Plassen.mp4",
     "gif": "/gifs/Plassen.gif",
     "lesson": 6,
-    "explanation": "Urine lozen."
+    "explanation": "Urine lozen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Poepen",
     "video": "/videos/Poepen.mp4",
     "gif": "/gifs/Poepen.gif",
     "lesson": 6,
-    "explanation": "Ontlasting lozen."
+    "explanation": "Ontlasting lozen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Pols",
     "video": "/videos/Pols.mp4",
     "gif": "/gifs/Pols.gif",
     "lesson": 7,
-    "explanation": "Het gewricht tussen de hand en de onderarm."
+    "explanation": "Het gewricht tussen de hand en de onderarm.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Prima",
     "video": "/videos/Prima.mp4",
     "gif": "/gifs/Prima.gif",
     "lesson": 1,
-    "explanation": "Uitstekend, heel goed."
+    "explanation": "Uitstekend, heel goed.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Proberen",
     "video": "/videos/Proberen.mp4",
     "gif": "/gifs/Proberen.gif",
     "lesson": 2,
-    "explanation": "Een poging wagen."
+    "explanation": "Een poging wagen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Probleem",
     "video": "/videos/Probleem.mp4",
     "gif": "/gifs/Probleem.gif",
     "lesson": 5,
-    "explanation": "Een moeilijkheid of vraagstuk."
+    "explanation": "Een moeilijkheid of vraagstuk.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Recept",
     "video": "/videos/Recept.mp4",
     "gif": "/gifs/Recept.gif",
     "lesson": 5,
-    "explanation": "Een beschrijving van hoe een gerecht moet worden bereid."
+    "explanation": "Een beschrijving van hoe een gerecht moet worden bereid.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Ribben",
     "video": "/videos/Ribben.mp4",
     "gif": "/gifs/Ribben.gif",
     "lesson": 7,
-    "explanation": "De botten die de borstkas beschermen."
+    "explanation": "De botten die de borstkas beschermen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Röntgenfoto",
     "video": "/videos/Röntgenfoto.mp4",
     "gif": "/gifs/Röntgenfoto.gif",
     "lesson": 6,
-    "explanation": "Een foto gemaakt met röntgenstralen."
+    "explanation": "Een foto gemaakt met röntgenstralen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Rug",
     "video": "/videos/Rug.mp4",
     "gif": "/gifs/Rug.gif",
     "lesson": 7,
-    "explanation": "De achterkant van het lichaam."
+    "explanation": "De achterkant van het lichaam.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Rustig",
     "video": "/videos/Rustig.mp4",
     "gif": "/gifs/Rustig.gif",
     "lesson": 7,
-    "explanation": "Kalm, zonder haast."
+    "explanation": "Kalm, zonder haast.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Samenwonen",
     "video": "/videos/Samenwonen.mp4",
     "gif": "/gifs/Samenwonen.gif",
     "lesson": 5,
-    "explanation": "Met iemand anders in hetzelfde huis wonen."
+    "explanation": "Met iemand anders in hetzelfde huis wonen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Schouder",
     "video": "/videos/Schouder.mp4",
     "gif": "/gifs/Schouder.gif",
     "lesson": 7,
-    "explanation": "Het gewricht tussen de arm en de romp."
+    "explanation": "Het gewricht tussen de arm en de romp.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Schrijven",
     "video": "/videos/Schrijven.mp4",
     "gif": "/gifs/Schrijven.gif",
     "lesson": 2,
-    "explanation": "Letters of woorden op papier zetten."
+    "explanation": "Letters of woorden op papier zetten.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Slapen",
     "video": "/videos/Slapen.mp4",
     "gif": "/gifs/Slapen.gif",
     "lesson": 6,
-    "explanation": "In een toestand van rust zijn, met gesloten ogen."
+    "explanation": "In een toestand van rust zijn, met gesloten ogen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Slecht",
     "video": "/videos/Slecht.mp4",
     "gif": "/gifs/Slecht.gif",
     "lesson": 6,
-    "explanation": "Niet goed, van lage kwaliteit."
+    "explanation": "Niet goed, van lage kwaliteit.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Slokdarm",
     "video": "/videos/Slokdarm.mp4",
     "gif": "/gifs/Slokdarm.gif",
     "lesson": 7,
-    "explanation": "De buis die de mond met de maag verbindt."
+    "explanation": "De buis die de mond met de maag verbindt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Sorry",
     "video": "/videos/Sorry.mp4",
     "gif": "/gifs/Sorry.gif",
     "lesson": 2,
-    "explanation": "Een uiting van spijt."
+    "explanation": "Een uiting van spijt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Spannend",
     "video": "/videos/Spannend.mp4",
     "gif": "/gifs/Spannend.gif",
     "lesson": 2,
-    "explanation": "Opwindend, vol spanning."
+    "explanation": "Opwindend, vol spanning.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Specialist",
     "video": "/videos/Specialist.mp4",
     "gif": "/gifs/Specialist.gif",
     "lesson": 6,
-    "explanation": "Iemand die deskundig is op een bepaald gebied."
+    "explanation": "Iemand die deskundig is op een bepaald gebied.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Spier",
     "video": "/videos/Spier.mp4",
     "gif": "/gifs/Spier.gif",
     "lesson": 7,
-    "explanation": "Een weefsel dat samentrekt om beweging mogelijk te maken."
+    "explanation": "Een weefsel dat samentrekt om beweging mogelijk te maken.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Student",
     "video": "/videos/Student.mp4",
     "gif": "/gifs/Student.gif",
     "lesson": 1,
-    "explanation": "Iemand die studeert aan een onderwijsinstelling."
+    "explanation": "Iemand die studeert aan een onderwijsinstelling.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Suikerziekte",
     "video": "/videos/Suikerziekte.mp4",
     "gif": "/gifs/Suikerziekte.gif",
     "lesson": 7,
-    "explanation": "Een chronische ziekte waarbij het lichaam moeite heeft met het reguleren van de bloedsuikerspiegel."
+    "explanation": "Een chronische ziekte waarbij het lichaam moeite heeft met het reguleren van de bloedsuikerspiegel.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Tand",
     "video": "/videos/Tand.mp4",
     "gif": "/gifs/Tand.gif",
     "lesson": 7,
-    "explanation": "Een hard, benig orgaan in de mond dat wordt gebruikt om te kauwen."
+    "explanation": "Een hard, benig orgaan in de mond dat wordt gebruikt om te kauwen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Tandarts",
     "video": "/videos/Tandarts.mp4",
     "gif": "/gifs/Tandarts.gif",
     "lesson": 5,
-    "explanation": "Een arts die gespecialiseerd is in de zorg voor tanden en tandvlees."
+    "explanation": "Een arts die gespecialiseerd is in de zorg voor tanden en tandvlees.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Teen",
     "video": "/videos/Teen.mp4",
     "gif": "/gifs/Teen.gif",
     "lesson": 7,
-    "explanation": "Een van de cijfers aan de voet."
+    "explanation": "Een van de cijfers aan de voet.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Telefoonnummer",
     "video": "/videos/Telefoonnummer.mp4",
     "gif": "/gifs/Telefoonnummer.gif",
     "lesson": 5,
-    "explanation": "Een reeks cijfers die wordt gebruikt om een telefoon te bellen."
+    "explanation": "Een reeks cijfers die wordt gebruikt om een telefoon te bellen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Tellen",
     "video": "/videos/Tellen.mp4",
     "gif": "/gifs/Tellen.gif",
     "lesson": 4,
-    "explanation": "De hoeveelheid van iets bepalen door het te tellen."
+    "explanation": "De hoeveelheid van iets bepalen door het te tellen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Temperatuur",
     "video": "/videos/Temperatuur.mp4",
     "gif": "/gifs/Temperatuur.gif",
     "lesson": 6,
-    "explanation": "De mate van warmte of koude van een object of omgeving."
+    "explanation": "De mate van warmte of koude van een object of omgeving.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Terug (komen)",
     "video": "/videos/Terug (komen).mp4",
     "gif": "/gifs/Terug (komen).gif",
     "lesson": 3,
-    "explanation": "Weer naar de oorspronkelijke plaats gaan."
+    "explanation": "Weer naar de oorspronkelijke plaats gaan.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Thee",
     "video": "/videos/Thee.mp4",
     "gif": "/gifs/Thee.gif",
     "lesson": 1,
-    "explanation": "Een warme drank gemaakt van theebladeren."
+    "explanation": "Een warme drank gemaakt van theebladeren.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Therapie",
     "video": "/videos/Therapie.mp4",
     "gif": "/gifs/Therapie.gif",
     "lesson": 6,
-    "explanation": "Behandeling van een ziekte of aandoening."
+    "explanation": "Behandeling van een ziekte of aandoening.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Thuis",
     "video": "/videos/Thuis.mp4",
     "gif": "/gifs/Thuis.gif",
     "lesson": 1,
-    "explanation": "De plaats waar iemand woont."
+    "explanation": "De plaats waar iemand woont.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Tiet (vrouw)",
     "video": "/videos/Tiet (vrouw).mp4",
     "gif": "/gifs/Tiet (vrouw).gif",
     "lesson": 7,
-    "explanation": "Een borst van een vrouw."
+    "explanation": "Een borst van een vrouw.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Tijd",
     "video": "/videos/Tijd.mp4",
     "gif": "/gifs/Tijd.gif",
     "lesson": 4,
-    "explanation": "Een meetbare periode waarin gebeurtenissen plaatsvinden."
+    "explanation": "Een meetbare periode waarin gebeurtenissen plaatsvinden.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Tot ziens",
     "video": "/videos/Tot ziens.mp4",
     "gif": "/gifs/Tot ziens.gif",
     "lesson": 1,
-    "explanation": "Een afscheidsgroet."
+    "explanation": "Een afscheidsgroet.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Uitleggen",
     "video": "/videos/Uitleggen.mp4",
     "gif": "/gifs/Uitleggen.gif",
     "lesson": 1,
-    "explanation": "Iets duidelijk maken door het te beschrijven."
+    "explanation": "Iets duidelijk maken door het te beschrijven.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Uitslag",
     "video": "/videos/Uitslag.mp4",
     "gif": "/gifs/Uitslag.gif",
     "lesson": 6,
-    "explanation": "Een reactie van de huid op irritatie of allergie."
+    "explanation": "Een reactie van de huid op irritatie of allergie.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vader",
     "video": "/videos/Vader.mp4",
     "gif": "/gifs/Vader.gif",
     "lesson": 5,
-    "explanation": "Een mannelijke ouder."
+    "explanation": "Een mannelijke ouder.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vagina",
     "video": "/videos/Vagina.mp4",
     "gif": "/gifs/Vagina.gif",
     "lesson": 7,
-    "explanation": "Het vrouwelijke geslachtsorgaan."
+    "explanation": "Het vrouwelijke geslachtsorgaan.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vanavond",
     "video": "/videos/Vanavond.mp4",
     "gif": "/gifs/Vanavond.gif",
     "lesson": 3,
-    "explanation": "De avond van de huidige dag."
+    "explanation": "De avond van de huidige dag.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vandaag",
     "video": "/videos/Vandaag.mp4",
     "gif": "/gifs/Vandaag.gif",
     "lesson": 3,
-    "explanation": "De huidige dag."
+    "explanation": "De huidige dag.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vanmiddag",
     "video": "/videos/Vanmiddag.mp4",
     "gif": "/gifs/Vanmiddag.gif",
     "lesson": 3,
-    "explanation": "Het deel van de dag tussen de middag en de avond."
+    "explanation": "Het deel van de dag tussen de middag en de avond.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vannacht",
     "video": "/videos/Vannacht.mp4",
     "gif": "/gifs/Vannacht.gif",
     "lesson": 3,
-    "explanation": "De nacht van de huidige dag."
+    "explanation": "De nacht van de huidige dag.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vanochtend",
     "video": "/videos/Vanochtend.mp4",
     "gif": "/gifs/Vanochtend.gif",
     "lesson": 3,
-    "explanation": "De ochtend van de huidige dag."
+    "explanation": "De ochtend van de huidige dag.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Veel",
     "video": "/videos/Veel.mp4",
     "gif": "/gifs/Veel.gif",
     "lesson": 7,
-    "explanation": "Een grote hoeveelheid."
+    "explanation": "Een grote hoeveelheid.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Verband",
     "video": "/videos/Verband.mp4",
     "gif": "/gifs/Verband.gif",
     "lesson": 6,
-    "explanation": "Een doek die wordt gebruikt om een wond te bedekken."
+    "explanation": "Een doek die wordt gebruikt om een wond te bedekken.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Verdrietig",
     "video": "/videos/Verdrietig.mp4",
     "gif": "/gifs/Verdrietig.gif",
     "lesson": 2,
-    "explanation": "Een gevoel van droefheid."
+    "explanation": "Een gevoel van droefheid.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vergeten",
     "video": "/videos/Vergeten.mp4",
     "gif": "/gifs/Vergeten.gif",
     "lesson": 2,
-    "explanation": "Niet meer in staat zijn om iets te herinneren."
+    "explanation": "Niet meer in staat zijn om iets te herinneren.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Verpleegkundige",
     "video": "/videos/Verpleegkundige.mp4",
     "gif": "/gifs/Verpleegkundige.gif",
     "lesson": 6,
-    "explanation": "Een beroepsbeoefenaar in de gezondheidszorg die patiënten verzorgt."
+    "explanation": "Een beroepsbeoefenaar in de gezondheidszorg die patiënten verzorgt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vertellen",
     "video": "/videos/Vertellen.mp4",
     "gif": "/gifs/Vertellen.gif",
     "lesson": 2,
-    "explanation": "Iets mondeling of schriftelijk meedelen."
+    "explanation": "Iets mondeling of schriftelijk meedelen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vervelend",
     "video": "/videos/Vervelend.mp4",
     "gif": "/gifs/Vervelend.gif",
     "lesson": 7,
-    "explanation": "Irritant, lastig."
+    "explanation": "Irritant, lastig.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vinger",
     "video": "/videos/Vinger.mp4",
     "gif": "/gifs/Vinger.gif",
     "lesson": 7,
-    "explanation": "Een van de ledematen aan de hand."
+    "explanation": "Een van de ledematen aan de hand.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Voet",
     "video": "/videos/Voet.mp4",
     "gif": "/gifs/Voet.gif",
     "lesson": 7,
-    "explanation": "Het onderste deel van het been."
+    "explanation": "Het onderste deel van het been.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Volgende",
     "video": "/videos/Volgende.mp4",
     "gif": "/gifs/Volgende.gif",
     "lesson": 1,
-    "explanation": "Wat na iets anders komt."
+    "explanation": "Wat na iets anders komt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Voorbeeld",
     "video": "/videos/Voorbeeld.mp4",
     "gif": "/gifs/Voorbeeld.gif",
     "lesson": 1,
-    "explanation": "Iets dat dient als model of illustratie."
+    "explanation": "Iets dat dient als model of illustratie.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Voorbereiden",
     "video": "/videos/Voorbereiden.mp4",
     "gif": "/gifs/Voorbereiden.gif",
     "lesson": 1,
-    "explanation": "Iets in orde maken voor gebruik of een gebeurtenis."
+    "explanation": "Iets in orde maken voor gebruik of een gebeurtenis.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Voornaam",
     "video": "/videos/Voornaam.mp4",
     "gif": "/gifs/Voornaam.gif",
     "lesson": 1,
-    "explanation": "De eerste naam van een persoon."
+    "explanation": "De eerste naam van een persoon.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Voorstellen",
     "video": "/videos/Voorstellen.mp4",
     "gif": "/gifs/Voorstellen.gif",
     "lesson": 1,
-    "explanation": "Iets aan iemand anders presenteren of introduceren."
+    "explanation": "Iets aan iemand anders presenteren of introduceren.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vorige",
     "video": "/videos/Vorige.mp4",
     "gif": "/gifs/Vorige.gif",
     "lesson": 1,
-    "explanation": "Wat voor iets anders kwam."
+    "explanation": "Wat voor iets anders kwam.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vragen",
     "video": "/videos/Vragen.mp4",
     "gif": "/gifs/Vragen.gif",
     "lesson": 2,
-    "explanation": "Een verzoek om informatie."
+    "explanation": "Een verzoek om informatie.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vreselijk",
     "video": "/videos/Vreselijk.mp4",
     "gif": "/gifs/Vreselijk.gif",
     "lesson": 2,
-    "explanation": "Heel erg slecht."
+    "explanation": "Heel erg slecht.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vriend (platonisch)",
     "video": "/videos/Vriend (platonisch).mp4",
     "gif": "/gifs/Vriend (platonisch).gif",
     "lesson": 5,
-    "explanation": "Iemand met wie je een vriendschappelijke relatie hebt."
+    "explanation": "Iemand met wie je een vriendschappelijke relatie hebt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vriend (relatie)",
     "video": "/videos/Vriend (relatie).mp4",
     "gif": "/gifs/Vriend (relatie).gif",
     "lesson": 5,
-    "explanation": "Een mannelijke partner in een romantische relatie."
+    "explanation": "Een mannelijke partner in een romantische relatie.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vrij",
     "video": "/videos/Vrij.mp4",
     "gif": "/gifs/Vrij.gif",
     "lesson": 3,
-    "explanation": "Niet gebonden of beperkt."
+    "explanation": "Niet gebonden of beperkt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vrijgezel",
     "video": "/videos/Vrijgezel.mp4",
     "gif": "/gifs/Vrijgezel.gif",
     "lesson": 5,
-    "explanation": "Niet getrouwd."
+    "explanation": "Niet getrouwd.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vrouw (platonisch)",
     "video": "/videos/Vrouw (platonisch).mp4",
     "gif": "/gifs/Vrouw (platonisch).gif",
     "lesson": 5,
-    "explanation": "Een volwassen vrouw."
+    "explanation": "Een volwassen vrouw.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Vrouw (relatie)",
     "video": "/videos/Vrouw (relatie).mp4",
     "gif": "/gifs/Vrouw (relatie).gif",
     "lesson": 5,
-    "explanation": "Een vrouwelijke partner in een romantische relatie."
+    "explanation": "Een vrouwelijke partner in een romantische relatie.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Waar",
     "video": "/videos/Waar.mp4",
     "gif": "/gifs/Waar.gif",
     "lesson": 3,
-    "explanation": "Op welke plaats."
+    "explanation": "Op welke plaats.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Waarom",
     "video": "/videos/Waarom.mp4",
     "gif": "/gifs/Waarom.gif",
     "lesson": 3,
-    "explanation": "Met welke reden."
+    "explanation": "Met welke reden.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Wachten",
     "video": "/videos/Wachten.mp4",
     "gif": "/gifs/Wachten.gif",
     "lesson": 7,
-    "explanation": "Ergens blijven tot iets gebeurt."
+    "explanation": "Ergens blijven tot iets gebeurt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Wachtkamer",
     "video": "/videos/Wachtkamer.mp4",
     "gif": "/gifs/Wachtkamer.gif",
     "lesson": 5,
-    "explanation": "Een ruimte waar mensen wachten."
+    "explanation": "Een ruimte waar mensen wachten.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Wang",
     "video": "/videos/Wang.mp4",
     "gif": "/gifs/Wang.gif",
     "lesson": 7,
-    "explanation": "Het deel van het gezicht onder het oog."
+    "explanation": "Het deel van het gezicht onder het oog.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Wanneer",
     "video": "/videos/Wanneer.mp4",
     "gif": "/gifs/Wanneer.gif",
     "lesson": 3,
-    "explanation": "Op welk moment."
+    "explanation": "Op welk moment.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Wat",
     "video": "/videos/Wat.mp4",
     "gif": "/gifs/Wat.gif",
     "lesson": 3,
-    "explanation": "Welk ding of welke zaak."
+    "explanation": "Welk ding of welke zaak.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Water",
     "video": "/videos/Water.mp4",
     "gif": "/gifs/Water.gif",
     "lesson": 7,
-    "explanation": "Een heldere vloeistof die essentieel is voor het leven."
+    "explanation": "Een heldere vloeistof die essentieel is voor het leven.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "WC",
     "video": "/videos/WC.mp4",
     "gif": "/gifs/WC.gif",
     "lesson": 6,
-    "explanation": "Toilet."
+    "explanation": "Toilet.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Week",
     "video": "/videos/Week.mp4",
     "gif": "/gifs/Week.gif",
     "lesson": 3,
-    "explanation": "Een periode van zeven dagen."
+    "explanation": "Een periode van zeven dagen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Weekend",
     "video": "/videos/Weekend.mp4",
     "gif": "/gifs/Weekend.gif",
     "lesson": 3,
-    "explanation": "De zaterdag en zondag samen."
+    "explanation": "De zaterdag en zondag samen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Weinig",
     "video": "/videos/Weinig.mp4",
     "gif": "/gifs/Weinig.gif",
     "lesson": 7,
-    "explanation": "Een kleine hoeveelheid."
+    "explanation": "Een kleine hoeveelheid.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Welke",
     "video": "/videos/Welke.mp4",
     "gif": "/gifs/Welke.gif",
     "lesson": 3,
-    "explanation": "Een vraagwoord dat verwijst naar een specifieke keuze."
+    "explanation": "Een vraagwoord dat verwijst naar een specifieke keuze.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Welkom",
     "video": "/videos/Welkom.mp4",
     "gif": "/gifs/Welkom.gif",
     "lesson": 1,
-    "explanation": "Een uiting van vreugde bij de komst van iemand."
+    "explanation": "Een uiting van vreugde bij de komst van iemand.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Wie",
     "video": "/videos/Wie.mp4",
     "gif": "/gifs/Wie.gif",
     "lesson": 3,
-    "explanation": "Een vraagwoord dat verwijst naar een persoon."
+    "explanation": "Een vraagwoord dat verwijst naar een persoon.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Willen",
     "video": "/videos/Willen.mp4",
     "gif": "/gifs/Willen.gif",
     "lesson": 2,
-    "explanation": "De wens of het verlangen hebben om iets te doen of te krijgen."
+    "explanation": "De wens of het verlangen hebben om iets te doen of te krijgen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Woonplaats",
     "video": "/videos/Woonplaats.mp4",
     "gif": "/gifs/Woonplaats.gif",
     "lesson": 5,
-    "explanation": "De stad of het dorp waar iemand woont."
+    "explanation": "De stad of het dorp waar iemand woont.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Zeggen",
     "video": "/videos/Zeggen.mp4",
     "gif": "/gifs/Zeggen.gif",
     "lesson": 2,
-    "explanation": "Iets verbaal uiten."
+    "explanation": "Iets verbaal uiten.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Zenuwachtig",
     "video": "/videos/Zenuwachtig.mp4",
     "gif": "/gifs/Zenuwachtig.gif",
     "lesson": 2,
-    "explanation": "Een gevoel van onrust of spanning."
+    "explanation": "Een gevoel van onrust of spanning.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Ziek (zijn)",
     "video": "/videos/Ziek (zijn).mp4",
     "gif": "/gifs/Ziek (zijn).gif",
     "lesson": 5,
-    "explanation": "Niet gezond zijn."
+    "explanation": "Niet gezond zijn.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Ziekenhuis",
     "video": "/videos/Ziekenhuis.mp4",
     "gif": "/gifs/Ziekenhuis.gif",
     "lesson": 6,
-    "explanation": "Een instelling waar zieken worden behandeld."
+    "explanation": "Een instelling waar zieken worden behandeld.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Zitten",
     "video": "/videos/Zitten.mp4",
     "gif": "/gifs/Zitten.gif",
     "lesson": 2,
-    "explanation": "In een positie zijn waarbij het lichaam rust op de billen."
+    "explanation": "In een positie zijn waarbij het lichaam rust op de billen.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Zoon",
     "video": "/videos/Zoon.mp4",
     "gif": "/gifs/Zoon.gif",
     "lesson": 5,
-    "explanation": "Een mannelijk kind."
+    "explanation": "Een mannelijk kind.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   },
   {
     "translation": "Zorgverzekering",
     "video": "/videos/Zorgverzekering.mp4",
     "gif": "/gifs/Zorgverzekering.gif",
     "lesson": 5,
-    "explanation": "Een verzekering die medische kosten dekt."
+    "explanation": "Een verzekering die medische kosten dekt.",
+    "handShapesR": {
+      "shape": "xxxx",
+      "imageUrl": "/handshapes/xxxx.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
   }
 ]
