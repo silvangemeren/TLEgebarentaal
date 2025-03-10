@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 
 const userSchema = new mongoose.Schema({
-    name: { type: String, required: true },
+    name: { type: String, required: false },
     email: { type: String, required: true, unique: true, lowercase: true, trim: true },
     password: { type: String, required: true, minlength: 8 },
     role: {
@@ -18,28 +18,27 @@ const userSchema = new mongoose.Schema({
         les6: { type: Number, default: 0, min: 0, max: 100 },
         les7: { type: Number, default: 0, min: 0, max: 100 }
     },
-    createdAt: { type: Date, default: Date.now },
-    playlists: {
-        type: Array, required: false, _id: false
-    },
+    loginCode: { type: String, required: true },
+    playlists: [{
+        title: { type: String, required: true },
+        signs: [{ type: mongoose.Schema.Types.ObjectId, ref: "Sign" }]
+    }]
+
 }, {
+    timestamps: true,
     toJSON: {
         virtuals: true,
         versionKey: false,
-        transform: (doc, ret) => {
-
+            transform: (doc, ret) => {
+            ret.id = ret._id.toString()
             ret._links = {
-                self: {
-                    href: `${process.env.BASE_URL}/users/${ret.id}`
-                },
-                collection: {
-                    href: `${process.env.BASE_URL}/users`
-                }
+                self: { href: `${process.env.BASE_URL}/users/${ret.id}` },
+                collection: { href: `${process.env.BASE_URL}/users` }
             }
-
             delete ret._id
         }
+
     }
-});
+})
 
 export default mongoose.model('User', userSchema);
