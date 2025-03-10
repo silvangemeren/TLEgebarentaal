@@ -13,7 +13,7 @@ router.get('/', async (req, res) => {
 
         const signs = await Sign.find()
             .skip((page - 1) * limit)
-            .limit(limit).collation({ locale: 'nl', strength: 2 }).sort({ lesson: 1 });
+            .limit(limit).collation({ locale: 'nl', strength: 2 }).sort({ lesson: 1 }).sort({ translation: 1 });
         const totalSigns = await Sign.countDocuments();
         res.status(200).json(
             {
