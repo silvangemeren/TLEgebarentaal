@@ -69,3 +69,5 @@ router.options('/', (req, res) => {
     res.setHeader('Access-Control-Allow-Methods', ['GET', 'POST', 'OPTIONS'])
     res.status(204).send();
 })
+
+export default router
