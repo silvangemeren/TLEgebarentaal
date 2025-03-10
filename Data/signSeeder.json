@@ -1,233 +1,317 @@
 [
   {
-    "translation": "0 1 2 3 4 5 6 7 8 9 10 11 12",
-    "video": "/videos/Cijfers/0 1 2 3 4 5 6 7 8 9 10 11 12.mp4",
-    "gif": "/gifs/Cijfers/0 1 2 3 4 5 6 7 8 9 10 11 12.gif",
-    "lesson": 1,
-    "explanation": "De getallen 0 tot en met 12."
+    "translation": "0",
+    "video": "/videos/Cijfers/0.mp4",
+    "gif": "/gifs/Cijfers/0.gif",
+    "lesson": 2,
+    "explanation": "Het getal 0, wordt gebruikt als een numerieke aanduiding voor 0."
+  },
+  {
+    "translation": "1",
+    "video": "/videos/Cijfers/1.mp4",
+    "gif": "/gifs/Cijfers/1.gif",
+    "lesson": 2,
+    "explanation": "Het getal 1, de eerste natuurlijke en positieve eenheid."
+  },
+  {
+    "translation": "2",
+    "video": "/videos/Cijfers/2.mp4",
+    "gif": "/gifs/Cijfers/2.gif",
+    "lesson": 2,
+    "explanation": "Het getal 2, het eerste even getal en de kleinste priemgetal."
+  },
+  {
+    "translation": "3",
+    "video": "/videos/Cijfers/3.mp4",
+    "gif": "/gifs/Cijfers/3.gif",
+    "lesson": 2,
+    "explanation": "Het getal 3, een oneven getal en het eerste priemgetal na 2."
+  },
+  {
+    "translation": "4",
+    "video": "/videos/Cijfers/4.mp4",
+    "gif": "/gifs/Cijfers/4.gif",
+    "lesson": 2,
+    "explanation": "Het getal 4, het eerste kwadraatgetal (2×2)."
+  },
+  {
+    "translation": "5",
+    "video": "/videos/Cijfers/5.mp4",
+    "gif": "/gifs/Cijfers/5.gif",
+    "lesson": 2,
+    "explanation": "Het getal 5, een oneven priemgetal en halverwege 0 en 10."
+  },
+  {
+    "translation": "6",
+    "video": "/videos/Cijfers/6.mp4",
+    "gif": "/gifs/Cijfers/6.gif",
+    "lesson": 2,
+    "explanation": "Het getal 6, het eerste perfecte getal (1+2+3=6)."
+  },
+  {
+    "translation": "7",
+    "video": "/videos/Cijfers/7.mp4",
+    "gif": "/gifs/Cijfers/7.gif",
+    "lesson": 2,
+    "explanation": "Het getal 7, vaak beschouwd als een geluksgetal."
+  },
+  {
+    "translation": "8",
+    "video": "/videos/Cijfers/8.mp4",
+    "gif": "/gifs/Cijfers/8.gif",
+    "lesson": 2,
+    "explanation": "Het getal 8, een macht van 2 (2×2×2)."
+  },
+  {
+    "translation": "9",
+    "video": "/videos/Cijfers/9.mp4",
+    "gif": "/gifs/Cijfers/9.gif",
+    "lesson": 2,
+    "explanation": "Het getal 9, het kwadraat van 3 (3×3)."
+  },
+  {
+    "translation": "10",
+    "video": "/videos/Cijfers/10.mp4",
+    "gif": "/gifs/Cijfers/10.gif",
+    "lesson": 2,
+    "explanation": "Het getal 10, de basis van ons decimale stelsel."
+  },
+  {
+    "translation": "11",
+    "video": "/videos/Cijfers/11.mp4",
+    "gif": "/gifs/Cijfers/11.gif",
+    "lesson": 2,
+    "explanation": "Het getal 11, een palindroomgetal en een priemgetal."
+  },
+  {
+    "translation": "12",
+    "video": "/videos/Cijfers/12.mp4",
+    "gif": "/gifs/Cijfers/12.gif",
+    "lesson": 2,
+    "explanation": "Het getal 12, een veelvoudig gebruikt getal in tijdsindelingen en maateenheden."
   },
   {
     "translation": "13",
     "video": "/videos/Cijfers/13.mp4",
     "gif": "/gifs/Cijfers/13.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 13, wordt gebruikt als een numerieke aanduiding voor 13."
   },
   {
     "translation": "14",
     "video": "/videos/Cijfers/14.mp4",
     "gif": "/gifs/Cijfers/14.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 14, wordt gebruikt als een numerieke aanduiding voor 14."
   },
   {
     "translation": "15",
     "video": "/videos/Cijfers/15.mp4",
     "gif": "/gifs/Cijfers/15.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 15, wordt gebruikt als een numerieke aanduiding voor 15."
   },
   {
     "translation": "16",
     "video": "/videos/Cijfers/16.mp4",
     "gif": "/gifs/Cijfers/16.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 16, wordt gebruikt als een numerieke aanduiding voor 16."
   },
   {
     "translation": "17",
     "video": "/videos/Cijfers/17.mp4",
     "gif": "/gifs/Cijfers/17.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 17, wordt gebruikt als een numerieke aanduiding voor 17."
   },
   {
     "translation": "18",
     "video": "/videos/Cijfers/18.mp4",
     "gif": "/gifs/Cijfers/18.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 18, wordt gebruikt als een numerieke aanduiding voor 18."
   },
   {
     "translation": "19",
     "video": "/videos/Cijfers/19.mp4",
     "gif": "/gifs/Cijfers/19.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 19, wordt gebruikt als een numerieke aanduiding voor 19."
   },
   {
     "translation": "20",
     "video": "/videos/Cijfers/20.mp4",
     "gif": "/gifs/Cijfers/20.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 20, wordt gebruikt als een numerieke aanduiding voor 20."
   },
   {
     "translation": "21",
     "video": "/videos/Cijfers/21.mp4",
     "gif": "/gifs/Cijfers/21.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 21, wordt gebruikt als een numerieke aanduiding voor 21."
   },
   {
     "translation": "22",
     "video": "/videos/Cijfers/22.mp4",
     "gif": "/gifs/Cijfers/22.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 22, wordt gebruikt als een numerieke aanduiding voor 22."
   },
   {
     "translation": "23",
     "video": "/videos/Cijfers/23.mp4",
     "gif": "/gifs/Cijfers/23.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 23, wordt gebruikt als een numerieke aanduiding voor 23."
   },
   {
     "translation": "24",
     "video": "/videos/Cijfers/24.mp4",
     "gif": "/gifs/Cijfers/24.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 24, wordt gebruikt als een numerieke aanduiding voor 24."
   },
   {
     "translation": "25",
     "video": "/videos/Cijfers/25.mp4",
     "gif": "/gifs/Cijfers/25.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 25, wordt gebruikt als een numerieke aanduiding voor 25."
   },
   {
     "translation": "26",
     "video": "/videos/Cijfers/26.mp4",
     "gif": "/gifs/Cijfers/26.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 26, wordt gebruikt als een numerieke aanduiding voor 26."
   },
   {
     "translation": "27",
     "video": "/videos/Cijfers/27.mp4",
     "gif": "/gifs/Cijfers/27.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 27, wordt gebruikt als een numerieke aanduiding voor 27."
   },
   {
     "translation": "28",
     "video": "/videos/Cijfers/28.mp4",
     "gif": "/gifs/Cijfers/28.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 28, wordt gebruikt als een numerieke aanduiding voor 28."
   },
   {
     "translation": "29",
     "video": "/videos/Cijfers/29.mp4",
     "gif": "/gifs/Cijfers/29.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 29, wordt gebruikt als een numerieke aanduiding voor 29."
   },
   {
     "translation": "30",
     "video": "/videos/Cijfers/30.mp4",
     "gif": "/gifs/Cijfers/30.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 30, wordt gebruikt als een numerieke aanduiding voor 30."
   },
   {
     "translation": "33",
     "video": "/videos/Cijfers/33.mp4",
     "gif": "/gifs/Cijfers/33.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 33, wordt gebruikt als een numerieke aanduiding voor 33."
   },
   {
     "translation": "40",
     "video": "/videos/Cijfers/40.mp4",
     "gif": "/gifs/Cijfers/40.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 40, wordt gebruikt als een numerieke aanduiding voor 40."
   },
   {
     "translation": "44",
     "video": "/videos/Cijfers/44.mp4",
     "gif": "/gifs/Cijfers/44.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 44, wordt gebruikt als een numerieke aanduiding voor 44."
   },
   {
     "translation": "50",
     "video": "/videos/Cijfers/50.mp4",
     "gif": "/gifs/Cijfers/50.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 50, wordt gebruikt als een numerieke aanduiding voor 50."
   },
   {
     "translation": "55",
     "video": "/videos/Cijfers/55.mp4",
     "gif": "/gifs/Cijfers/55.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 55, wordt gebruikt als een numerieke aanduiding voor 55."
   },
   {
     "translation": "60",
     "video": "/videos/Cijfers/60.mp4",
     "gif": "/gifs/Cijfers/60.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 60, wordt gebruikt als een numerieke aanduiding voor 60."
   },
   {
     "translation": "66",
     "video": "/videos/Cijfers/66.mp4",
     "gif": "/gifs/Cijfers/66.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 66, wordt gebruikt als een numerieke aanduiding voor 66."
   },
   {
     "translation": "70",
     "video": "/videos/Cijfers/70.mp4",
     "gif": "/gifs/Cijfers/70.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 70, wordt gebruikt als een numerieke aanduiding voor 70."
   },
   {
     "translation": "77",
     "video": "/videos/Cijfers/77.mp4",
     "gif": "/gifs/Cijfers/77.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 77, wordt gebruikt als een numerieke aanduiding voor 77."
   },
   {
     "translation": "80",
     "video": "/videos/Cijfers/80.mp4",
     "gif": "/gifs/Cijfers/80.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 80, wordt gebruikt als een numerieke aanduiding voor 80."
   },
   {
     "translation": "88",
     "video": "/videos/Cijfers/88.mp4",
     "gif": "/gifs/Cijfers/88.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 88, wordt gebruikt als een numerieke aanduiding voor 88."
   },
   {
     "translation": "90",
     "video": "/videos/Cijfers/90.mp4",
     "gif": "/gifs/Cijfers/90.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 90, wordt gebruikt als een numerieke aanduiding voor 90."
   },
   {
     "translation": "99",
     "video": "/videos/Cijfers/99.mp4",
     "gif": "/gifs/Cijfers/99.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 99, wordt gebruikt als een numerieke aanduiding voor 99."
   },
   {
     "translation": "100",
     "video": "/videos/Cijfers/100.mp4",
     "gif": "/gifs/Cijfers/100.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Het getal 100, wordt gebruikt als een numerieke aanduiding voor 100."
   },
   {
@@ -409,126 +493,126 @@
     "translation": "1 uur",
     "video": "/videos/Tijd/1 uur.mp4",
     "gif": "/gifs/Tijd/1 uur.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsperiode van zestig minuten."
   },
   {
     "translation": "1 uur lang",
     "video": "/videos/Tijd/1 uur lang.mp4",
     "gif": "/gifs/Tijd/1 uur lang.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een duur van precies zestig minuten."
   },
   {
     "translation": "10 over 1",
     "video": "/videos/Tijd/10 over 1.mp4",
     "gif": "/gifs/Tijd/10 over 1.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "De tijdsaanduiding voor tien minuten na één uur."
   },
   {
     "translation": "10 over 2",
     "video": "/videos/Tijd/10 over 2.mp4",
     "gif": "/gifs/Tijd/10 over 2.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "De tijdsaanduiding voor tien minuten na twee uur."
   },
   {
     "translation": "10 over 3",
     "video": "/videos/Tijd/10 over 3.mp4",
     "gif": "/gifs/Tijd/10 over 3.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "De tijdsaanduiding voor tien minuten na drie uur."
   },
   {
     "translation": "10 voor 1",
     "video": "/videos/Tijd/10 voor 1.mp4",
     "gif": "/gifs/Tijd/10 voor 1.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "De tijdsaanduiding voor tien minuten voor één uur."
   },
   {
     "translation": "10 voor 2",
     "video": "/videos/Tijd/10 voor 2.mp4",
     "gif": "/gifs/Tijd/10 voor 2.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "De tijdsaanduiding voor tien minuten voor twee uur."
   },
   {
     "translation": "10 voor 3",
     "video": "/videos/Tijd/10 voor 3.mp4",
     "gif": "/gifs/Tijd/10 voor 3.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "De tijdsaanduiding voor tien minuten voor drie uur."
   },
   {
     "translation": "2 uur",
     "video": "/videos/Tijd/2 uur.mp4",
     "gif": "/gifs/Tijd/2 uur.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsperiode van honderdtwintig minuten."
   },
   {
     "translation": "2 uur lang",
     "video": "/videos/Tijd/2 uur lang.mp4",
     "gif": "/gifs/Tijd/2 uur lang.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een duur van precies honderdtwintig minuten."
   },
   {
     "translation": "Half 1",
     "video": "/videos/Tijd/Half 1.mp4",
     "gif": "/gifs/Tijd/Half 1.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsaanduiding voor dertig minuten voor één uur."
   },
   {
     "translation": "Half 2",
     "video": "/videos/Tijd/Half 2.mp4",
     "gif": "/gifs/Tijd/Half 2.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsaanduiding voor dertig minuten voor twee uur."
   },
   {
     "translation": "Half uur lang",
     "video": "/videos/Tijd/Half uur lang.mp4",
     "gif": "/gifs/Tijd/Half uur lang.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsperiode van dertig minuten."
   },
   {
     "translation": "Kwart over",
     "video": "/videos/Tijd/Kwart over.mp4",
     "gif": "/gifs/Tijd/Kwart over.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsaanduiding voor vijftien minuten na het hele uur."
   },
   {
     "translation": "Kwart voor",
     "video": "/videos/Tijd/Kwart voor.mp4",
     "gif": "/gifs/Tijd/Kwart voor.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsaanduiding voor vijftien minuten voor het hele uur."
   },
   {
     "translation": "Kwartier",
     "video": "/videos/Tijd/Kwartier.mp4",
     "gif": "/gifs/Tijd/Kwartier.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsperiode van vijftien minuten."
   },
   {
     "translation": "Minuut",
     "video": "/videos/Tijd/Minuut.mp4",
     "gif": "/gifs/Tijd/Minuut.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsperiode van zestig seconden."
   },
   {
     "translation": "Uur",
     "video": "/videos/Tijd/Uur.mp4",
     "gif": "/gifs/Tijd/Uur.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een tijdsperiode van zestig minuten."
   },
   {
@@ -613,21 +697,21 @@
     "translation": "Alsjeblieft (iets geven)",
     "video": "/videos/Alsjeblieft (iets geven).mp4",
     "gif": "/gifs/Alsjeblieft (iets geven).gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Een uitdrukking gebruikt bij het overhandigen van iets aan iemand."
   },
   {
     "translation": "Alsjeblieft (verzoek)",
     "video": "/videos/Alsjeblieft (verzoek).mp4",
     "gif": "/gifs/Alsjeblieft (verzoek).gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Een beleefde manier om iets te vragen of te verzoeken."
   },
   {
     "translation": "Altijd",
     "video": "/videos/Altijd.mp4",
     "gif": "/gifs/Altijd.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Voortdurend, zonder onderbreking."
   },
   {
@@ -655,7 +739,7 @@
     "translation": "Antwoorden",
     "video": "/videos/Antwoorden.mp4",
     "gif": "/gifs/Antwoorden.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Reageren op een vraag of opmerking."
   },
   {
@@ -669,7 +753,7 @@
     "translation": "Apotheek",
     "video": "/videos/Apotheek.mp4",
     "gif": "/gifs/Apotheek.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een plek waar medicijnen worden bereid en verkocht."
   },
   {
@@ -683,7 +767,7 @@
     "translation": "Assistente",
     "video": "/videos/Assistente.mp4",
     "gif": "/gifs/Assistente.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Iemand die helpt bij het uitvoeren van taken, vaak in een medische of administratieve rol."
   },
   {
@@ -704,14 +788,14 @@
     "translation": "Bang",
     "video": "/videos/Bang.mp4",
     "gif": "/gifs/Bang.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Een emotie van angst of bezorgdheid."
   },
   {
     "translation": "Bedankt",
     "video": "/videos/Bedankt.mp4",
     "gif": "/gifs/Bedankt.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Een uitdrukking van dankbaarheid."
   },
   {
@@ -802,7 +886,7 @@
     "translation": "Blij",
     "video": "/videos/Blij.mp4",
     "gif": "/gifs/Blij.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Een gevoel van vreugde en geluk."
   },
   {
@@ -844,7 +928,7 @@
     "translation": "Boos",
     "video": "/videos/Boos.mp4",
     "gif": "/gifs/Boos.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Een gevoel van ergernis of woede."
   },
   {
@@ -879,7 +963,7 @@
     "translation": "Cijfer",
     "video": "/videos/Cijfer.mp4",
     "gif": "/gifs/Cijfer.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een symbool dat een getal voorstelt."
   },
   {
@@ -900,7 +984,7 @@
     "translation": "Darmen",
     "video": "/videos/Darmen.mp4",
     "gif": "/gifs/Darmen.gif",
-    "lesson": 1,
+    "lesson": 7,
     "explanation": "Een buisvormig orgaan in het spijsverteringsstelsel dat voedsel verteert en afvalstoffen verwijdert."
   },
   {
@@ -935,7 +1019,7 @@
     "translation": "Doen",
     "video": "/videos/Doen.mp4",
     "gif": "/gifs/Doen.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Een handeling verrichten."
   },
   {
@@ -991,7 +1075,7 @@
     "translation": "Eerder",
     "video": "/videos/Eerder.mp4",
     "gif": "/gifs/Eerder.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "In een vroeger stadium."
   },
   {
@@ -1040,7 +1124,7 @@
     "translation": "Erge pijn",
     "video": "/videos/Erge pijn.mp4",
     "gif": "/gifs/Erge pijn.gif",
-    "lesson": 1,
+    "lesson": 6,
     "explanation": "Intense, onaangename lichamelijke gewaarwording."
   },
   {
@@ -1096,7 +1180,7 @@
     "translation": "Geboren",
     "video": "/videos/Geboren.mp4",
     "gif": "/gifs/Geboren.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Ter wereld gekomen zijn."
   },
   {
@@ -1131,7 +1215,7 @@
     "translation": "Geven",
     "video": "/videos/Geven.mp4",
     "gif": "/gifs/Geven.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Iets aan iemand anders overhandigen."
   },
   {
@@ -1177,7 +1261,7 @@
     "explanation": "Van hoge kwaliteit, juist, correct."
   },
   {
-    "translation": "Goede morgen",
+    "translation": "Goedemorgen",
     "video": "/videos/Goede morgen.mp4",
     "gif": "/gifs/Goede morgen.gif",
     "lesson": 1,
@@ -1229,7 +1313,7 @@
     "translation": "Hebben",
     "video": "/videos/Hebben.mp4",
     "gif": "/gifs/Hebben.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "In bezit hebben, beschikken over."
   },
   {
@@ -1243,7 +1327,7 @@
     "translation": "Helpen",
     "video": "/videos/Helpen.mp4",
     "gif": "/gifs/Helpen.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Iemand bijstaan, ondersteunen."
   },
   {
@@ -1271,7 +1355,7 @@
     "translation": "Hoe oud",
     "video": "/videos/Hoe oud.mp4",
     "gif": "/gifs/Hoe oud.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Welke leeftijd."
   },
   {
@@ -1313,7 +1397,7 @@
     "translation": "Horloge",
     "video": "/videos/Horloge.mp4",
     "gif": "/gifs/Horloge.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een draagbaar instrument om de tijd te meten."
   },
   {
@@ -1348,14 +1432,14 @@
     "translation": "Ik begrijp het",
     "video": "/videos/Ik begrijp het.mp4",
     "gif": "/gifs/Ik begrijp het.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Ik ben het eens met wat je zegt."
   },
   {
     "translation": "Ik begrijp het niet",
     "video": "/videos/Ik begrijp het niet.mp4",
     "gif": "/gifs/Ik begrijp het niet.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Ik ben het niet eens met wat je zegt."
   },
   {
@@ -1376,14 +1460,14 @@
     "translation": "Jammer",
     "video": "/videos/Jammer.mp4",
     "gif": "/gifs/Jammer.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Spijtig, vervelend."
   },
   {
     "translation": "Jarig",
     "video": "/videos/Jarig.mp4",
     "gif": "/gifs/Jarig.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Op de verjaardag."
   },
   {
@@ -1404,7 +1488,7 @@
     "translation": "Kijken",
     "video": "/videos/Kijken.mp4",
     "gif": "/gifs/Kijken.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "De ogen richten op iets."
   },
   {
@@ -1439,21 +1523,21 @@
     "translation": "Klok",
     "video": "/videos/Klok.mp4",
     "gif": "/gifs/Klok.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een instrument dat de tijd aangeeft."
   },
   {
     "translation": "Klopt",
     "video": "/videos/Klopt.mp4",
     "gif": "/gifs/Klopt.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Correct, waar."
   },
   {
     "translation": "Klopt niet",
     "video": "/videos/Klopt niet.mp4",
     "gif": "/gifs/Klopt niet.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Incorrect, niet waar."
   },
   {
@@ -1495,21 +1579,21 @@
     "translation": "Kunnen",
     "video": "/videos/Kunnen.mp4",
     "gif": "/gifs/Kunnen.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "In staat zijn tot."
   },
   {
     "translation": "Later",
     "video": "/videos/Later.mp4",
     "gif": "/gifs/Later.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Op een later tijdstip."
   },
   {
     "translation": "Leren",
     "video": "/videos/Leren.mp4",
     "gif": "/gifs/Leren.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Kennis of vaardigheden verwerven."
   },
   {
@@ -1523,7 +1607,7 @@
     "translation": "Leuk",
     "video": "/videos/Leuk.mp4",
     "gif": "/gifs/Leuk.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Aangenaam, plezierig."
   },
   {
@@ -1537,7 +1621,7 @@
     "translation": "Lezen",
     "video": "/videos/Lezen.mp4",
     "gif": "/gifs/Lezen.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Geschreven tekst begrijpen."
   },
   {
@@ -1733,7 +1817,7 @@
     "translation": "Nooit",
     "video": "/videos/Nooit.mp4",
     "gif": "/gifs/Nooit.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Op geen enkel moment."
   },
   {
@@ -1761,7 +1845,7 @@
     "translation": "Oefenen",
     "video": "/videos/Oefenen.mp4",
     "gif": "/gifs/Oefenen.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Herhaaldelijk iets doen om vaardigheid te verwerven."
   },
   {
@@ -1782,7 +1866,7 @@
     "translation": "Onthouden",
     "video": "/videos/Onthouden.mp4",
     "gif": "/gifs/Onthouden.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "In het geheugen bewaren."
   },
   {
@@ -1838,21 +1922,21 @@
     "translation": "Opgelucht",
     "video": "/videos/Opgelucht.mp4",
     "gif": "/gifs/Opgelucht.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Bevrijd van angst of bezorgdheid."
   },
   {
     "translation": "Opnieuw",
     "video": "/videos/Opnieuw.mp4",
     "gif": "/gifs/Opnieuw.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Nog een keer."
   },
   {
     "translation": "Opruimen",
     "video": "/videos/Opruimen.mp4",
     "gif": "/gifs/Opruimen.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Dingen terugbrengen naar hun oorspronkelijke plaats."
   },
   {
@@ -1950,7 +2034,7 @@
     "translation": "Proberen",
     "video": "/videos/Proberen.mp4",
     "gif": "/gifs/Proberen.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Een poging wagen."
   },
   {
@@ -2013,7 +2097,7 @@
     "translation": "Schrijven",
     "video": "/videos/Schrijven.mp4",
     "gif": "/gifs/Schrijven.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Letters of woorden op papier zetten."
   },
   {
@@ -2041,14 +2125,14 @@
     "translation": "Sorry",
     "video": "/videos/Sorry.mp4",
     "gif": "/gifs/Sorry.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Een uiting van spijt."
   },
   {
     "translation": "Spannend",
     "video": "/videos/Spannend.mp4",
     "gif": "/gifs/Spannend.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Opwindend, vol spanning."
   },
   {
@@ -2111,7 +2195,7 @@
     "translation": "Tellen",
     "video": "/videos/Tellen.mp4",
     "gif": "/gifs/Tellen.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "De hoeveelheid van iets bepalen door het te tellen."
   },
   {
@@ -2160,7 +2244,7 @@
     "translation": "Tijd",
     "video": "/videos/Tijd.mp4",
     "gif": "/gifs/Tijd.gif",
-    "lesson": 1,
+    "lesson": 4,
     "explanation": "Een meetbare periode waarin gebeurtenissen plaatsvinden."
   },
   {
@@ -2251,14 +2335,14 @@
     "translation": "Verdrietig",
     "video": "/videos/Verdrietig.mp4",
     "gif": "/gifs/Verdrietig.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Een gevoel van droefheid."
   },
   {
     "translation": "Vergeten",
     "video": "/videos/Vergeten.mp4",
     "gif": "/gifs/Vergeten.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Niet meer in staat zijn om iets te herinneren."
   },
   {
@@ -2272,7 +2356,7 @@
     "translation": "Vertellen",
     "video": "/videos/Vertellen.mp4",
     "gif": "/gifs/Vertellen.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Iets mondeling of schriftelijk meedelen."
   },
   {
@@ -2342,14 +2426,14 @@
     "translation": "Vragen",
     "video": "/videos/Vragen.mp4",
     "gif": "/gifs/Vragen.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Een verzoek om informatie."
   },
   {
     "translation": "Vreselijk",
     "video": "/videos/Vreselijk.mp4",
     "gif": "/gifs/Vreselijk.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Heel erg slecht."
   },
   {
@@ -2503,7 +2587,7 @@
     "translation": "Willen",
     "video": "/videos/Willen.mp4",
     "gif": "/gifs/Willen.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "De wens of het verlangen hebben om iets te doen of te krijgen."
   },
   {
@@ -2517,14 +2601,14 @@
     "translation": "Zeggen",
     "video": "/videos/Zeggen.mp4",
     "gif": "/gifs/Zeggen.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Iets verbaal uiten."
   },
   {
     "translation": "Zenuwachtig",
     "video": "/videos/Zenuwachtig.mp4",
     "gif": "/gifs/Zenuwachtig.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "Een gevoel van onrust of spanning."
   },
   {
@@ -2532,80 +2616,6 @@
     "video": "/videos/Ziek (zijn).mp4",
     "gif": "/gifs/Ziek (zijn).gif",
     "lesson": 5,
-    "explanation": "Niet gezond zijn."
-  },
-  {
-    "translation": "Ziekenhuis",
-    "video": "/videos/Ziekenhuis.mp4",
-    "gif": "/gifs/Ziekenhuis.gif",
-    "lesson": 1,
-    "explanation": "Een instelling waar zieken worden behandeld."
-  },
-  {
-    "translation": "Zitten",
-    "video": "/videos/Zitten.mp4",
-    "gif": "/gifs/Zitten.gif",
-    "lesson": 1,
-    "explanation": "In een positie zijn waarbij het lichaam rust op de billen."
-  },
-  {
-    "translation": "Zoon",
-    "video": "/videos/Zoon.mp4",
-    "gif": "/gifs/Zoon.gif",
-    "lesson": 5,
-    "explanation": "Een mannelijk kind."
-  },
-  {
-    "translation": "Zorgverzekering",
-    "video": "/videos/Zorgverzekering.mp4",
-    "gif": "/gifs/Zorgverzekering.gif",
-    "lesson": 5,
-    "explanation": "Een verzekering die medische kosten dekt."
-  },
-
-
-
-
-  {
-    "translation": "Apotheek",
-    "video": "/videos/Apotheek.mp4",
-    "gif": "/gifs/Apotheek.gif",
-    "lesson": 5,
-    "explanation": "winkel waar je (op doktersrecept) medicijnen kunt kopen"
-  },
-  {
-    "translation": "Assistente",
-    "video": "/videos/Assistente.mp4",
-    "gif": "/gifs/Asistente.gif",
-    "lesson": 5,
-    "explanation": "vrouwelijk persoon die ondersteunend werk doet"
-  },
-  {
-    "translation": "Woonplaats",
-    "video": "/videos/Woonplaats.mp4",
-    "gif": "/gifs/Woonplaats.gif",
-    "lesson": 1,
-    "explanation": "De stad of het dorp waar iemand woont."
-  },
-  {
-    "translation": "Zeggen",
-    "video": "/videos/Zeggen.mp4",
-    "gif": "/gifs/Zeggen.gif",
-    "lesson": 1,
-    "explanation": "Iets verbaal uiten."
-  },
-  {
-    "translation": "Zenuwachtig",
-    "video": "/videos/Zenuwachtig.mp4",
-    "gif": "/gifs/Zenuwachtig.gif",
-    "lesson": 1,
-    "explanation": "Een gevoel van onrust of spanning."
-  },
-  {
-    "translation": "Ziek (zijn)",
-    "video": "/videos/Ziek (zijn).mp4",
-    "gif": "/gifs/Ziek (zijn).gif",
-    "lesson": 1,
     "explanation": "Niet gezond zijn."
   },
   {
@@ -2619,21 +2629,21 @@
     "translation": "Zitten",
     "video": "/videos/Zitten.mp4",
     "gif": "/gifs/Zitten.gif",
-    "lesson": 1,
+    "lesson": 2,
     "explanation": "In een positie zijn waarbij het lichaam rust op de billen."
   },
   {
     "translation": "Zoon",
     "video": "/videos/Zoon.mp4",
     "gif": "/gifs/Zoon.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een mannelijk kind."
   },
   {
     "translation": "Zorgverzekering",
     "video": "/videos/Zorgverzekering.mp4",
     "gif": "/gifs/Zorgverzekering.gif",
-    "lesson": 1,
+    "lesson": 5,
     "explanation": "Een verzekering die medische kosten dekt."
   }
 ]
