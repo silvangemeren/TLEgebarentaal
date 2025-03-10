@@ -3,12 +3,13 @@ import mongoose from 'mongoose';
 const userSchema = new mongoose.Schema({
     name: { type: String, required: false },
     email: { type: String, required: true, unique: true, lowercase: true, trim: true },
-    password: { type: String, required: true, minlength: 8 },
+    // password: { type: String, required: false, minlength: 8 },
     role: {
         type: String,
         enum: ["student", "teacher", "admin"],
         default: "student"
     },
+    hrToken: { type: String, required: true },
     lessonsProgress: {
         les1: { type: Number, default: 0, min: 0, max: 100 },
         les2: { type: Number, default: 0, min: 0, max: 100 },
@@ -29,7 +30,7 @@ const userSchema = new mongoose.Schema({
     toJSON: {
         virtuals: true,
         versionKey: false,
-            transform: (doc, ret) => {
+        transform: (doc, ret) => {
             ret.id = ret._id.toString()
             ret._links = {
                 self: { href: `${process.env.BASE_URL}/users/${ret.id}` },
