@@ -6,7 +6,15 @@ const router = express.Router();
 
 router.get('/', async (req, res) => {
     try {
-        const signs = await Sign.find();
+
+        let { page = 1, limit } = req.query;
+        page = parseInt(page);
+        limit = parseInt(limit);
+
+        const signs = await Sign.find()
+            .skip((page - 1) * limit)
+            .limit(limit).collation({ locale: 'nl', strength: 2 }).sort({ lesson: 1 }).sort({ translation: 1 });
+        const totalSigns = await Sign.countDocuments();
         res.status(200).json(
             {
                 "items": signs,
@@ -18,6 +26,30 @@ router.get('/', async (req, res) => {
                         "href": `${process.env.BASE_URL}`
                     }
                 },
+                "pagination": {
+                    currentPage: page,
+                    currentItems: limit,
+                    totalPages: Math.ceil(totalSigns / limit),
+                    totalItems: totalSigns,
+                    _links: {
+                        first: {
+                            page: 1,
+                            href: `${process.env.BASE_URL}/signs?page=1&limit=${limit}`
+                        },
+                        last: {
+                            page: Math.ceil(totalSigns / limit),
+                            href: `${process.env.BASE_URL}/signs?page=${Math.ceil(totalSigns / limit)}&limit=${limit}`
+                        },
+                        previous: page > 1 ? {
+                            page: page - 1,
+                            href: `${process.env.BASE_URL}/signs?page=${page - 1}&limit=${limit}`
+                        } : null,
+                        next: (page * limit < totalSigns) ? {
+                            page: page + 1,
+                            href: `${process.env.BASE_URL}/signs?page=${page + 1}&limit=${limit}`
+                        } : null
+                    }
+                }
             })
     } catch (error) {
         res.status(500).json({ error: error.message });
@@ -54,6 +86,12 @@ router.post('/', async (req, res) => {
         }
     } else {
         //post
+        try {
+            const newSign = await Sign.create(req.body);
+            res.status(201).json({ message: "Gebaar succesvol toegevoegd", data: newSign });
+        } catch (error) {
+            res.status(400).json({ error: error.message });
+        }
     }
 })
 
