@@ -3,6 +3,8 @@ import mongoose from 'mongoose';
 import signs from "./routes/signs.js"
 import videos from "./routes/videos.js"
 import gifs from "./routes/gifs.js"
+import customplaylist from "./routes/customplaylist.js"
+
 
 import users from "./routes/users.js"
 
@@ -26,6 +28,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use('/videos', videos)
 app.use('/gifs', gifs)
 
+
 app.use((req, res, next) => {
     const acceptHeader = req.headers.accept;
 
@@ -39,6 +42,7 @@ app.use((req, res, next) => {
 });
 
 app.use('/signs', signs)
+app.use('/playlist', customplaylist)
 
 app.use('/users', users)
 
