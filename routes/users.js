@@ -70,4 +70,20 @@ router.options('/', (req, res) => {
     res.status(204).send();
 })
 
+router.options('/:id', (req, res) => {
+    res.setHeader('Allow', 'GET, POST, OPTIONS, DELETE')
+    res.setHeader('Access-Control-Allow-Methods', ['GET', 'POST', 'OPTIONS, DELETE'])
+    res.status(204).send();
+})
+
+router.get('/:id', async (req, res) => {
+    try {
+        const { id } = req.params;
+        const user = await User.findById(id);
+        res.status(200).json(user);
+    } catch (error) {
+        res.status(500).json({ error: error.message });
+    }
+});
+
 export default router
