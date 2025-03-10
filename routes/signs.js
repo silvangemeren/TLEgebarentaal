@@ -86,6 +86,12 @@ router.post('/', async (req, res) => {
         }
     } else {
         //post
+        try {
+            const newSign = await Sign.create(req.body);
+            res.status(201).json({ message: "Gebaar succesvol toegevoegd", data: newSign });
+        } catch (error) {
+            res.status(400).json({ error: error.message });
+        }
     }
 })
 
