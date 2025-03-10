@@ -1,4 +1,6 @@
+const express = require('express');
 const { v4: uuidv4 } = require('uuid');
+const Sign = require('../Models/Sign'); // Zorg dat het pad klopt
 
 const router = express.Router();
 
@@ -11,25 +13,6 @@ router.get('/', (req, res) => {
 });
 
 let playlists = [];
-
-const gebaren = {
-    "Adres": {
-        "id": "Adres",
-        "translation": "Adres",
-        "video": "/video/Adres.mp4",
-        "gif": "/gifs/Adres.gif",
-        "lesson": 5,
-        "explanation": "De locatie waar iemand woont of waar iets zich bevindt."
-    },
-    "Dank je": {
-        "id": "Dank je",
-        "translation": "Dank je",
-        "video": "/video/Dank_je.mp4",
-        "gif": "/gifs/Dank_je.gif",
-        "lesson": 2,
-        "explanation": "Een manier om iemand te bedanken."
-    }
-};
 
 // Maak een nieuwe playlist
 // Omdat je deze router mount op '/playlists', wordt dit endpoint beschikbaar als POST /playlists
@@ -58,19 +41,29 @@ router.get('/', (req, res) => {
 
 // Voeg een gebaar toe aan een playlist
 // Dit wordt beschikbaar als POST /playlists/:playlist_id/add-gebaar
-router.post('/:playlist_id/add-gebaar', (req, res) => {
+router.post('/:playlist_id/add-gebaar', async (req, res) => {
     const { playlist_id } = req.params;
     const { gebaar_id } = req.body;
 
     const playlist = playlists.find(p => p.id === playlist_id);
     if (!playlist) return res.status(404).json({ error: "Playlist niet gevonden" });
 
-    const gebaar = gebaren[gebaar_id];
-    if (!gebaar) return res.status(404).json({ error: "Gebaar niet gevonden" });
+    try {
+        // Zoek in de database naar het gebaar met het meegegeven id
+        const gebaar = await Sign.findOne({ id: gebaar_id });
+        if (!gebaar) return res.status(404).json({ error: "Gebaar niet gevonden" });
 
-    playlist.gebaren.push(gebaar);
-    console.log(`Gebaar '${gebaar_id}' toegevoegd aan playlist ${playlist_id}`);
-    res.status(200).json({ message: `Gebaar ${gebaar_id} toegevoegd aan playlist` });
+        // Voorkom dubbele toevoeging
+        if (playlist.gebaren.some(g => g.id === gebaar_id)) {
+            return res.status(400).json({ error: "Gebaar is al toegevoegd aan de playlist" });
+        }
+
+        playlist.gebaren.push(gebaar);
+        console.log(`Gebaar '${gebaar_id}' toegevoegd aan playlist ${playlist_id}`);
+        res.status(200).json({ message: `Gebaar ${gebaar_id} toegevoegd aan playlist` });
+    } catch (error) {
+        res.status(500).json({ error: error.message });
+    }
 });
 
 // Haal gebaren op uit een specifieke playlist
@@ -93,7 +86,13 @@ router.delete('/:playlist_id/remove-gebaar', (req, res) => {
     const playlist = playlists.find(p => p.id === playlist_id);
     if (!playlist) return res.status(404).json({ error: "Playlist niet gevonden" });
 
+    const initialCount = playlist.gebaren.length;
     playlist.gebaren = playlist.gebaren.filter(g => g.id !== gebaar_id);
+
+    if (playlist.gebaren.length === initialCount) {
+        return res.status(404).json({ error: "Gebaar niet gevonden in de playlist" });
+    }
+
     console.log(`Gebaar '${gebaar_id}' verwijderd uit playlist ${playlist_id}`);
     res.status(200).json({ message: `Gebaar ${gebaar_id} verwijderd uit playlist` });
 });
