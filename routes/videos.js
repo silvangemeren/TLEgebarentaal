@@ -10,7 +10,7 @@ const router = express.Router();
 router.get('/:file', async (req, res) => {
     try {
         const video = req.params.file;
-        const videoPath = path.join(__dirname, '../Gebarenvideos', video);
+        const videoPath = path.join(__dirname, '../Data/Gebarenvideos', video);
         res.sendFile(videoPath);
     } catch (error) {
         res.status(500).json({ error: error.message });
@@ -22,7 +22,7 @@ router.get('/:map/:file', async (req, res) => {
         const video = req.params.file;
         const map = req.params.map;
 
-        const videoPath = path.join(__dirname, `../Gebarenvideos/${map}`, video);
+        const videoPath = path.join(__dirname, `../Data/Gebarenvideos/${map}`, video);
         res.sendFile(videoPath);
     } catch (error) {
         res.status(500).json({ error: error.message });

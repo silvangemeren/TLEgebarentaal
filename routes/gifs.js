@@ -10,7 +10,7 @@ const router = express.Router();
 router.get('/:file', async (req, res) => {
     try {
         const gif = req.params.file;
-        const gifPath = path.join(__dirname, '../Gebarengifs', gif);
+        const gifPath = path.join(__dirname, '../Data/Gebarengifs', gif);
         res.sendFile(gifPath);
     } catch (error) {
         res.status(500).json({ error: error.message });
@@ -22,7 +22,7 @@ router.get('/:map/:file', async (req, res) => {
         const gif = req.params.file;
         const map = req.params.map;
 
-        const gifPath = path.join(__dirname, `../Gebarengifs/${map}`, gif);
+        const gifPath = path.join(__dirname, `../Data/Gebarengifs/${map}`, gif);
         res.sendFile(gifPath);
     } catch (error) {
         res.status(500).json({ error: error.message });
