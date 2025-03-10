@@ -1,12 +1,14 @@
 const express = require('express');
 const { v4: uuidv4 } = require('uuid');
 
-const app = express();
-app.use(express.json());
+const router = express.Router();
 
-// Voor testdoeleinden: basisroute om te checken of de server draait
-app.get('/', (req, res) => {
-    res.send('Server draait. Probeer de /playlists endpoints in Postman.');
+// Zorg dat je JSON requests kunt verwerken
+router.use(express.json());
+
+// (Optioneel) Basisroute voor testdoeleinden
+router.get('/', (req, res) => {
+    res.send('Playlist router draait. Gebruik POST, GET, etc. via deze router.');
 });
 
 let playlists = [];
@@ -31,7 +33,8 @@ const gebaren = {
 };
 
 // Maak een nieuwe playlist
-app.post('/playlists', (req, res) => {
+// Omdat je deze router mount op '/playlists', wordt dit endpoint beschikbaar als POST /playlists
+router.post('/', (req, res) => {
     const { playlist_naam } = req.body;
     if (!playlist_naam) {
         return res.status(400).json({ error: 'playlist_naam is verplicht' });
@@ -50,12 +53,13 @@ app.post('/playlists', (req, res) => {
 });
 
 // Haal alle playlists op
-app.get('/playlists', (req, res) => {
+router.get('/', (req, res) => {
     res.json(playlists);
 });
 
 // Voeg een gebaar toe aan een playlist
-app.post('/playlists/:playlist_id/add-gebaar', (req, res) => {
+// Dit wordt beschikbaar als POST /playlists/:playlist_id/add-gebaar
+router.post('/:playlist_id/add-gebaar', (req, res) => {
     const { playlist_id } = req.params;
     const { gebaar_id } = req.body;
 
@@ -71,7 +75,8 @@ app.post('/playlists/:playlist_id/add-gebaar', (req, res) => {
 });
 
 // Haal gebaren op uit een specifieke playlist
-app.get('/playlists/:playlist_id', (req, res) => {
+// Dit wordt beschikbaar als GET /playlists/:playlist_id
+router.get('/:playlist_id', (req, res) => {
     const { playlist_id } = req.params;
 
     const playlist = playlists.find(p => p.id === playlist_id);
@@ -81,7 +86,8 @@ app.get('/playlists/:playlist_id', (req, res) => {
 });
 
 // Verwijder een gebaar uit een playlist
-app.delete('/playlists/:playlist_id/remove-gebaar', (req, res) => {
+// Dit wordt beschikbaar als DELETE /playlists/:playlist_id/remove-gebaar
+router.delete('/:playlist_id/remove-gebaar', (req, res) => {
     const { playlist_id } = req.params;
     const { gebaar_id } = req.body;
 
@@ -93,8 +99,5 @@ app.delete('/playlists/:playlist_id/remove-gebaar', (req, res) => {
     res.status(200).json({ message: `Gebaar ${gebaar_id} verwijderd uit playlist` });
 });
 
-// Start de server
-const PORT = 8000;
-app.listen(PORT, () => {
-    console.log(`Server draait op poort ${PORT}`);
-});
+// Exporteer de router, zodat deze in de hoofdserver kan worden gebruikt
+module.exports = router;

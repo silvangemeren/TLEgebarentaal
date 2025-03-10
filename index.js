@@ -3,6 +3,8 @@ import mongoose from 'mongoose';
 import signs from "./routes/signs.js"
 import videos from "./routes/videos.js"
 import gifs from "./routes/gifs.js"
+const customPlaylistRouter = require('./routes/custom-playlist'); // pad naar jouw bestand
+
 
 const app = express()
 const port = process.env.EXPRESS_PORT
@@ -21,6 +23,7 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use('/videos', videos)
 app.use('/gifs', gifs)
+app.use('/playlists', customPlaylistRouter);
 
 app.use((req, res, next) => {
     const acceptHeader = req.headers.accept;
