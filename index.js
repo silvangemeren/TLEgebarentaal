@@ -4,6 +4,9 @@ import signs from "./routes/signs.js"
 import videos from "./routes/videos.js"
 import gifs from "./routes/gifs.js"
 
+import users from "./routes/users.js"
+
+
 
 const app = express()
 const port = process.env.EXPRESS_PORT
@@ -36,6 +39,8 @@ app.use((req, res, next) => {
 });
 
 app.use('/signs', signs)
+
+app.use('/users', users)
 
 app.listen(port, () => {
     console.log(`Sign language app is listening on port ${port}`)
