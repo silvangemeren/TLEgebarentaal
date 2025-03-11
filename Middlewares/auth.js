@@ -1,5 +1,5 @@
 import jwt from 'jsonwebtoken';
-import User from '../models/User.js';
+import User from '../Models/User.js';
 
 // Middleware om de gebruiker te authenticeren via token
 export const authenticateUser = async (req, res, next) => {
