@@ -23,7 +23,19 @@ const userSchema = new mongoose.Schema({
     playlists: [{
         title: { type: String, required: true },
         signs: [{ type: mongoose.Schema.Types.ObjectId, ref: "Sign" }]
-    }]
+    }],
+
+    createdAt: {
+        type: Date,
+        default: Date.now
+    },
+    expiresAt: {
+        type: Date,
+        default: function () {
+            return this.role === 'student' ? new Date(Date.now() + 15778800000) : undefined; // 6 maanden (in ms)
+        },
+        expires: 0 // TTL-index gebruikt dit om automatisch te verwijderen
+    }
 
 }, {
     timestamps: true,
