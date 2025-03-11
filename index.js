@@ -10,8 +10,8 @@ import users from "./routes/users.js"
 import apiKeysRouter from './routes/apiKeys.js'
 import aboutRoutes from "./routes/about.js";
 import authRoutes from "./routes/auth.js";
-
-
+import validateApiKey from "./Middlewares/apiAuth.js";
+import { authenticateUser } from './Middlewares/auth.js';
 
 const app = express()
 const port = process.env.EXPRESS_PORT
@@ -28,6 +28,10 @@ app.use('/', (req, res, next) => {
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+app.use('/auth', authRoutes)
+app.use(authenticateUser);
+app.use(validateApiKey);
+app.use('/apikeys', apiKeysRouter)
 app.use('/videos', videos)
 app.use('/gifs', gifs)
 
@@ -44,13 +48,13 @@ app.use((req, res, next) => {
     next();
 });
 
+
 app.use('/signs', signs)
 app.use('/playlist', customplaylist)
 
 app.use('/users', users)
-app.use('/apikeys', apiKeysRouter)
 app.use('/about', aboutRoutes)
-app.use('/auth', authRoutes)
+
 
 app.listen(port, () => {
     console.log(`Sign language app is listening on port ${port}`)

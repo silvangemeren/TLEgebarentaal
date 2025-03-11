@@ -13,4 +13,6 @@ const apiKeySchema = new mongoose.Schema({
         };
     }}});
 
-export default mongoose.model("ApiKey", apiKeySchema);
+const ApiKey = mongoose.models.ApiKey || mongoose.model("ApiKey", apiKeySchema);
+
+export default ApiKey;
