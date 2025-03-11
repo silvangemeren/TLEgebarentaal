@@ -4,10 +4,12 @@ import signs from "./routes/signs.js"
 import videos from "./routes/videos.js"
 import gifs from "./routes/gifs.js"
 import customplaylist from "./routes/customplaylist.js"
-import aboutRoutes from "./routes/about.js"
-import authRoutes from "./routes/auth.js"
+
 
 import users from "./routes/users.js"
+import apiKeysRouter from './routes/apiKeys.js'
+import aboutRoutes from "./routes/about.js";
+import authRoutes from "./routes/auth.js";
 
 
 
@@ -46,8 +48,9 @@ app.use('/signs', signs)
 app.use('/playlist', customplaylist)
 
 app.use('/users', users)
-app.use('/about', aboutRoutes);
-app.use('/auth', authRoutes);
+app.use('/apikeys', apiKeysRouter)
+app.use('/about', aboutRoutes)
+app.use('/auth', authRoutes)
 
 app.listen(port, () => {
     console.log(`Sign language app is listening on port ${port}`)
