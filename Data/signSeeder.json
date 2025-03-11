@@ -4973,10 +4973,16 @@
     "gif": "/gifs/Vannacht.gif",
     "lesson": 3,
     "explanation": "De nacht van de huidige dag.",
-    "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
-    },
+    "handShapesR": [
+      {
+        "shape": "1v",
+        "imageUrl": "/handshapes/1v.png"
+      },
+      {
+        "shape": "ontspannen B",
+        "imageUrl": "/handshapes/ontspannen B.png"
+      }
+    ],
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
       "imageUrl": "/mouthshapes/placeholder.jpg"
@@ -4988,10 +4994,16 @@
     "gif": "/gifs/Vanochtend.gif",
     "lesson": 3,
     "explanation": "De ochtend van de huidige dag.",
-    "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
-    },
+    "handShapesR": [
+      {
+        "shape": "1v",
+        "imageUrl": "/handshapes/1v.png"
+      },
+      {
+        "shape": "B-nul",
+        "imageUrl": "/handshapes/B-nul.png"
+      }
+    ],
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
       "imageUrl": "/mouthshapes/placeholder.jpg"
@@ -5004,8 +5016,8 @@
     "lesson": 7,
     "explanation": "Een grote hoeveelheid.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "Y",
+      "imageUrl": "/handshapes/Y.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5019,8 +5031,12 @@
     "lesson": 6,
     "explanation": "Een doek die wordt gebruikt om een wond te bedekken.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "B",
+      "imageUrl": "/handshapes/B.png"
+    },
+    "handShapesL": {
+      "shape": "B",
+      "imageUrl": "/handshapes/B.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5034,12 +5050,12 @@
     "lesson": 2,
     "explanation": "Een gevoel van droefheid.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "1",
+      "imageUrl": "/handshapes/1.png"
     },
     "mouthShape": {
-      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
-      "imageUrl": "/mouthshapes/placeholder.jpg"
+      "shape": "Dicht gestrekt omlaag",
+      "imageUrl": "/mouthshapes/Dicht gestrekt omlaag.jpg"
     }
   },
   {
@@ -5048,13 +5064,19 @@
     "gif": "/gifs/Vergeten.gif",
     "lesson": 2,
     "explanation": "Niet meer in staat zijn om iets te herinneren.",
-    "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
-    },
+    "handShapesR": [
+      {
+        "shape": "O",
+        "imageUrl": "/handshapes/O.png"
+      },
+      {
+        "shape": "ontspannen 5",
+        "imageUrl": "/handshapes/ontspannen 5.png"
+      }
+    ],
     "mouthShape": {
-      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
-      "imageUrl": "/mouthshapes/placeholder.jpg"
+      "shape": "pm",
+      "imageUrl": "/mouthshapes/pm.jpg"
     }
   },
   {
@@ -5063,9 +5085,19 @@
     "gif": "/gifs/Verpleegkundige.gif",
     "lesson": 6,
     "explanation": "Een beroepsbeoefenaar in de gezondheidszorg die patiënten verzorgt.",
-    "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+    "handShapesR": [
+      {
+        "shape": "B-nul",
+        "imageUrl": "/handshapes/B-nul.png"
+      },
+      {
+        "shape": "baby-C",
+        "imageUrl": "/handshapes/baby-C.png"
+      }
+    ],
+    "handShapesL": {
+      "shape": "B-nul",
+      "imageUrl": "/handshapes/B-nul.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5079,8 +5111,12 @@
     "lesson": 2,
     "explanation": "Iets mondeling of schriftelijk meedelen.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "B-nul",
+      "imageUrl": "/handshapes/B-nul.png"
+    },
+    "handShapesL": {
+      "shape": "B-nul",
+      "imageUrl": "/handshapes/B-nul.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5094,8 +5130,8 @@
     "lesson": 7,
     "explanation": "Irritant, lastig.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "B-nul",
+      "imageUrl": "/handshapes/B-nul.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5109,8 +5145,12 @@
     "lesson": 7,
     "explanation": "Een van de ledematen aan de hand.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "1",
+      "imageUrl": "/handshapes/1.png"
+    },
+    "handShapesL": {
+      "shape": "1",
+      "imageUrl": "/handshapes/1.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5124,8 +5164,8 @@
     "lesson": 7,
     "explanation": "Het onderste deel van het been.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "B",
+      "imageUrl": "/handshapes/B.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5139,8 +5179,8 @@
     "lesson": 1,
     "explanation": "Wat na iets anders komt.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "1",
+      "imageUrl": "/handshapes/1.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5154,8 +5194,12 @@
     "lesson": 1,
     "explanation": "Iets dat dient als model of illustratie.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "B-nul",
+      "imageUrl": "/handshapes/B-nul.png"
+    },
+    "handShapesL": {
+      "shape": "1",
+      "imageUrl": "/handshapes/1.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5169,8 +5213,12 @@
     "lesson": 1,
     "explanation": "Iets in orde maken voor gebruik of een gebeurtenis.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "B-nul",
+      "imageUrl": "/handshapes/B-nul.png"
+    },
+    "handShapesL": {
+      "shape": "B-nul",
+      "imageUrl": "/handshapes/B-nul.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5183,10 +5231,16 @@
     "gif": "/gifs/Voornaam.gif",
     "lesson": 1,
     "explanation": "De eerste naam van een persoon.",
-    "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
-    },
+    "handShapesR": [
+      {
+        "shape": "B-nul",
+        "imageUrl": "/handshapes/B-nul.png"
+      },
+      {
+        "shape": "baby-C",
+        "imageUrl": "/handshapes/baby-C.png"
+      }
+    ],
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
       "imageUrl": "/mouthshapes/placeholder.jpg"
@@ -5199,8 +5253,12 @@
     "lesson": 1,
     "explanation": "Iets aan iemand anders presenteren of introduceren.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "B-nul",
+      "imageUrl": "/handshapes/B-nul.png"
+    },
+    "handShapesL": {
+      "shape": "Q5",
+      "imageUrl": "/handshapes/Q5.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5214,8 +5272,8 @@
     "lesson": 1,
     "explanation": "Wat voor iets anders kwam.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "1",
+      "imageUrl": "/handshapes/1.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5229,8 +5287,8 @@
     "lesson": 2,
     "explanation": "Een verzoek om informatie.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "B-nul",
+      "imageUrl": "/handshapes/B-nul.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5244,8 +5302,8 @@
     "lesson": 2,
     "explanation": "Heel erg slecht.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "T-nul",
+      "imageUrl": "/handshapes/T-nul.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5259,8 +5317,12 @@
     "lesson": 5,
     "explanation": "Iemand met wie je een vriendschappelijke relatie hebt.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "B-nul",
+      "imageUrl": "/handshapes/B-nul.png"
+    },
+    "handShapesL": {
+      "shape": "B-nul",
+      "imageUrl": "/handshapes/B-nul.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5274,8 +5336,8 @@
     "lesson": 5,
     "explanation": "Een mannelijke partner in een romantische relatie.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "S",
+      "imageUrl": "/handshapes/S.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5289,8 +5351,12 @@
     "lesson": 3,
     "explanation": "Niet gebonden of beperkt.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "A",
+      "imageUrl": "/handshapes/A.png"
+    },
+    "handShapesL": {
+      "shape": "A",
+      "imageUrl": "/handshapes/A.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5304,8 +5370,12 @@
     "lesson": 5,
     "explanation": "Niet getrouwd.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "baby-open snavel",
+      "imageUrl": "/handshapes/baby-open snavel.png"
+    },
+    "handShapesL": {
+      "shape": "baby-open snavel",
+      "imageUrl": "/handshapes/baby-open snavel.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5319,8 +5389,8 @@
     "lesson": 5,
     "explanation": "Een volwassen vrouw.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "baby-open snavel",
+      "imageUrl": "/handshapes/baby-open snavel.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5334,8 +5404,8 @@
     "lesson": 5,
     "explanation": "Een vrouwelijke partner in een romantische relatie.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "S",
+      "imageUrl": "/handshapes/S.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5349,8 +5419,12 @@
     "lesson": 3,
     "explanation": "Op welke plaats.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "5",
+      "imageUrl": "/handshapes/5.png"
+    },
+    "handShapesL": {
+      "shape": "5",
+      "imageUrl": "/handshapes/5.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5364,8 +5438,12 @@
     "lesson": 3,
     "explanation": "Met welke reden.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "hoek-nul",
+      "imageUrl": "/handshapes/hoek-nul.png"
+    },
+    "handShapesL": {
+      "shape": "hoek-nul",
+      "imageUrl": "/handshapes/hoek-nul.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5379,8 +5457,12 @@
     "lesson": 7,
     "explanation": "Ergens blijven tot iets gebeurt.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "5",
+      "imageUrl": "/handshapes/5.png"
+    },
+    "handShapesL": {
+      "shape": "5",
+      "imageUrl": "/handshapes/5.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5394,8 +5476,12 @@
     "lesson": 5,
     "explanation": "Een ruimte waar mensen wachten.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "5",
+      "imageUrl": "/handshapes/5.png"
+    },
+    "handShapesL": {
+      "shape": "5",
+      "imageUrl": "/handshapes/5.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5409,8 +5495,8 @@
     "lesson": 7,
     "explanation": "Het deel van het gezicht onder het oog.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "B1",
+      "imageUrl": "/handshapes/B1.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5424,12 +5510,27 @@
     "lesson": 3,
     "explanation": "Op welk moment.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "5",
+      "imageUrl": "/handshapes/5.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
       "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
+  },
+  {
+    "translation": "Warm",
+    "video": "/videos/Warm (zijn).mp4",
+    "gif": "/gifs/Warm (zijn).gif",
+    "lesson": 6,
+    "explanation": "Het hebben van een hoge temperatuur.",
+    "handShapesR": {
+      "shape": "B-nul",
+      "imageUrl": "/handshapes/B-nul.png"
+    },
+    "mouthShape": {
+      "shape": "Dicht naar voren",
+      "imageUrl": "/mouthshapes/Dicht naar voren.jpg"
     }
   },
   {
@@ -5439,12 +5540,12 @@
     "lesson": 3,
     "explanation": "Welk ding of welke zaak.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "1",
+      "imageUrl": "/handshapes/1.png"
     },
     "mouthShape": {
-      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
-      "imageUrl": "/mouthshapes/placeholder.jpg"
+      "shape": "Dicht naar voren",
+      "imageUrl": "/mouthshapes/Dicht naar voren.jpg"
     }
   },
   {
@@ -5454,8 +5555,8 @@
     "lesson": 7,
     "explanation": "Een heldere vloeistof die essentieel is voor het leven.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "5r",
+      "imageUrl": "/handshapes/5r.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5469,8 +5570,8 @@
     "lesson": 6,
     "explanation": "Toilet.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "W",
+      "imageUrl": "/handshapes/W.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5484,8 +5585,8 @@
     "lesson": 3,
     "explanation": "Een periode van zeven dagen.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "baby-C",
+      "imageUrl": "/handshapes/baby-C.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5499,8 +5600,12 @@
     "lesson": 3,
     "explanation": "De zaterdag en zondag samen.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "B1",
+      "imageUrl": "/handshapes/B1.png"
+    },
+    "handShapesL": {
+      "shape": "AS",
+      "imageUrl": "/handshapes/AS.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5514,8 +5619,8 @@
     "lesson": 7,
     "explanation": "Een kleine hoeveelheid.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "Q",
+      "imageUrl": "/handshapes/Q.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5529,8 +5634,8 @@
     "lesson": 3,
     "explanation": "Een vraagwoord dat verwijst naar een specifieke keuze.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "Y",
+      "imageUrl": "/handshapes/Y.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5544,8 +5649,12 @@
     "lesson": 1,
     "explanation": "Een uiting van vreugde bij de komst van iemand.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "B-nul",
+      "imageUrl": "/handshapes/B-nul.png"
+    },
+    "handShapesL": {
+      "shape": "B-nul",
+      "imageUrl": "/handshapes/B-nul.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5559,8 +5668,8 @@
     "lesson": 3,
     "explanation": "Een vraagwoord dat verwijst naar een persoon.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "1",
+      "imageUrl": "/handshapes/1.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5574,8 +5683,8 @@
     "lesson": 2,
     "explanation": "De wens of het verlangen hebben om iets te doen of te krijgen.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "C-spreid",
+      "imageUrl": "/handshapes/C-spreid.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5588,10 +5697,16 @@
     "gif": "/gifs/Woonplaats.gif",
     "lesson": 5,
     "explanation": "De stad of het dorp waar iemand woont.",
-    "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
-    },
+    "handShapesR": [
+      {
+        "shape": "T",
+        "imageUrl": "/handshapes/T.png"
+      },
+      {
+        "shape": "T-nul",
+        "imageUrl": "/handshapes/T-nul.png"
+      }
+    ],
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
       "imageUrl": "/mouthshapes/placeholder.jpg"
@@ -5604,8 +5719,8 @@
     "lesson": 2,
     "explanation": "Iets verbaal uiten.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "1",
+      "imageUrl": "/handshapes/1.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5619,12 +5734,16 @@
     "lesson": 2,
     "explanation": "Een gevoel van onrust of spanning.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "1",
+      "imageUrl": "/handshapes/1.png"
+    },
+    "handShapesL": {
+      "shape": "1",
+      "imageUrl": "/handshapes/1.png"
     },
     "mouthShape": {
-      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
-      "imageUrl": "/mouthshapes/placeholder.jpg"
+      "shape": "Open tong slap",
+      "imageUrl": "/mouthshapes/Open tong slap.jpg"
     }
   },
   {
@@ -5634,8 +5753,12 @@
     "lesson": 5,
     "explanation": "Niet gezond zijn.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "B1",
+      "imageUrl": "/handshapes/B1.png"
+    },
+    "handShapesL": {
+      "shape": "T",
+      "imageUrl": "/handshapes/T.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5649,8 +5772,12 @@
     "lesson": 6,
     "explanation": "Een instelling waar zieken worden behandeld.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "1",
+      "imageUrl": "/handshapes/1.png"
+    },
+    "handShapesL": {
+      "shape": "1",
+      "imageUrl": "/handshapes/1.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5664,8 +5791,12 @@
     "lesson": 2,
     "explanation": "In een positie zijn waarbij het lichaam rust op de billen.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "S",
+      "imageUrl": "/handshapes/S.png"
+    },
+    "handShapesL": {
+      "shape": "S",
+      "imageUrl": "/handshapes/S.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5679,8 +5810,8 @@
     "lesson": 5,
     "explanation": "Een mannelijk kind.",
     "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
+      "shape": "open snavel",
+      "imageUrl": "/handshapes/open snavel.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
@@ -5693,10 +5824,26 @@
     "gif": "/gifs/Zorgverzekering.gif",
     "lesson": 5,
     "explanation": "Een verzekering die medische kosten dekt.",
-    "handShapesR": {
-      "shape": "xxxx",
-      "imageUrl": "/handshapes/xxxx.png"
-    },
+    "handShapesR": [
+      {
+        "shape": "geld",
+        "imageUrl": "/handshapes/geld.png"
+      },
+      {
+        "shape": "B-nul",
+        "imageUrl": "/handshapes/B-nul.png"
+      }
+    ],
+    "handShapesL": [
+      {
+        "shape": "geld",
+        "imageUrl": "/handshapes/geld.png"
+      },
+      {
+        "shape": "S",
+        "imageUrl": "/handshapes/S.png"
+      }
+    ],
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
       "imageUrl": "/mouthshapes/placeholder.jpg"

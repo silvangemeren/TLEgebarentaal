@@ -6,8 +6,7 @@ import gifs from "./routes/gifs.js"
 import handshapes from "./routes/handshapes.js";
 import mouthshapes from "./routes/mouthshapes.js";
 import customplaylist from "./routes/customplaylist.js"
-
-
+import theorybook from "./routes/theorybook.js"
 import users from "./routes/users.js"
 
 
@@ -31,6 +30,8 @@ app.use('/videos', videos)
 app.use('/gifs', gifs)
 app.use('/handshapes', handshapes)
 app.use('/mouthshapes', mouthshapes)
+app.use('/theorybook', theorybook)
+
 
 app.use((req, res, next) => {
     const acceptHeader = req.headers.accept;
