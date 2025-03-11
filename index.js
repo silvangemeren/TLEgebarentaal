@@ -7,6 +7,8 @@ import customplaylist from "./routes/customplaylist.js"
 
 
 import users from "./routes/users.js"
+import aboutRoutes from "./routes/about.js";
+import authRoutes from "./routes/auth.js";
 
 
 
@@ -45,6 +47,8 @@ app.use('/signs', signs)
 app.use('/playlist', customplaylist)
 
 app.use('/users', users)
+app.use('/about', aboutRoutes)
+app.use('/auth', authRoutes)
 
 app.listen(port, () => {
     console.log(`Sign language app is listening on port ${port}`)
