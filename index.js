@@ -4,10 +4,8 @@ import signs from "./routes/signs.js"
 import videos from "./routes/videos.js"
 import gifs from "./routes/gifs.js"
 import customplaylist from "./routes/customplaylist.js"
-
-
 import users from "./routes/users.js"
-
+import apiKeysRouter from './routes/apiKeys.js'
 
 
 const app = express()
@@ -45,6 +43,7 @@ app.use('/signs', signs)
 app.use('/playlist', customplaylist)
 
 app.use('/users', users)
+app.use('/apikeys', apiKeysRouter)
 
 app.listen(port, () => {
     console.log(`Sign language app is listening on port ${port}`)
