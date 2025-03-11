@@ -2,6 +2,7 @@ import express from "express";
 import Sign from "../Models/Sign.js";
 import fs from 'fs';
 import { getFilteredSigns } from "./filter.js"; // Zorg dat het pad klopt
+import { authenticateUser, isAdminOrTeacher } from "../middlewares/auth.js"; // Voeg deze import toe
 
 const router = express.Router();
 
@@ -63,8 +64,10 @@ router.get('/:id', async (req, res) => {
     }
 });
 
-// De rest van je routes (POST, PUT, DELETE, etc.)
-router.post('/', async (req, res) => {
+// De volgende routes (POST, PUT, DELETE) worden beschermd met authenticateUser en isAdminOrTeacher
+
+// POST: Alleen teacher en admin mogen een nieuw gebaar toevoegen
+router.post('/', authenticateUser, isAdminOrTeacher, async (req, res) => {
     if (req.body.method === "SEED") {
         try {
             let amount = req.body.amount;
@@ -101,6 +104,28 @@ router.post('/', async (req, res) => {
     }
 });
 
+// PUT: Alleen teacher en admin mogen een bestaand gebaar updaten
+router.put('/:id', authenticateUser, isAdminOrTeacher, async (req, res) => {
+    try {
+        const { id } = req.params;
+        const sign = await Sign.findByIdAndUpdate(id, req.body, { new: true });
+        res.status(200).json(sign);
+    } catch (err) {
+        res.status(500).json({ error: err.message });
+    }
+});
+
+// DELETE: Alleen teacher en admin mogen een gebaar verwijderen
+router.delete('/:id', authenticateUser, isAdminOrTeacher, async (req, res) => {
+    try {
+        const { id } = req.params;
+        const sign = await Sign.findByIdAndDelete(id);
+        res.status(201).json(sign);
+    } catch (err) {
+        res.status(400).json({ error: err.message });
+    }
+});
+
 router.options('/', (req, res) => {
     res.setHeader('Allow', 'GET, POST, OPTIONS');
     res.setHeader('Access-Control-Allow-Methods', ['GET', 'POST', 'OPTIONS']);
@@ -111,26 +136,6 @@ router.options('/:id', (req, res) => {
     res.setHeader('Allow', 'GET, POST, OPTIONS, DELETE');
     res.setHeader('Access-Control-Allow-Methods', ['GET', 'POST', 'OPTIONS, DELETE']);
     res.status(204).send();
-});
-
-router.put('/:id', async (req, res) => {
-    try {
-        const { id } = req.params;
-        const sign = await Sign.findByIdAndUpdate(id, req.body, { new: true });
-        res.status(200).json(sign);
-    } catch (err) {
-        res.status(500).json({ error: err.message });
-    }
-});
-
-router.delete('/:id', async (req, res) => {
-    try {
-        const { id } = req.params;
-        const sign = await Sign.findByIdAndDelete(id);
-        res.status(201).json(sign);
-    } catch (err) {
-        res.status(400).json({ error: err.message });
-    }
 });
 
 export default router;
