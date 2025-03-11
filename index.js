@@ -5,6 +5,12 @@ import videos from "./routes/videos.js"
 import gifs from "./routes/gifs.js"
 import handshapes from "./routes/handshapes.js";
 import mouthshapes from "./routes/mouthshapes.js";
+import customplaylist from "./routes/customplaylist.js"
+
+
+import users from "./routes/users.js"
+
+
 
 const app = express()
 const port = process.env.EXPRESS_PORT
@@ -39,6 +45,9 @@ app.use((req, res, next) => {
 });
 
 app.use('/signs', signs)
+app.use('/playlist', customplaylist)
+
+app.use('/users', users)
 
 app.listen(port, () => {
     console.log(`Sign language app is listening on port ${port}`)
