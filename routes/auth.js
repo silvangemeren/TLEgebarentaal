@@ -1,7 +1,7 @@
 import express from 'express';
 import jwt from 'jsonwebtoken';
 import bcrypt from 'bcryptjs';
-import User from '../models/User.js';
+import User from '../Models/User.js';
 
 const router = express.Router();
 
@@ -66,9 +66,10 @@ router.post('/register', async (req, res) => {
 
         res.status(201).json({ message: 'Gebruiker succesvol geregistreerd!' });
     } catch (error) {
-        console.error('❌ Error during registration:', error);
-        res.status(500).json({ error: 'Serverfout bij registreren.' });
+        console.error('❌ Error during registration:', error); // <-- Voeg deze regel toe!
+        res.status(500).json({ error: 'Serverfout bij registreren.', details: error.message }); // <-- Geef details terug
     }
 });
+
 
 export default router;
