@@ -6,11 +6,12 @@ const signSchema = new mongoose.Schema({
     gif: { type: String, required: true },
     lesson: { type: Number, required: true },
     explanation: { type: String, required: false },
-    handShapesL: {
+    wordgroup: { type: String, required: false },
+    handShapesR: {
         // [shape: string, imageUrl: string]
         type: Array, required: false, _id: false
     },
-    handShapesR: {
+    handShapesL: {
         // [shape: string, imageUrl: string]
         type: Array, required: false, _id: false
     },
