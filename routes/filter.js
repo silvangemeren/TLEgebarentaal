@@ -1,6 +1,6 @@
 import Sign from "../Models/Sign.js";
 
-export const getFilteredSigns = async (query, page = 1, limit = 10) => {
+export const getFilteredSigns = async (query, page = 1, limit) => {
     try {
         page = parseInt(page);
         limit = parseInt(limit);
