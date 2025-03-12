@@ -3,9 +3,10 @@ import mongoose from 'mongoose';
 import signs from "./routes/signs.js"
 import videos from "./routes/videos.js"
 import gifs from "./routes/gifs.js"
+import handshapes from "./routes/handshapes.js";
+import mouthshapes from "./routes/mouthshapes.js";
 import customplaylist from "./routes/customplaylist.js"
-
-
+import theorybook from "./routes/theorybook.js"
 import users from "./routes/users.js"
 import apiKeysRouter from './routes/apiKeys.js'
 import aboutRoutes from "./routes/about.js";
@@ -34,6 +35,9 @@ app.use(validateApiKey);
 app.use('/apikeys', apiKeysRouter)
 app.use('/videos', videos)
 app.use('/gifs', gifs)
+app.use('/handshapes', handshapes)
+app.use('/mouthshapes', mouthshapes)
+app.use('/theorybook', theorybook)
 
 
 app.use((req, res, next) => {
