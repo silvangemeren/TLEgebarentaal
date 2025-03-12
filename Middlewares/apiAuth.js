@@ -3,7 +3,10 @@ import ApiKey from "../Models/ApiKey.js";
 // Middleware om een geldige API-key te controleren
 const validateApiKey = async (req, res, next) => {
 
-    if (req.user && req.user.role === 'admin') return next()
+    // Als de gebruiker is ingelogd als admin of teacher, sla API-key validatie over
+    if (req.user && (req.user.role === 'admin' || req.user.role === 'teacher' || req.user.role === 'student')) {
+        return next();
+    }
 
     const apiKey = req.header('x-api-key'); // Haal de API-key op uit de request headers
 

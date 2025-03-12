@@ -1,11 +1,13 @@
 import express from 'express';
 import ApiKey from '../models/ApiKey.js';
 import crypto from 'crypto';
+import {isAdmin} from '../Middlewares/auth.js';
 
 const router = express.Router();
 
 // Endpoint voor het aanmaken van een API-key
-router.post('/', async (req, res) => {
+// Endpoint voor het aanmaken van een API-key (alleen admin)
+router.post('/', isAdmin, async (req, res) => {
     try {
         const { website } = req.body;
 
@@ -27,7 +29,7 @@ router.post('/', async (req, res) => {
 });
 
 // Optioneel: Een lijst met alle API-keys ophalen (alleen voor admins bijvoorbeeld)
-router.get('/', async (req, res) => {
+router.get('/', isAdmin,async (req, res) => {
     try {
         const apiKeys = await ApiKey.find();
         res.json(apiKeys);
