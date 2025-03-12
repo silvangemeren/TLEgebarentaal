@@ -5057,6 +5057,21 @@
     }
   },
   {
+    "translation": "Poepen",
+    "video": "/videos/Poepen.mp4",
+    "gif": "/gifs/Poepen.gif",
+    "lesson": 6,
+    "explanation": "Het lozen van ontlasting.",
+    "handShapesR": {
+      "shape": "C-spreid",
+      "imageUrl": "/handshapes/C-spreid.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
+  },
+  {
     "translation": "Pols",
     "video": "/videos/Pols.mp4",
     "gif": "/gifs/Pols.gif",
@@ -5416,6 +5431,25 @@
     }
   },
   {
+    "translation": "Staan",
+    "video": "/videos/Staan.mp4",
+    "gif": "/gifs/Staan.gif",
+    "lesson": 6,
+    "explanation": "Als iets op de grond staat.",
+    "handShapesR": {
+      "shape": "B-nul",
+      "imageUrl": "/handshapes/B-nul.png"
+    },
+    "handShapesL": {
+      "shape": "B-nul",
+      "imageUrl": "/handshapes/B-nul.png"
+    },
+    "mouthShape": {
+      "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
+      "imageUrl": "/mouthshapes/placeholder.jpg"
+    }
+  },
+  {
     "translation": "Student",
     "video": "/videos/Student.mp4",
     "gif": "/gifs/Student.gif",
@@ -5561,12 +5595,12 @@
     "lesson": 6,
     "explanation": "De mate van warmte of koude van een object of omgeving.",
     "handShapesR": {
-      "shape": "B-nul",
-      "imageUrl": "/handshapes/B-nul.png"
+      "shape": "1",
+      "imageUrl": "/handshapes/1.png"
     },
     "handShapesL": {
-      "shape": "B-nul",
-      "imageUrl": "/handshapes/B-nul.png"
+      "shape": "1",
+      "imageUrl": "/handshapes/1.png"
     },
     "mouthShape": {
       "shape": "Simuleer de uitspraak van het woord met een mondbeweging",
