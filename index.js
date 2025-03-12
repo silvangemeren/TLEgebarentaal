@@ -13,6 +13,7 @@ import aboutRoutes from "./routes/about.js";
 import authRoutes from "./routes/auth.js";
 import validateApiKey from "./Middlewares/apiAuth.js";
 import { authenticateUser } from './Middlewares/auth.js';
+import { authorize } from './Middlewares/auth.js';
 
 const app = express()
 const port = process.env.EXPRESS_PORT
@@ -29,17 +30,25 @@ app.use('/', (req, res, next) => {
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-app.use('/auth', authRoutes)
+// Authentication routes
+app.use('/auth', authRoutes);
+
+// Middleware voor authenticatie
 app.use(authenticateUser);
 app.use(validateApiKey);
-app.use('/apikeys', apiKeysRouter)
-app.use('/videos', videos)
-app.use('/gifs', gifs)
-app.use('/handshapes', handshapes)
-app.use('/mouthshapes', mouthshapes)
-app.use('/theorybook', theorybook)
 
+// **Routes met autorisatie**
+app.use('/apikeys', authorize('admin'), apiKeysRouter); // Alleen admin toegang
+app.use('/signs', authorize('teacher', 'admin', 'student'), signs);
+app.use('/about', authorize('teacher', 'admin', 'student'), aboutRoutes);
+app.use('/videos', authorize('teacher', 'admin', 'student'), videos);
+app.use('/gifs', authorize('teacher', 'admin', 'student'), gifs);
+app.use('/handshapes', authorize('teacher', 'admin', 'student'), handshapes);
+app.use('/mouthshapes', authorize('teacher', 'admin', 'student'), mouthshapes);
+app.use('/theorybook', authorize('teacher', 'admin', 'student'), theorybook);
+app.use('/playlist', authorize('student'), customplaylist);
 
+// Extra configuratie
 app.use((req, res, next) => {
     const acceptHeader = req.headers.accept;
 
@@ -52,14 +61,9 @@ app.use((req, res, next) => {
     next();
 });
 
-
-app.use('/signs', signs)
-app.use('/playlist', customplaylist)
-
-app.use('/users', users)
-app.use('/about', aboutRoutes)
-
+// Users route
+app.use('/users', users);
 
 app.listen(port, () => {
-    console.log(`Sign language app is listening on port ${port}`)
-})
+    console.log(`Sign language app is listening on port ${port}`);
+});

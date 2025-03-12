@@ -33,3 +33,21 @@ export const isAdminOrTeacher = (req, res, next) => {
     }
     next();
 };
+
+// Middleware om te controleren of de gebruiker een admin is
+export const isAdmin = (req, res, next) => {
+    if (req.user && req.user.role === 'admin') {
+        return next();
+    }
+    return res.status(403).json({ error: 'Toegang geweigerd: alleen admins hebben toegang.' });
+};
+
+// Middleware voor flexibele autorisatie op basis van rollen
+export const authorize = (...roles) => {
+    return (req, res, next) => {
+        if (req.user && roles.includes(req.user.role)) {
+            return next();
+        }
+        return res.status(403).json({ error: 'Toegang geweigerd.' });
+    };
+};

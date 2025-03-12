@@ -4,7 +4,7 @@ import ApiKey from "../Models/ApiKey.js";
 const validateApiKey = async (req, res, next) => {
 
     // Als de gebruiker is ingelogd als admin of teacher, sla API-key validatie over
-    if (req.user && (req.user.role === 'admin' || req.user.role === 'teacher')) {
+    if (req.user && (req.user.role === 'admin' || req.user.role === 'teacher' || req.user.role === 'student')) {
         return next();
     }
 
