@@ -46,7 +46,8 @@ app.use('/gifs', authorize('teacher', 'admin', 'student'), gifs);
 app.use('/handshapes', authorize('teacher', 'admin', 'student'), handshapes);
 app.use('/mouthshapes', authorize('teacher', 'admin', 'student'), mouthshapes);
 app.use('/theorybook', authorize('teacher', 'admin', 'student'), theorybook);
-app.use('/playlist', authorize('student'), customplaylist);
+app.use('/playlist', authorize('teacher', 'admin', 'student'), customplaylist);
+app.use('/playlists', customplaylist);  // Iedereen mag GET gebruiken
 
 // Extra configuratie
 app.use((req, res, next) => {
