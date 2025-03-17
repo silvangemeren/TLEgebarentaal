@@ -49,7 +49,7 @@ app.use('/handshapes', authorize('teacher', 'admin', 'student'), handshapes);
 app.use('/mouthshapes', authorize('teacher', 'admin', 'student'), mouthshapes);
 app.use('/theorybook', authorize('teacher', 'admin', 'student'), theorybook);
 app.use('/playlist', authorize('teacher', 'admin', 'student'), customplaylist);
-app.use('/playlists', customplaylist);  // Iedereen mag GET gebruiken
+app.use('/playlists', authorize('teacher', 'admin', 'student'), customplaylist);
 
 // Extra configuratie
 app.use((req, res, next) => {
