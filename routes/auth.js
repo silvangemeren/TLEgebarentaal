@@ -73,7 +73,7 @@ router.post('/register', async (req, res) => {
                 loginCode
             });
 
-            await newUser.save();
+            const user = await newUser.save();
 
             const responseToken = jwt.sign(
                 { userId: user._id, role: user.role },

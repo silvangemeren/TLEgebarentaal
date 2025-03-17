@@ -56,11 +56,19 @@ router.get('/', async (req, res) => {
 });
 
 router.post('/', async (req, res) => {
-    try {
-        const newUser = await User.create(req.body);
-        res.status(201).json({ message: "Gebruiker succesvol toegevoegd", data: newUser });
-    } catch (error) {
-        res.status(400).json({ error: error.message });
+    if (req.body.method === "DELETE_ALL") {
+        try {
+            await User.deleteMany({});
+        } catch (error) {
+            res.status(400).json({ error: error.message });
+        }
+    } else {
+        try {
+            const newUser = await User.create(req.body);
+            res.status(201).json({ message: "Gebruiker succesvol toegevoegd", data: newUser });
+        } catch (error) {
+            res.status(400).json({ error: error.message });
+        }
     }
 })
 
