@@ -36,14 +36,14 @@ router.get('/', async (req, res) => {
                             href: `${process.env.BASE_URL}/users?page=1&limit=${limit}`
                         },
                         last: {
-                            page: Math.ceil(totalusers / limit),
+                            page: Math.ceil(totalUsers / limit),
                             href: `${process.env.BASE_URL}/users?page=${Math.ceil(totalUsers / limit)}&limit=${limit}`
                         },
                         previous: page > 1 ? {
                             page: page - 1,
                             href: `${process.env.BASE_URL}/users?page=${page - 1}&limit=${limit}`
                         } : null,
-                        next: (page * limit < totalusers) ? {
+                        next: (page * limit < totalUsers) ? {
                             page: page + 1,
                             href: `${process.env.BASE_URL}/users?page=${page + 1}&limit=${limit}`
                         } : null

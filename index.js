@@ -27,6 +27,11 @@ app.use('/', (req, res, next) => {
     next();
 })
 
+// Files die geen authorisatie en accept json nodig hebben
+app.use('/videos', videos);
+app.use('/gifs', gifs);
+app.use('/handshapes', handshapes);
+app.use('/mouthshapes', mouthshapes);
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -43,13 +48,14 @@ app.use('/apikeys', authorize('admin'), apiKeysRouter); // Alleen admin toegang
 app.use('/signs', authorize('teacher', 'admin', 'student'), signs);
 app.use('/wordgroups', authorize('teacher', 'admin', 'student'), wordgroups);
 app.use('/about', authorize('teacher', 'admin', 'student'), aboutRoutes);
-app.use('/videos', authorize('teacher', 'admin', 'student'), videos);
-app.use('/gifs', authorize('teacher', 'admin', 'student'), gifs);
-app.use('/handshapes', authorize('teacher', 'admin', 'student'), handshapes);
-app.use('/mouthshapes', authorize('teacher', 'admin', 'student'), mouthshapes);
 app.use('/theorybook', authorize('teacher', 'admin', 'student'), theorybook);
+<<<<<<< Updated upstream
 app.use('/playlist', authorize('teacher', 'admin', 'student'), customplaylist);
 app.use('/playlists', customplaylist);  // Iedereen mag GET gebruiken
+=======
+app.use('/users', authorize('teacher', 'admin'), users);
+app.use('/playlist', authorize('student'), customplaylist);
+>>>>>>> Stashed changes
 
 // Extra configuratie
 app.use((req, res, next) => {
@@ -63,9 +69,6 @@ app.use((req, res, next) => {
     }
     next();
 });
-
-// Users route
-app.use('/users', users);
 
 app.listen(port, () => {
     console.log(`Sign language app is listening on port ${port}`);
