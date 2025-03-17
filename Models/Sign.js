@@ -7,6 +7,7 @@ const signSchema = new mongoose.Schema({
     lesson: { type: Number, required: true },
     explanation: { type: String, required: false },
     wordgroup: { type: String, required: false },
+    wordgroupNumber: { type: Number, required: false },
     handShapesR: {
         // [shape: string, imageUrl: string]
         type: Array, required: false, _id: false

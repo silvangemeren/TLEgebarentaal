@@ -6,6 +6,7 @@
         "lesson": 2,
         "explanation": "Het getal 0, wordt gebruikt als een numerieke aanduiding voor 0.",
         "wordgroup": "Tellen",
+        "wordgroupNumber": 8,
         "handShapesR": {
             "shape": "O",
             "imageUrl": "/handshapes/O.png"
@@ -22,6 +23,7 @@
         "lesson": 2,
         "explanation": "Het getal 1, de eerste natuurlijke en positieve eenheid.",
         "wordgroup": "Tellen",
+        "wordgroupNumber": 8,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -38,6 +40,7 @@
         "lesson": 2,
         "explanation": "Het getal 2, het eerste even getal en de kleinste priemgetal.",
         "wordgroup": "Tellen",
+        "wordgroupNumber": 8,
         "handShapesR": {
             "shape": "V",
             "imageUrl": "/handshapes/V.png"
@@ -54,6 +57,7 @@
         "lesson": 2,
         "explanation": "Het getal 3, een oneven getal en het eerste priemgetal na 2.",
         "wordgroup": "Tellen",
+        "wordgroupNumber": 8,
         "handShapesR": {
             "shape": "3",
             "imageUrl": "/handshapes/3.png"
@@ -70,6 +74,7 @@
         "lesson": 2,
         "explanation": "Het getal 4, het eerste kwadraatgetal (2×2).",
         "wordgroup": "Tellen",
+        "wordgroupNumber": 8,
         "handShapesR": {
             "shape": "4",
             "imageUrl": "/handshapes/4.png"
@@ -86,6 +91,7 @@
         "lesson": 2,
         "explanation": "Het getal 5, een oneven priemgetal en halverwege 0 en 10.",
         "wordgroup": "Tellen",
+        "wordgroupNumber": 8,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -102,6 +108,7 @@
         "lesson": 2,
         "explanation": "Het getal 6, het eerste perfecte getal (1+2+3=6).",
         "wordgroup": "Tellen",
+        "wordgroupNumber": 8,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -118,6 +125,7 @@
         "lesson": 2,
         "explanation": "Het getal 7, vaak beschouwd als een geluksgetal.",
         "wordgroup": "Tellen",
+        "wordgroupNumber": 8,
         "handShapesR": {
             "shape": "L",
             "imageUrl": "/handshapes/L.png"
@@ -134,6 +142,7 @@
         "lesson": 2,
         "explanation": "Het getal 8, een macht van 2 (2×2×2).",
         "wordgroup": "Tellen",
+        "wordgroupNumber": 8,
         "handShapesR": {
             "shape": "W",
             "imageUrl": "/handshapes/W.png"
@@ -150,6 +159,7 @@
         "lesson": 2,
         "explanation": "Het getal 9, het kwadraat van 3 (3×3).",
         "wordgroup": "Tellen",
+        "wordgroupNumber": 8,
         "handShapesR": {
             "shape": "9",
             "imageUrl": "/handshapes/9.png"
@@ -166,6 +176,7 @@
         "lesson": 2,
         "explanation": "Het getal 10, de basis van ons decimale stelsel.",
         "wordgroup": "Tellen",
+        "wordgroupNumber": 8,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -182,6 +193,7 @@
         "lesson": 2,
         "explanation": "Het getal 11, een palindroomgetal en een priemgetal.",
         "wordgroup": "Tellen",
+        "wordgroupNumber": 8,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -198,6 +210,7 @@
         "lesson": 2,
         "explanation": "Het getal 12, een veelvoudig gebruikt getal in tijdsindelingen en maateenheden.",
         "wordgroup": "Tellen",
+        "wordgroupNumber": 8,
         "handShapesR": {
             "shape": "L",
             "imageUrl": "/handshapes/L.png"
@@ -214,6 +227,7 @@
         "lesson": 4,
         "explanation": "Het getal 13, wordt gebruikt als een numerieke aanduiding voor 13.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "3",
             "imageUrl": "/handshapes/3.png"
@@ -230,6 +244,7 @@
         "lesson": 4,
         "explanation": "Het getal 14, wordt gebruikt als een numerieke aanduiding voor 14.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "4",
             "imageUrl": "/handshapes/4.png"
@@ -246,6 +261,7 @@
         "lesson": 4,
         "explanation": "Het getal 15, wordt gebruikt als een numerieke aanduiding voor 15.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -262,6 +278,7 @@
         "lesson": 4,
         "explanation": "Het getal 16, wordt gebruikt als een numerieke aanduiding voor 16.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -278,6 +295,7 @@
         "lesson": 4,
         "explanation": "Het getal 17, wordt gebruikt als een numerieke aanduiding voor 17.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "L",
             "imageUrl": "/handshapes/L.png"
@@ -294,6 +312,7 @@
         "lesson": 4,
         "explanation": "Het getal 18, wordt gebruikt als een numerieke aanduiding voor 18.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "W",
             "imageUrl": "/handshapes/W.png"
@@ -310,6 +329,7 @@
         "lesson": 4,
         "explanation": "Het getal 19, wordt gebruikt als een numerieke aanduiding voor 19.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "9",
             "imageUrl": "/handshapes/9.png"
@@ -326,6 +346,7 @@
         "lesson": 4,
         "explanation": "Het getal 20, wordt gebruikt als een numerieke aanduiding voor 20.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "V",
             "imageUrl": "/handshapes/V.png"
@@ -342,6 +363,7 @@
         "lesson": 4,
         "explanation": "Het getal 21, wordt gebruikt als een numerieke aanduiding voor 21.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": [
             {
                 "shape": "1",
@@ -364,6 +386,7 @@
         "lesson": 4,
         "explanation": "Het getal 22, wordt gebruikt als een numerieke aanduiding voor 22.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "V",
             "imageUrl": "/handshapes/V.png"
@@ -380,6 +403,7 @@
         "lesson": 4,
         "explanation": "Het getal 23, wordt gebruikt als een numerieke aanduiding voor 23.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": [
             {
                 "shape": "3",
@@ -402,6 +426,7 @@
         "lesson": 4,
         "explanation": "Het getal 24, wordt gebruikt als een numerieke aanduiding voor 24.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": [
             {
                 "shape": "4",
@@ -424,6 +449,7 @@
         "lesson": 4,
         "explanation": "Het getal 25, wordt gebruikt als een numerieke aanduiding voor 25.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": [
             {
                 "shape": "5",
@@ -446,6 +472,7 @@
         "lesson": 4,
         "explanation": "Het getal 26, wordt gebruikt als een numerieke aanduiding voor 26.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": [
             {
                 "shape": "A",
@@ -468,6 +495,7 @@
         "lesson": 4,
         "explanation": "Het getal 27, wordt gebruikt als een numerieke aanduiding voor 27.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": [
             {
                 "shape": "L",
@@ -490,6 +518,7 @@
         "lesson": 4,
         "explanation": "Het getal 28, wordt gebruikt als een numerieke aanduiding voor 28.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": [
             {
                 "shape": "W",
@@ -512,6 +541,7 @@
         "lesson": 4,
         "explanation": "Het getal 29, wordt gebruikt als een numerieke aanduiding voor 29.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": [
             {
                 "shape": "9",
@@ -534,6 +564,7 @@
         "lesson": 4,
         "explanation": "Het getal 30, wordt gebruikt als een numerieke aanduiding voor 30.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "3",
             "imageUrl": "/handshapes/3.png"
@@ -550,6 +581,7 @@
         "lesson": 4,
         "explanation": "Het getal 33, wordt gebruikt als een numerieke aanduiding voor 33.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "3",
             "imageUrl": "/handshapes/3.png"
@@ -566,6 +598,7 @@
         "lesson": 4,
         "explanation": "Het getal 40, wordt gebruikt als een numerieke aanduiding voor 40.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "4",
             "imageUrl": "/handshapes/4.png"
@@ -582,6 +615,7 @@
         "lesson": 4,
         "explanation": "Het getal 44, wordt gebruikt als een numerieke aanduiding voor 44.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "4",
             "imageUrl": "/handshapes/4.png"
@@ -598,6 +632,7 @@
         "lesson": 4,
         "explanation": "Het getal 50, wordt gebruikt als een numerieke aanduiding voor 50.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -614,6 +649,7 @@
         "lesson": 4,
         "explanation": "Het getal 55, wordt gebruikt als een numerieke aanduiding voor 55.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -630,6 +666,7 @@
         "lesson": 4,
         "explanation": "Het getal 60, wordt gebruikt als een numerieke aanduiding voor 60.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -646,6 +683,7 @@
         "lesson": 4,
         "explanation": "Het getal 66, wordt gebruikt als een numerieke aanduiding voor 66.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -662,6 +700,7 @@
         "lesson": 4,
         "explanation": "Het getal 70, wordt gebruikt als een numerieke aanduiding voor 70.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "L",
             "imageUrl": "/handshapes/L.png"
@@ -678,6 +717,7 @@
         "lesson": 4,
         "explanation": "Het getal 77, wordt gebruikt als een numerieke aanduiding voor 77.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "L",
             "imageUrl": "/handshapes/L.png"
@@ -694,6 +734,7 @@
         "lesson": 4,
         "explanation": "Het getal 80, wordt gebruikt als een numerieke aanduiding voor 80.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "W",
             "imageUrl": "/handshapes/W.png"
@@ -710,6 +751,7 @@
         "lesson": 4,
         "explanation": "Het getal 88, wordt gebruikt als een numerieke aanduiding voor 88.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "W",
             "imageUrl": "/handshapes/W.png"
@@ -726,6 +768,7 @@
         "lesson": 4,
         "explanation": "Het getal 90, wordt gebruikt als een numerieke aanduiding voor 90.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "9",
             "imageUrl": "/handshapes/9.png"
@@ -742,6 +785,7 @@
         "lesson": 4,
         "explanation": "Het getal 99, wordt gebruikt als een numerieke aanduiding voor 99.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "9",
             "imageUrl": "/handshapes/9.png"
@@ -758,6 +802,7 @@
         "lesson": 4,
         "explanation": "Het getal 100, wordt gebruikt als een numerieke aanduiding voor 100.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "open snavel",
             "imageUrl": "/handshapes/open snavel.png"
@@ -774,6 +819,7 @@
         "lesson": 3,
         "explanation": "Maandag is de 1e dag van de week.",
         "wordgroup": "Dagen",
+        "wordgroupNumber": 10,
         "handShapesR": {
             "shape": "B",
             "imageUrl": "/handshapes/B.png"
@@ -790,6 +836,7 @@
         "lesson": 3,
         "explanation": "Dinsdag is de 2e dag van de week.",
         "wordgroup": "Dagen",
+        "wordgroupNumber": 10,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -806,6 +853,7 @@
         "lesson": 3,
         "explanation": "Woensdag is de 3e dag van de week.",
         "wordgroup": "Dagen",
+        "wordgroupNumber": 10,
         "handShapesR": {
             "shape": "hoek",
             "imageUrl": "/handshapes/hoek.png"
@@ -826,6 +874,7 @@
         "lesson": 3,
         "explanation": "Donderdag is de 4e dag van de week.",
         "wordgroup": "Dagen",
+        "wordgroupNumber": 10,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -842,6 +891,7 @@
         "lesson": 3,
         "explanation": "Vrijdag is de 5e dag van de week.",
         "wordgroup": "Dagen",
+        "wordgroupNumber": 10,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -858,6 +908,7 @@
         "lesson": 3,
         "explanation": "Zaterdag is de 6e dag van de week.",
         "wordgroup": "Dagen",
+        "wordgroupNumber": 10,
         "handShapesR": {
             "shape": "AS",
             "imageUrl": "/handshapes/AS.png"
@@ -878,6 +929,7 @@
         "lesson": 3,
         "explanation": "Zondag is de 7e dag van de week.",
         "wordgroup": "Dagen",
+        "wordgroupNumber": 10,
         "handShapesR": {
             "shape": "B1",
             "imageUrl": "/handshapes/B1.png"
@@ -898,6 +950,7 @@
         "lesson": 3,
         "explanation": "Januari is de 1e maand van het jaar.",
         "wordgroup": "Maanden",
+        "wordgroupNumber": 11,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -918,6 +971,7 @@
         "lesson": 3,
         "explanation": "Februari is de 2e maand van het jaar.",
         "wordgroup": "Maanden",
+        "wordgroupNumber": 11,
         "handShapesR": {
             "shape": "C-spreid",
             "imageUrl": "/handshapes/C-spreid.png"
@@ -938,6 +992,7 @@
         "lesson": 3,
         "explanation": "Maart is de 3e maand van het jaar.",
         "wordgroup": "Maanden",
+        "wordgroupNumber": 11,
         "handShapesR": {
             "shape": "open snavel",
             "imageUrl": "/handshapes/open snavel.png"
@@ -958,6 +1013,7 @@
         "lesson": 3,
         "explanation": "April is de 4e maand van het jaar.",
         "wordgroup": "Maanden",
+        "wordgroupNumber": 11,
         "handShapesR": {
             "shape": "B1",
             "imageUrl": "/handshapes/B1.png"
@@ -978,6 +1034,7 @@
         "lesson": 3,
         "explanation": "Mei is de 5e maand van het jaar.",
         "wordgroup": "Maanden",
+        "wordgroupNumber": 11,
         "handShapesR": {
             "shape": "baby-C",
             "imageUrl": "/handshapes/baby-C.png"
@@ -994,6 +1051,7 @@
         "lesson": 3,
         "explanation": "Juni is de 6e maand van het jaar.",
         "wordgroup": "Maanden",
+        "wordgroupNumber": 11,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -1010,6 +1068,7 @@
         "lesson": 3,
         "explanation": "Juli is de 7e maand van het jaar.",
         "wordgroup": "Maanden",
+        "wordgroupNumber": 11,
         "handShapesR": {
             "shape": "B",
             "imageUrl": "/handshapes/B.png"
@@ -1026,6 +1085,7 @@
         "lesson": 3,
         "explanation": "Augustus is de 8e maand van het jaar.",
         "wordgroup": "Maanden",
+        "wordgroupNumber": 11,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -1046,6 +1106,7 @@
         "lesson": 3,
         "explanation": "September is de 9e maand van het jaar.",
         "wordgroup": "Maanden",
+        "wordgroupNumber": 11,
         "handShapesR": {
             "shape": "hoek-nul",
             "imageUrl": "/handshapes/hoek-nul.png"
@@ -1066,6 +1127,7 @@
         "lesson": 3,
         "explanation": "Oktober is de 10e maand van het jaar.",
         "wordgroup": "Maanden",
+        "wordgroupNumber": 11,
         "handShapesR": {
             "shape": "C",
             "imageUrl": "/handshapes/C.png"
@@ -1082,6 +1144,7 @@
         "lesson": 3,
         "explanation": "November is de 11e maand van het jaar.",
         "wordgroup": "Maanden",
+        "wordgroupNumber": 11,
         "handShapesR": {
             "shape": "geld",
             "imageUrl": "/handshapes/geld.png"
@@ -1098,6 +1161,7 @@
         "lesson": 3,
         "explanation": "December is de 12e maand van het jaar.",
         "wordgroup": "Maanden",
+        "wordgroupNumber": 11,
         "handShapesR": {
             "shape": "V-klauw",
             "imageUrl": "/handshapes/V-klauw.png"
@@ -1114,6 +1178,7 @@
         "lesson": 5,
         "explanation": "Amsterdam is een stad in Nederland.",
         "wordgroup": "Steden",
+        "wordgroupNumber": 17,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -1134,6 +1199,7 @@
         "lesson": 5,
         "explanation": "Breda is een stad in Nederland.",
         "wordgroup": "Steden",
+        "wordgroupNumber": 17,
         "handShapesR": {
             "shape": "C-spreid",
             "imageUrl": "/handshapes/C-spreid.png"
@@ -1150,6 +1216,7 @@
         "lesson": 5,
         "explanation": "Den Haag is een stad in Nederland.",
         "wordgroup": "Steden",
+        "wordgroupNumber": 17,
         "handShapesR": {
             "shape": "open snavel-spreid",
             "imageUrl": "/handshapes/open snavel-spreid.png"
@@ -1166,6 +1233,7 @@
         "lesson": 5,
         "explanation": "Rotterdam is een stad in Nederland.",
         "wordgroup": "Steden",
+        "wordgroupNumber": 17,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -1186,6 +1254,7 @@
         "lesson": 5,
         "explanation": "Schiedam is een stad in Nederland.",
         "wordgroup": "Steden",
+        "wordgroupNumber": 17,
         "handShapesR": {
             "shape": "baby-C",
             "imageUrl": "/handshapes/baby-C.png"
@@ -1202,6 +1271,7 @@
         "lesson": 5,
         "explanation": "Zoetermeer is een stad in Nederland.",
         "wordgroup": "Steden",
+        "wordgroupNumber": 17,
         "handShapesR": [
             {
                 "shape": "open snavel",
@@ -1224,6 +1294,7 @@
         "lesson": 4,
         "explanation": "Een tijdsperiode van zestig minuten.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -1240,6 +1311,7 @@
         "lesson": 4,
         "explanation": "Een duur van precies zestig minuten.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -1256,6 +1328,7 @@
         "lesson": 4,
         "explanation": "De tijdsaanduiding voor tien minuten na één uur.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": [
             {
                 "shape": "5",
@@ -1278,6 +1351,7 @@
         "lesson": 4,
         "explanation": "De tijdsaanduiding voor tien minuten na twee uur.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": [
             {
                 "shape": "5",
@@ -1304,6 +1378,7 @@
         "lesson": 4,
         "explanation": "De tijdsaanduiding voor tien minuten na drie uur.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": [
             {
                 "shape": "5",
@@ -1330,6 +1405,7 @@
         "lesson": 4,
         "explanation": "De tijdsaanduiding voor tien minuten voor één uur.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": [
             {
                 "shape": "5",
@@ -1352,6 +1428,7 @@
         "lesson": 4,
         "explanation": "De tijdsaanduiding voor tien minuten voor twee uur.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": [
             {
                 "shape": "5",
@@ -1378,6 +1455,7 @@
         "lesson": 4,
         "explanation": "De tijdsaanduiding voor tien minuten voor drie uur.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": [
             {
                 "shape": "5",
@@ -1404,6 +1482,7 @@
         "lesson": 4,
         "explanation": "Een tijdsperiode van honderdtwintig minuten.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": {
             "shape": "V",
             "imageUrl": "/handshapes/V.png"
@@ -1420,6 +1499,7 @@
         "lesson": 4,
         "explanation": "Een duur van precies honderdtwintig minuten.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": {
             "shape": "V",
             "imageUrl": "/handshapes/V.png"
@@ -1436,6 +1516,7 @@
         "lesson": 4,
         "explanation": "Een tijdsaanduiding voor dertig minuten voor één uur.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": [
             {
                 "shape": "B1",
@@ -1462,6 +1543,7 @@
         "lesson": 4,
         "explanation": "Een tijdsaanduiding voor dertig minuten voor twee uur.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": [
             {
                 "shape": "B1",
@@ -1488,6 +1570,7 @@
         "lesson": 4,
         "explanation": "Een tijdsperiode van dertig minuten.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -1504,6 +1587,7 @@
         "lesson": 4,
         "explanation": "Een tijdsaanduiding voor vijftien minuten na het hele uur.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": [
             {
                 "shape": "hoek",
@@ -1526,6 +1610,7 @@
         "lesson": 4,
         "explanation": "Een tijdsaanduiding voor vijftien minuten voor het hele uur.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": {
             "shape": "hoek",
             "imageUrl": "/handshapes/hoek.png"
@@ -1542,6 +1627,7 @@
         "lesson": 4,
         "explanation": "Een tijdsperiode van vijftien minuten.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -1558,6 +1644,7 @@
         "lesson": 4,
         "explanation": "Een tijdsperiode van zestig seconden.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -1574,6 +1661,7 @@
         "lesson": 4,
         "explanation": "Een tijdsperiode van zestig minuten.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -1590,6 +1678,7 @@
         "lesson": 1,
         "explanation": "zich bevindend op de plaats of bij de gebeurtenis waarvan sprake is.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -1606,6 +1695,7 @@
         "lesson": 1,
         "explanation": "Niet moeilijk.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -1622,6 +1712,7 @@
         "lesson": 1,
         "explanation": "Wat na iets anders komt.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -1638,6 +1729,7 @@
         "lesson": 1,
         "explanation": "Het doel of de intentie achter een actie of uitspraak.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "1v",
             "imageUrl": "/handshapes/1v.png"
@@ -1654,6 +1746,7 @@
         "lesson": 1,
         "explanation": "Iets of iemand met zich meedragen.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -1670,6 +1763,7 @@
         "lesson": 1,
         "explanation": "Iets dat dient als model of illustratie.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -1690,6 +1784,7 @@
         "lesson": 1,
         "explanation": "Het starten van iets nieuws of een activiteit.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -1706,6 +1801,7 @@
         "lesson": 1,
         "explanation": "Niet gemakkelijk, lastig.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -1722,6 +1818,7 @@
         "lesson": 1,
         "explanation": "Iets in orde maken voor gebruik of een gebeurtenis.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -1742,6 +1839,7 @@
         "lesson": 1,
         "explanation": "Een verzameling beschreven of bedrukte vellen papier die samen zijn gebonden.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -1762,6 +1860,7 @@
         "lesson": 1,
         "explanation": "Op dit moment.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "N",
             "imageUrl": "/handshapes/N.png"
@@ -1778,6 +1877,7 @@
         "lesson": 1,
         "explanation": "Wat voor iets anders kwam.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -1794,6 +1894,7 @@
         "lesson": 1,
         "explanation": "Een persoon die lesgeeft, meestal aan een universiteit of hogeschool.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "T-nul",
             "imageUrl": "/handshapes/T-nul.png"
@@ -1814,6 +1915,7 @@
         "lesson": 1,
         "explanation": "Toilet.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "W",
             "imageUrl": "/handshapes/W.png"
@@ -1830,6 +1932,7 @@
         "lesson": 1,
         "explanation": "Iemand die studeert aan een onderwijsinstelling.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": [
             {
                 "shape": "B-nul",
@@ -1856,6 +1959,7 @@
         "lesson": 1,
         "explanation": "Daarnaast, eveneens.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "B",
             "imageUrl": "/handshapes/B.png"
@@ -1872,6 +1976,7 @@
         "lesson": 1,
         "explanation": "Werk dat leerlingen thuis moeten maken.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": [
             {
                 "shape": "open snavel",
@@ -1904,6 +2009,7 @@
         "lesson": 1,
         "explanation": "Een taak die moet worden uitgevoerd.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "geld",
             "imageUrl": "/handshapes/geld.png"
@@ -1920,6 +2026,7 @@
         "lesson": 1,
         "explanation": "Voltooid, beëindigd.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -1940,6 +2047,7 @@
         "lesson": 1,
         "explanation": "Een korte onderbreking.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "U",
             "imageUrl": "/handshapes/U.png"
@@ -1960,6 +2068,7 @@
         "lesson": 1,
         "explanation": "Een warme drank gemaakt van koffiebonen.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -1980,6 +2089,7 @@
         "lesson": 1,
         "explanation": "Een warme drank gemaakt van theebladeren.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "T",
             "imageUrl": "/handshapes/T.png"
@@ -2000,6 +2110,7 @@
         "lesson": 1,
         "explanation": "Een onderwijsbijeenkomst.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "T-nul",
             "imageUrl": "/handshapes/T-nul.png"
@@ -2020,6 +2131,7 @@
         "lesson": 1,
         "explanation": "De plaats waar iemand woont.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "T-nul",
             "imageUrl": "/handshapes/T-nul.png"
@@ -2036,6 +2148,7 @@
         "lesson": 1,
         "explanation": "Plaatselijk, in de buurt.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -2052,6 +2165,7 @@
         "lesson": 1,
         "explanation": "Iets duidelijk maken door het te beschrijven.",
         "wordgroup": "Tijdens de les",
+        "wordgroupNumber": 2,
         "handShapesR": {
             "shape": "C-spreid",
             "imageUrl": "/handshapes/C-spreid.png"
@@ -2072,6 +2186,7 @@
         "lesson": 1,
         "explanation": "De familienaam die iemand draagt.",
         "wordgroup": "Kennismaken",
+        "wordgroupNumber": 3,
         "handShapesR": [
             {
                 "shape": "B",
@@ -2094,6 +2209,7 @@
         "lesson": 1,
         "explanation": "Een woord of combinatie van woorden waarmee een persoon, plaats of ding wordt aangeduid.",
         "wordgroup": "Kennismaken",
+        "wordgroupNumber": 3,
         "handShapesR": {
             "shape": "baby-C",
             "imageUrl": "/handshapes/baby-C.png"
@@ -2110,6 +2226,7 @@
         "lesson": 1,
         "explanation": "Een uiting van vreugde bij de komst van iemand.",
         "wordgroup": "Kennismaken",
+        "wordgroupNumber": 3,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -2130,6 +2247,7 @@
         "lesson": 1,
         "explanation": "De eerste naam van een persoon.",
         "wordgroup": "Kennismaken",
+        "wordgroupNumber": 3,
         "handShapesR": [
             {
                 "shape": "B-nul",
@@ -2152,6 +2270,7 @@
         "lesson": 1,
         "explanation": "Iets aan iemand anders presenteren of introduceren.",
         "wordgroup": "Kennismaken",
+        "wordgroupNumber": 3,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -2172,6 +2291,7 @@
         "lesson": 1,
         "explanation": "Een afscheidsgroet.",
         "wordgroup": "Begroetingen",
+        "wordgroupNumber": 4,
         "handShapesR": [
             {
                 "shape": "V",
@@ -2198,6 +2318,7 @@
         "lesson": 1,
         "explanation": "Van hoge kwaliteit, juist, correct.",
         "wordgroup": "Begroetingen",
+        "wordgroupNumber": 4,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -2214,6 +2335,7 @@
         "lesson": 1,
         "explanation": "Een begroeting die 's ochtends wordt gebruikt.",
         "wordgroup": "Begroetingen",
+        "wordgroupNumber": 4,
         "handShapesR": [
             {
                 "shape": "A",
@@ -2236,6 +2358,7 @@
         "lesson": 1,
         "explanation": "Een begroeting die wordt gebruikt om iemands aandacht te trekken.",
         "wordgroup": "Begroetingen",
+        "wordgroupNumber": 4,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -2252,6 +2375,7 @@
         "lesson": 1,
         "explanation": "Een begroeting die in de middag wordt gebruikt.",
         "wordgroup": "Begroetingen",
+        "wordgroupNumber": 4,
         "handShapesR": [
             {
                 "shape": "A",
@@ -2274,6 +2398,7 @@
         "lesson": 1,
         "explanation": "Een begroeting die 's avonds wordt gebruikt.",
         "wordgroup": "Begroetingen",
+        "wordgroupNumber": 4,
         "handShapesR": [
             {
                 "shape": "A",
@@ -2296,6 +2421,7 @@
         "lesson": 1,
         "explanation": "Uitstekend, heel goed.",
         "wordgroup": "Begroetingen",
+        "wordgroupNumber": 4,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -2316,6 +2442,7 @@
         "lesson": 2,
         "explanation": "Reageren op een vraag of opmerking.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": {
             "shape": "T-nul",
             "imageUrl": "/handshapes/t-nul.png"
@@ -2332,6 +2459,7 @@
         "lesson": 2,
         "explanation": "Niet meer in staat zijn om iets te herinneren.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": [
             {
                 "shape": "O",
@@ -2354,6 +2482,7 @@
         "lesson": 2,
         "explanation": "In een positie zijn waarbij het lichaam rust op de billen.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -2374,6 +2503,7 @@
         "lesson": 2,
         "explanation": "Een handeling verrichten.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": [
             {
                 "shape": "open snavel",
@@ -2406,6 +2536,7 @@
         "lesson": 2,
         "explanation": "Herhaaldelijk iets doen om vaardigheid te verwerven.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -2426,6 +2557,7 @@
         "lesson": 2,
         "explanation": "Een verzoek om informatie.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -2442,6 +2574,7 @@
         "lesson": 2,
         "explanation": "Iets aan iemand anders overhandigen.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": {
             "shape": "dichte snavel",
             "imageUrl": "/handshapes/dichte snavel.png"
@@ -2458,6 +2591,7 @@
         "lesson": 2,
         "explanation": "In het geheugen bewaren.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": [
             {
                 "shape": "open snavel",
@@ -2480,6 +2614,7 @@
         "lesson": 2,
         "explanation": "In bezit hebben, beschikken over.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -2496,6 +2631,7 @@
         "lesson": 2,
         "explanation": "Dingen terugbrengen naar hun oorspronkelijke plaats.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -2516,6 +2652,7 @@
         "lesson": 2,
         "explanation": "Iemand bijstaan, ondersteunen.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": [
             {
                 "shape": "5",
@@ -2548,6 +2685,7 @@
         "lesson": 2,
         "explanation": "Iets mondeling of schriftelijk meedelen.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -2568,6 +2706,7 @@
         "lesson": 2,
         "explanation": "De ogen richten op iets.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": {
             "shape": "V",
             "imageUrl": "/handshapes/V.png"
@@ -2584,6 +2723,7 @@
         "lesson": 2,
         "explanation": "Een poging wagen.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": {
             "shape": "U",
             "imageUrl": "/handshapes/U.png"
@@ -2600,6 +2740,7 @@
         "lesson": 2,
         "explanation": "In staat zijn tot.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -2620,6 +2761,7 @@
         "lesson": 2,
         "explanation": "Letters of woorden op papier zetten.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": {
             "shape": "T-nul",
             "imageUrl": "/handshapes/T-nul.png"
@@ -2636,6 +2778,7 @@
         "lesson": 2,
         "explanation": "Kennis of vaardigheden verwerven.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": {
             "shape": "T-nul",
             "imageUrl": "/handshapes/T-nul.png"
@@ -2652,6 +2795,7 @@
         "lesson": 2,
         "explanation": "De wens of het verlangen hebben om iets te doen of te krijgen.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": {
             "shape": "C-spreid",
             "imageUrl": "/handshapes/C-spreid.png"
@@ -2668,6 +2812,7 @@
         "lesson": 2,
         "explanation": "Geschreven tekst begrijpen.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": {
             "shape": "V",
             "imageUrl": "/handshapes/V.png"
@@ -2688,6 +2833,7 @@
         "lesson": 2,
         "explanation": "Iets verbaal uiten.",
         "wordgroup": "Werkwoorden",
+        "wordgroupNumber": 5,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -2704,6 +2850,7 @@
         "lesson": 2,
         "explanation": "Een uitdrukking gebruikt bij het overhandigen van iets aan iemand.",
         "wordgroup": "Luisterhouding",
+        "wordgroupNumber": 6,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -2720,6 +2867,7 @@
         "lesson": 2,
         "explanation": "Correct, waar.",
         "wordgroup": "Luisterhouding",
+        "wordgroupNumber": 6,
         "handShapesR": {
             "shape": "V",
             "imageUrl": "/handshapes/V.png"
@@ -2736,6 +2884,7 @@
         "lesson": 7,
         "explanation": "Irritant, lastig.",
         "wordgroup": "Luisterhouding",
+        "wordgroupNumber": 6,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -2752,6 +2901,7 @@
         "lesson": 2,
         "explanation": "Een beleefde manier om iets te vragen of te verzoeken.",
         "wordgroup": "Luisterhouding",
+        "wordgroupNumber": 6,
         "handShapesR": {
             "shape": "B",
             "imageUrl": "/handshapes/B.png"
@@ -2768,6 +2918,7 @@
         "lesson": 2,
         "explanation": "Heel erg slecht.",
         "wordgroup": "Luisterhouding",
+        "wordgroupNumber": 6,
         "handShapesR": {
             "shape": "T-nul",
             "imageUrl": "/handshapes/T-nul.png"
@@ -2784,6 +2935,7 @@
         "lesson": 2,
         "explanation": "Een uitdrukking van dankbaarheid.",
         "wordgroup": "Luisterhouding",
+        "wordgroupNumber": 6,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -2800,6 +2952,7 @@
         "lesson": 2,
         "explanation": "Aangenaam, plezierig.",
         "wordgroup": "Luisterhouding",
+        "wordgroupNumber": 6,
         "handShapesR": [
             {
                 "shape": "baby-open snavel",
@@ -2822,6 +2975,7 @@
         "lesson": 2,
         "explanation": "Ik ben het eens met wat je zegt.",
         "wordgroup": "Luisterhouding",
+        "wordgroupNumber": 6,
         "handShapesR": [
             {
                 "shape": "1",
@@ -2844,6 +2998,7 @@
         "lesson": 2,
         "explanation": "Nog een keer.",
         "wordgroup": "Luisterhouding",
+        "wordgroupNumber": 6,
         "handShapesR": {
             "shape": "U",
             "imageUrl": "/handshapes/U.png"
@@ -2860,6 +3015,7 @@
         "lesson": 2,
         "explanation": "Ik ben het niet eens met wat je zegt.",
         "wordgroup": "Luisterhouding",
+        "wordgroupNumber": 6,
         "handShapesR": [
             {
                 "shape": "1",
@@ -2882,6 +3038,7 @@
         "lesson": 2,
         "explanation": "Een uiting van spijt.",
         "wordgroup": "Luisterhouding",
+        "wordgroupNumber": 6,
         "handShapesR": {
             "shape": "AS",
             "imageUrl": "/handshapes/AS.png"
@@ -2898,6 +3055,7 @@
         "lesson": 2,
         "explanation": "Spijtig, vervelend.",
         "wordgroup": "Luisterhouding",
+        "wordgroupNumber": 6,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -2914,6 +3072,7 @@
         "lesson": 2,
         "explanation": "Opwindend, vol spanning.",
         "wordgroup": "Luisterhouding",
+        "wordgroupNumber": 6,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -2934,6 +3093,7 @@
         "lesson": 2,
         "explanation": "Een emotie van angst of bezorgdheid.",
         "wordgroup": "Gevoelens",
+        "wordgroupNumber": 7,
         "handShapesR": {
             "shape": "AS",
             "imageUrl": "/handshapes/AS.png"
@@ -2950,6 +3110,7 @@
         "lesson": 2,
         "explanation": "Bevrijd van angst of bezorgdheid.",
         "wordgroup": "Gevoelens",
+        "wordgroupNumber": 7,
         "handShapesR": {
             "shape": "U",
             "imageUrl": "/handshapes/U.png"
@@ -2966,6 +3127,7 @@
         "lesson": 2,
         "explanation": "Een gevoel van vreugde en geluk.",
         "wordgroup": "Gevoelens",
+        "wordgroupNumber": 7,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -2986,6 +3148,7 @@
         "lesson": 2,
         "explanation": "Een gevoel van droefheid.",
         "wordgroup": "Gevoelens",
+        "wordgroupNumber": 7,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -3002,6 +3165,7 @@
         "lesson": 2,
         "explanation": "Een gevoel van ergernis of woede.",
         "wordgroup": "Gevoelens",
+        "wordgroupNumber": 7,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -3018,6 +3182,7 @@
         "lesson": 2,
         "explanation": "Een gevoel van onrust of spanning.",
         "wordgroup": "Gevoelens",
+        "wordgroupNumber": 7,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -3038,6 +3203,7 @@
         "lesson": 3,
         "explanation": "Het deel van de dag tussen zonsopgang en de middag.",
         "wordgroup": "Dagen & maanden overig",
+        "wordgroupNumber": 9,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -3054,6 +3220,7 @@
         "lesson": 3,
         "explanation": "De ochtend van de huidige dag.",
         "wordgroup": "Dagen & maanden overig",
+        "wordgroupNumber": 9,
         "handShapesR": [
             {
                 "shape": "1v",
@@ -3076,6 +3243,7 @@
         "lesson": 3,
         "explanation": "De periode tussen 12.00 uur en de avond.",
         "wordgroup": "Dagen & maanden overig",
+        "wordgroupNumber": 9,
         "handShapesR": {
             "shape": "geld",
             "imageUrl": "/handshapes/geld.png"
@@ -3092,6 +3260,7 @@
         "lesson": 3,
         "explanation": "Het deel van de dag tussen de middag en de avond.",
         "wordgroup": "Dagen & maanden overig",
+        "wordgroupNumber": 9,
         "handShapesR": [
             {
                 "shape": "1v",
@@ -3114,6 +3283,7 @@
         "lesson": 3,
         "explanation": "Het deel van de dag tussen de middag en de nacht.",
         "wordgroup": "Dagen & maanden overig",
+        "wordgroupNumber": 9,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -3130,6 +3300,7 @@
         "lesson": 3,
         "explanation": "De avond van de huidige dag.",
         "wordgroup": "Dagen & maanden overig",
+        "wordgroupNumber": 9,
         "handShapesR": [
             {
                 "shape": "1v",
@@ -3152,6 +3323,7 @@
         "lesson": 3,
         "explanation": "De periode van duisternis tussen zonsondergang en zonsopgang.",
         "wordgroup": "Dagen & maanden overig",
+        "wordgroupNumber": 9,
         "handShapesR": {
             "shape": "ontspannen B",
             "imageUrl": "/handshapes/ontspannen B.png"
@@ -3168,6 +3340,7 @@
         "lesson": 3,
         "explanation": "De nacht van de huidige dag.",
         "wordgroup": "Dagen & maanden overig",
+        "wordgroupNumber": 9,
         "handShapesR": [
             {
                 "shape": "1v",
@@ -3190,6 +3363,7 @@
         "lesson": 3,
         "explanation": "Een periode van 365 dagen.",
         "wordgroup": "Dagen & maanden overig",
+        "wordgroupNumber": 9,
         "handShapesR": {
             "shape": "AS",
             "imageUrl": "/handshapes/AS.png"
@@ -3210,6 +3384,7 @@
         "lesson": 3,
         "explanation": "Een periode van zeven dagen.",
         "wordgroup": "Dagen & maanden overig",
+        "wordgroupNumber": 9,
         "handShapesR": {
             "shape": "baby-C",
             "imageUrl": "/handshapes/baby-C.png"
@@ -3226,6 +3401,7 @@
         "lesson": 3,
         "explanation": "De zaterdag en zondag samen.",
         "wordgroup": "Dagen & maanden overig",
+        "wordgroupNumber": 9,
         "handShapesR": {
             "shape": "B1",
             "imageUrl": "/handshapes/B1.png"
@@ -3246,6 +3422,7 @@
         "lesson": 3,
         "explanation": "De periode van 24 uur die nodig is voor de aarde om eenmaal om haar as te draaien.",
         "wordgroup": "Dagen & maanden overig",
+        "wordgroupNumber": 9,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -3262,6 +3439,7 @@
         "lesson": 3,
         "explanation": "Een periode van ongeveer 30 dagen.",
         "wordgroup": "Dagen & maanden overig",
+        "wordgroupNumber": 9,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -3278,6 +3456,7 @@
         "lesson": 3,
         "explanation": "Een gemaakte afspraak of overeengekomen plan.",
         "wordgroup": "Afspraak maken",
+        "wordgroupNumber": 12,
         "handShapesR": {
             "shape": "V",
             "imageUrl": "/handshapes/V.png"
@@ -3298,6 +3477,7 @@
         "lesson": 3,
         "explanation": "De dag voor vandaag.",
         "wordgroup": "Afspraak maken",
+        "wordgroupNumber": 12,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -3314,6 +3494,7 @@
         "lesson": 3,
         "explanation": "De geest gebruiken om iets te overwegen.",
         "wordgroup": "Afspraak maken",
+        "wordgroupNumber": 12,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -3330,6 +3511,7 @@
         "lesson": 3,
         "explanation": "Een geplande ontmoeting of overeenkomst tussen mensen.",
         "wordgroup": "Afspraak maken",
+        "wordgroupNumber": 12,
         "handShapesR": {
             "shape": "T-nul",
             "imageUrl": "/handshapes/T-nul.png"
@@ -3346,6 +3528,7 @@
         "lesson": 3,
         "explanation": "De dag voor gisteren.",
         "wordgroup": "Afspraak maken",
+        "wordgroupNumber": 12,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -3362,6 +3545,7 @@
         "lesson": 3,
         "explanation": "Weer naar de oorspronkelijke plaats gaan.",
         "wordgroup": "Afspraak maken",
+        "wordgroupNumber": 12,
         "handShapesR": {
             "shape": "T",
             "imageUrl": "/handshapes/T.png"
@@ -3378,6 +3562,7 @@
         "lesson": 3,
         "explanation": "Een plan maken om iemand te ontmoeten.",
         "wordgroup": "Afspraak maken",
+        "wordgroupNumber": 12,
         "handShapesR": {
             "shape": "V",
             "imageUrl": "/handshapes/V.png"
@@ -3394,6 +3579,7 @@
         "lesson": 3,
         "explanation": "Het is niet belangrijk.",
         "wordgroup": "Afspraak maken",
+        "wordgroupNumber": 12,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -3414,6 +3600,7 @@
         "lesson": 3,
         "explanation": "De huidige dag.",
         "wordgroup": "Afspraak maken",
+        "wordgroupNumber": 12,
         "handShapesR": {
             "shape": "1v",
             "imageUrl": "/handshapes/1v.png"
@@ -3430,6 +3617,7 @@
         "lesson": 3,
         "explanation": "Een lijst of boek waarin afspraken en taken worden bijgehouden.",
         "wordgroup": "Afspraak maken",
+        "wordgroupNumber": 12,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -3450,6 +3638,7 @@
         "lesson": 3,
         "explanation": "De dag na vandaag.",
         "wordgroup": "Afspraak maken",
+        "wordgroupNumber": 12,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -3466,6 +3655,7 @@
         "lesson": 3,
         "explanation": "Niet gebonden of beperkt.",
         "wordgroup": "Afspraak maken",
+        "wordgroupNumber": 12,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -3486,6 +3676,7 @@
         "lesson": 3,
         "explanation": "Geslaagd, met succes uitgevoerd.",
         "wordgroup": "Afspraak maken",
+        "wordgroupNumber": 12,
         "handShapesR": {
             "shape": "geld",
             "imageUrl": "/handshapes/geld.png"
@@ -3502,6 +3693,7 @@
         "lesson": 3,
         "explanation": "De dag na morgen.",
         "wordgroup": "Afspraak maken",
+        "wordgroupNumber": 12,
         "handShapesR": {
             "shape": "L",
             "imageUrl": "/handshapes/L.png"
@@ -3518,6 +3710,7 @@
         "lesson": 3,
         "explanation": "Iets of iemand anders dan wat eerder genoemd werd.",
         "wordgroup": "Afspraak maken",
+        "wordgroupNumber": 12,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -3534,6 +3727,7 @@
         "lesson": 3,
         "explanation": "De aanduiding van een bepaalde dag in een kalender.",
         "wordgroup": "Afspraak maken",
+        "wordgroupNumber": 12,
         "handShapesR": {
             "shape": "baby-O",
             "imageUrl": "/handshapes/baby-O.png"
@@ -3547,9 +3741,10 @@
         "translation": "Algemeen vraag gebaar",
         "video": "/videos/Algemeen vraag gebaar.mp4",
         "gif": "/gifs/Algemeen vraag gebaar.gif",
-        "lesson": 3,
+        "lesson": 1,
         "explanation": "Een gebaar dat gebruikt wordt om een algemene vraag aan te duiden.",
         "wordgroup": "Vraagwoorden",
+        "wordgroupNumber": 1,
         "handShapesR": {
             "shape": "ontspannen B",
             "imageUrl": "/handshapes/ontspannen B.png"
@@ -3567,9 +3762,10 @@
         "translation": "Waarom",
         "video": "/videos/Waarom.mp4",
         "gif": "/gifs/Waarom.gif",
-        "lesson": 3,
+        "lesson": 1,
         "explanation": "Met welke reden.",
         "wordgroup": "Vraagwoorden",
+        "wordgroupNumber": 1,
         "handShapesR": {
             "shape": "hoek-nul",
             "imageUrl": "/handshapes/hoek-nul.png"
@@ -3587,9 +3783,10 @@
         "translation": "Wie",
         "video": "/videos/Wie.mp4",
         "gif": "/gifs/Wie.gif",
-        "lesson": 3,
+        "lesson": 1,
         "explanation": "Een vraagwoord dat verwijst naar een persoon.",
         "wordgroup": "Vraagwoorden",
+        "wordgroupNumber": 1,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -3603,9 +3800,10 @@
         "translation": "Hoe",
         "video": "/videos/Hoe.mp4",
         "gif": "/gifs/Hoe.gif",
-        "lesson": 3,
+        "lesson": 1,
         "explanation": "Op welke manier.",
         "wordgroup": "Vraagwoorden",
+        "wordgroupNumber": 1,
         "handShapesR": [
             {
                 "shape": "5mx",
@@ -3635,9 +3833,10 @@
         "translation": "Wanneer",
         "video": "/videos/Wanneer.mp4",
         "gif": "/gifs/Wanneer.gif",
-        "lesson": 3,
+        "lesson": 1,
         "explanation": "Op welk moment.",
         "wordgroup": "Vraagwoorden",
+        "wordgroupNumber": 1,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -3651,9 +3850,10 @@
         "translation": "Waar",
         "video": "/videos/Waar.mp4",
         "gif": "/gifs/Waar.gif",
-        "lesson": 3,
+        "lesson": 1,
         "explanation": "Op welke plaats.",
         "wordgroup": "Vraagwoorden",
+        "wordgroupNumber": 1,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -3671,9 +3871,10 @@
         "translation": "Hoelang",
         "video": "/videos/Hoelang.mp4",
         "gif": "/gifs/Hoelang.gif",
-        "lesson": 3,
+        "lesson": 1,
         "explanation": "Welke tijdsduur.",
         "wordgroup": "Vraagwoorden",
+        "wordgroupNumber": 1,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -3687,9 +3888,10 @@
         "translation": "Wat",
         "video": "/videos/Wat.mp4",
         "gif": "/gifs/Wat.gif",
-        "lesson": 3,
+        "lesson": 1,
         "explanation": "Welk ding of welke zaak.",
         "wordgroup": "Vraagwoorden",
+        "wordgroupNumber": 1,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -3706,6 +3908,7 @@
         "lesson": 3,
         "explanation": "Op welk tijdstip.",
         "wordgroup": "Vraagwoorden",
+        "wordgroupNumber": 1,
         "handShapesR": [
             {
                 "shape": "5",
@@ -3725,9 +3928,10 @@
         "translation": "Hoeveel",
         "video": "/videos/Hoeveel.mp4",
         "gif": "/gifs/Hoeveel.gif",
-        "lesson": 3,
+        "lesson": 1,
         "explanation": "Welke hoeveelheid.",
         "wordgroup": "Vraagwoorden",
+        "wordgroupNumber": 1,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -3745,9 +3949,10 @@
         "translation": "Welke",
         "video": "/videos/Welke.mp4",
         "gif": "/gifs/Welke.gif",
-        "lesson": 3,
+        "lesson": 1,
         "explanation": "Een vraagwoord dat verwijst naar een specifieke keuze.",
         "wordgroup": "Vraagwoorden",
+        "wordgroupNumber": 1,
         "handShapesR": {
             "shape": "Y",
             "imageUrl": "/handshapes/Y.png"
@@ -3764,6 +3969,7 @@
         "lesson": 4,
         "explanation": "Een symbool dat een getal voorstelt.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "baby-O",
             "imageUrl": "/handshapes/baby-O.png"
@@ -3780,6 +3986,7 @@
         "lesson": 4,
         "explanation": "Ter wereld gekomen zijn.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -3800,6 +4007,7 @@
         "lesson": 4,
         "explanation": "Op de verjaardag.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -3820,6 +4028,7 @@
         "lesson": 4,
         "explanation": "De hoeveelheid van iets bepalen door het te tellen.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -3840,6 +4049,7 @@
         "lesson": 4,
         "explanation": "Welke leeftijd.",
         "wordgroup": "Getallen",
+        "wordgroupNumber": 13,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -3856,6 +4066,7 @@
         "lesson": 4,
         "explanation": "Een draagbaar instrument om de tijd te meten.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": {
             "shape": "X-twee-nul",
             "imageUrl": "/handshapes/X-twee-nul.png"
@@ -3872,6 +4083,7 @@
         "lesson": 4,
         "explanation": "Op een later tijdstip.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": {
             "shape": "hoek-nul",
             "imageUrl": "/handshapes/hoek-nul.png"
@@ -3892,6 +4104,7 @@
         "lesson": 4,
         "explanation": "Een instrument dat de tijd aangeeft.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": {
             "shape": "B",
             "imageUrl": "/handshapes/B.png"
@@ -3908,6 +4121,7 @@
         "lesson": 4,
         "explanation": "Op geen enkel moment.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -3928,6 +4142,7 @@
         "lesson": 4,
         "explanation": "Voortdurend, zonder onderbreking.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -3944,6 +4159,7 @@
         "lesson": 4,
         "explanation": "Een meetbare periode waarin gebeurtenissen plaatsvinden.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -3964,6 +4180,7 @@
         "lesson": 4,
         "explanation": "In een vroeger stadium.",
         "wordgroup": "Klok kijken",
+        "wordgroupNumber": 14,
         "handShapesR": {
             "shape": "hoek-nul",
             "imageUrl": "/handshapes/hoek-nul.png"
@@ -3984,6 +4201,7 @@
         "lesson": 5,
         "explanation": "Een plek waar medicijnen worden bereid en verkocht.",
         "wordgroup": "Doktersbezoek algemeen",
+        "wordgroupNumber": 15,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -4004,6 +4222,7 @@
         "lesson": 5,
         "explanation": "In een goede lichamelijke en geestelijke toestand verkeren.",
         "wordgroup": "Doktersbezoek algemeen",
+        "wordgroupNumber": 15,
         "handShapesR": {
             "shape": "T-nul",
             "imageUrl": "/handshapes/T-nul.png"
@@ -4024,6 +4243,7 @@
         "lesson": 5,
         "explanation": "Een arts die gespecialiseerd is in de zorg voor tanden en tandvlees.",
         "wordgroup": "Doktersbezoek algemeen",
+        "wordgroupNumber": 15,
         "handShapesR": {
             "shape": "geld",
             "imageUrl": "/handshapes/geld.png"
@@ -4040,6 +4260,7 @@
         "lesson": 5,
         "explanation": "Iemand die helpt bij het uitvoeren van taken, vaak in een medische of administratieve rol.",
         "wordgroup": "Doktersbezoek algemeen",
+        "wordgroupNumber": 15,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -4060,6 +4281,7 @@
         "lesson": 5,
         "explanation": "Een arts die algemene medische zorg verleent.",
         "wordgroup": "Doktersbezoek algemeen",
+        "wordgroupNumber": 15,
         "handShapesR": [
             {
                 "shape": "B-nul",
@@ -4086,6 +4308,7 @@
         "lesson": 5,
         "explanation": "Een ruimte waar mensen wachten.",
         "wordgroup": "Doktersbezoek algemeen",
+        "wordgroupNumber": 15,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -4106,6 +4329,7 @@
         "lesson": 5,
         "explanation": "In een verbeterde toestand verkeren, vaak na ziekte.",
         "wordgroup": "Doktersbezoek algemeen",
+        "wordgroupNumber": 15,
         "handShapesR": {
             "shape": "ontspannen 5",
             "imageUrl": "/handshapes/ontspannen 5.png"
@@ -4126,6 +4350,7 @@
         "lesson": 5,
         "explanation": "Stoffen die worden gebruikt om ziekten te genezen of te voorkomen.",
         "wordgroup": "Doktersbezoek algemeen",
+        "wordgroupNumber": 15,
         "handShapesR": {
             "shape": "L",
             "imageUrl": "/handshapes/L.png"
@@ -4146,6 +4371,7 @@
         "lesson": 5,
         "explanation": "Niet gezond zijn.",
         "wordgroup": "Doktersbezoek algemeen",
+        "wordgroupNumber": 15,
         "handShapesR": {
             "shape": "B1",
             "imageUrl": "/handshapes/B1.png"
@@ -4166,6 +4392,7 @@
         "lesson": 5,
         "explanation": "Verbetering in gezondheid of situatie.",
         "wordgroup": "Doktersbezoek algemeen",
+        "wordgroupNumber": 15,
         "handShapesR": {
             "shape": "T-nul",
             "imageUrl": "/handshapes/T-nul.png"
@@ -4182,6 +4409,7 @@
         "lesson": 5,
         "explanation": "Iemand die medische zorg ontvangt.",
         "wordgroup": "Doktersbezoek algemeen",
+        "wordgroupNumber": 15,
         "handShapesR": [
             {
                 "shape": "T",
@@ -4208,6 +4436,7 @@
         "lesson": 5,
         "explanation": "Iemand naar een andere arts of specialist sturen.",
         "wordgroup": "Doktersbezoek algemeen",
+        "wordgroupNumber": 15,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -4228,6 +4457,7 @@
         "lesson": 5,
         "explanation": "Een beschrijving van hoe een gerecht moet worden bereid.",
         "wordgroup": "Doktersbezoek algemeen",
+        "wordgroupNumber": 15,
         "handShapesR": {
             "shape": "B1",
             "imageUrl": "/handshapes/B1.png"
@@ -4248,6 +4478,7 @@
         "lesson": 5,
         "explanation": "De locatie waar iemand woont of waar iets zich bevindt.",
         "wordgroup": "Anamnese",
+        "wordgroupNumber": 16,
         "handShapesR": {
             "shape": "ontspannen 5",
             "imageUrl": "/handshapes/ontspannen 5.png"
@@ -4264,6 +4495,7 @@
         "lesson": 5,
         "explanation": "De plaats waar iemand geboren is.",
         "wordgroup": "Anamnese",
+        "wordgroupNumber": 16,
         "handShapesR": [
             {
                 "shape": "B-nul",
@@ -4290,6 +4522,7 @@
         "lesson": 5,
         "explanation": "Een reeks cijfers die wordt gebruikt om een telefoon te bellen.",
         "wordgroup": "Anamnese",
+        "wordgroupNumber": 16,
         "handShapesR": [
             {
                 "shape": "Y",
@@ -4312,6 +4545,7 @@
         "lesson": 5,
         "explanation": "Een vak of werk dat iemand doet voor zijn of haar levensonderhoud.",
         "wordgroup": "Anamnese",
+        "wordgroupNumber": 16,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -4332,6 +4566,7 @@
         "lesson": 5,
         "explanation": "Een uiting van ontevredenheid.",
         "wordgroup": "Anamnese",
+        "wordgroupNumber": 16,
         "handShapesR": {
             "shape": "X1",
             "imageUrl": "/handshapes/X1.png"
@@ -4348,6 +4583,7 @@
         "lesson": 5,
         "explanation": "De stad of het dorp waar iemand woont.",
         "wordgroup": "Anamnese",
+        "wordgroupNumber": 16,
         "handShapesR": [
             {
                 "shape": "T",
@@ -4370,6 +4606,7 @@
         "lesson": 5,
         "explanation": "Een persoon die is opgeleid om zieke of gewonde mensen te behandelen.",
         "wordgroup": "Anamnese",
+        "wordgroupNumber": 16,
         "handShapesR": {
             "shape": "V-klauw",
             "imageUrl": "/handshapes/V-klauw.png"
@@ -4386,6 +4623,7 @@
         "lesson": 5,
         "explanation": "De reden waarom iets gebeurt.",
         "wordgroup": "Anamnese",
+        "wordgroupNumber": 16,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -4402,6 +4640,7 @@
         "lesson": 5,
         "explanation": "Een verzekering die medische kosten dekt.",
         "wordgroup": "Anamnese",
+        "wordgroupNumber": 16,
         "handShapesR": [
             {
                 "shape": "geld",
@@ -4434,6 +4673,7 @@
         "lesson": 5,
         "explanation": "Veel geld of tijd kostend.",
         "wordgroup": "Anamnese",
+        "wordgroupNumber": 16,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -4450,6 +4690,7 @@
         "lesson": 6,
         "explanation": "Een medische ingreep waarbij in het lichaam wordt gesneden.",
         "wordgroup": "Anamnese",
+        "wordgroupNumber": 16,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -4466,6 +4707,7 @@
         "lesson": 5,
         "explanation": "De datum waarop iemand geboren is.",
         "wordgroup": "Anamnese",
+        "wordgroupNumber": 16,
         "handShapesR": [
             {
                 "shape": "B-nul",
@@ -4492,6 +4734,7 @@
         "lesson": 5,
         "explanation": "Een moeilijkheid of vraagstuk.",
         "wordgroup": "Anamnese",
+        "wordgroupNumber": 16,
         "handShapesR": {
             "shape": "C-spreid nul",
             "imageUrl": "/handshapes/C-spreid nul.png"
@@ -4508,6 +4751,7 @@
         "lesson": 5,
         "explanation": "Een groep mensen die samenwonen en een sociale eenheid vormen, meestal bestaande uit ouders en kinderen.",
         "wordgroup": "Gezin",
+        "wordgroupNumber": 18,
         "handShapesR": {
             "shape": "C",
             "imageUrl": "/handshapes/C.png"
@@ -4528,6 +4772,7 @@
         "lesson": 5,
         "explanation": "Een groep mensen die door bloedverwantschap, huwelijk of adoptie met elkaar verbonden zijn.",
         "wordgroup": "Gezin",
+        "wordgroupNumber": 18,
         "handShapesR": {
             "shape": "T-nul",
             "imageUrl": "/handshapes/T-nul.png"
@@ -4548,6 +4793,7 @@
         "lesson": 5,
         "explanation": "Een mannelijke ouder.",
         "wordgroup": "Gezin",
+        "wordgroupNumber": 18,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -4564,6 +4810,7 @@
         "lesson": 5,
         "explanation": "Een vrouwelijke ouder.",
         "wordgroup": "Gezin",
+        "wordgroupNumber": 18,
         "handShapesR": {
             "shape": "1v",
             "imageUrl": "/handshapes/1v.png"
@@ -4580,6 +4827,7 @@
         "lesson": 5,
         "explanation": "De vader en moeder van een kind.",
         "wordgroup": "Gezin",
+        "wordgroupNumber": 18,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -4596,6 +4844,7 @@
         "lesson": 5,
         "explanation": "Een mannelijk kind.",
         "wordgroup": "Gezin",
+        "wordgroupNumber": 18,
         "handShapesR": {
             "shape": "open snavel",
             "imageUrl": "/handshapes/open snavel.png"
@@ -4612,6 +4861,7 @@
         "lesson": 5,
         "explanation": "Een vrouwelijk kind.",
         "wordgroup": "Gezin",
+        "wordgroupNumber": 18,
         "handShapesR": [
             {
                 "shape": "open snavel",
@@ -4634,6 +4884,7 @@
         "lesson": 5,
         "explanation": "Een jonge persoon.",
         "wordgroup": "Gezin",
+        "wordgroupNumber": 18,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -4650,6 +4901,7 @@
         "lesson": 5,
         "explanation": "Meervoud van kind.",
         "wordgroup": "Gezin",
+        "wordgroupNumber": 18,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -4666,6 +4918,7 @@
         "lesson": 5,
         "explanation": "Door een huwelijk verbonden zijn.",
         "wordgroup": "Relaties",
+        "wordgroupNumber": 19,
         "handShapesR": {
             "shape": "C1",
             "imageUrl": "/handshapes/C1.png"
@@ -4686,6 +4939,7 @@
         "lesson": 5,
         "explanation": "Met iemand anders in hetzelfde huis wonen.",
         "wordgroup": "Relaties",
+        "wordgroupNumber": 19,
         "handShapesR": [
             {
                 "shape": "open snavel",
@@ -4712,6 +4966,7 @@
         "lesson": 5,
         "explanation": "Niet getrouwd.",
         "wordgroup": "Relaties",
+        "wordgroupNumber": 19,
         "handShapesR": {
             "shape": "baby-open snavel",
             "imageUrl": "/handshapes/baby-open snavel.png"
@@ -4732,6 +4987,7 @@
         "lesson": 5,
         "explanation": "Een volwassen vrouw.",
         "wordgroup": "Relaties",
+        "wordgroupNumber": 19,
         "handShapesR": {
             "shape": "baby-open snavel",
             "imageUrl": "/handshapes/baby-open snavel.png"
@@ -4748,6 +5004,7 @@
         "lesson": 5,
         "explanation": "Een vrouwelijke partner in een romantische relatie.",
         "wordgroup": "Relaties",
+        "wordgroupNumber": 19,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -4764,6 +5021,7 @@
         "lesson": 5,
         "explanation": "Een volwassen persoon van het mannelijk geslacht (zonder romantische connotatie).",
         "wordgroup": "Relaties",
+        "wordgroupNumber": 19,
         "handShapesR": [
             {
                 "shape": "open snavel",
@@ -4786,6 +5044,7 @@
         "lesson": 5,
         "explanation": "Een partner in een romantische relatie.",
         "wordgroup": "Relaties",
+        "wordgroupNumber": 19,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -4802,6 +5061,7 @@
         "lesson": 5,
         "explanation": "Iemand met wie je een vriendschappelijke relatie hebt.",
         "wordgroup": "Relaties",
+        "wordgroupNumber": 19,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -4822,6 +5082,7 @@
         "lesson": 5,
         "explanation": "Een mannelijke partner in een romantische relatie.",
         "wordgroup": "Relaties",
+        "wordgroupNumber": 19,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -4838,6 +5099,7 @@
         "lesson": 6,
         "explanation": "Het proces van lucht in- en uit de longen laten stromen.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -4858,6 +5120,7 @@
         "lesson": 6,
         "explanation": "Het krachtig uitstoten van de maaginhoud door de mond.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -4874,6 +5137,7 @@
         "lesson": 6,
         "explanation": "Een röntgenfoto van de borst.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "B1",
             "imageUrl": "/handshapes/B1.png"
@@ -4894,6 +5158,7 @@
         "lesson": 6,
         "explanation": "Het uitvoeren van een medische handeling of zorg verlenen.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -4914,6 +5179,7 @@
         "lesson": 6,
         "explanation": "In stukken uiteen gevallen.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -4934,6 +5200,7 @@
         "lesson": 6,
         "explanation": "Een gevoel van onbehagen in de maag, met de neiging tot overgeven.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -4950,6 +5217,7 @@
         "lesson": 6,
         "explanation": "Van positie veranderen of in actie komen.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -4966,6 +5234,7 @@
         "lesson": 6,
         "explanation": "Beschadigd door een stoot of slag, zonder dat de huid open is.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -4986,6 +5255,7 @@
         "lesson": 6,
         "explanation": "Een systematische studie van een onderwerp.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "V-klauw",
             "imageUrl": "/handshapes/V-klauw.png"
@@ -5006,6 +5276,7 @@
         "lesson": 6,
         "explanation": "Een medische procedure waarbij een klein stukje weefsel wordt verwijderd voor onderzoek.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "baby-open snavel",
             "imageUrl": "/handshapes/baby-open snavel.png"
@@ -5026,6 +5297,7 @@
         "lesson": 6,
         "explanation": "Het beheersen of in de hand houden van iets.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "V",
             "imageUrl": "/handshapes/V.png"
@@ -5046,6 +5318,7 @@
         "lesson": 6,
         "explanation": "Vrij van spanning of stress.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": [
             {
                 "shape": "O",
@@ -5078,6 +5351,7 @@
         "lesson": 6,
         "explanation": "De rode vloeistof die door het lichaam circuleert en zuurstof vervoert.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -5098,6 +5372,7 @@
         "lesson": 6,
         "explanation": "Een gevoel van draaierigheid of evenwichtsverlies.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -5114,6 +5389,7 @@
         "lesson": 6,
         "explanation": "Een onaangenaam lichamelijk gevoel.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "ontspannen 5",
             "imageUrl": "/handshapes/ontspannen 5.png"
@@ -5130,6 +5406,7 @@
         "lesson": 6,
         "explanation": "De druk waarmee bloed door de bloedvaten stroomt.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": [
             {
                 "shape": "C",
@@ -5152,6 +5429,7 @@
         "lesson": 6,
         "explanation": "Een onderzoek waarbij geluidsgolven worden gebruikt om beelden van het lichaam te maken.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -5168,6 +5446,7 @@
         "lesson": 6,
         "explanation": "Intense, onaangename lichamelijke gewaarwording.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -5184,6 +5463,7 @@
         "lesson": 6,
         "explanation": "Een medische aandoening waarbij de bloeddruk hoger is dan normaal.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": [
             {
                 "shape": "hoek",
@@ -5210,6 +5490,7 @@
         "lesson": 6,
         "explanation": "Een medische aandoening waarbij de bloeddruk lager is dan normaal.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": [
             {
                 "shape": "hoek",
@@ -5236,6 +5517,7 @@
         "lesson": 6,
         "explanation": "Het bewustzijn verliezen als gevolg van een tijdelijke vermindering van de bloedtoevoer naar de hersenen.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -5252,6 +5534,7 @@
         "lesson": 6,
         "explanation": "Een foto gemaakt met röntgenstralen.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": [
             {
                 "shape": "O",
@@ -5292,6 +5575,7 @@
         "lesson": 6,
         "explanation": "Pijn in het hoofd.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "ontspannen B",
             "imageUrl": "/handshapes/ontspannen B.png"
@@ -5308,6 +5592,7 @@
         "lesson": 6,
         "explanation": "Behandeling van een ziekte of aandoening.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "T",
             "imageUrl": "/handshapes/T.png"
@@ -5328,6 +5613,7 @@
         "lesson": 6,
         "explanation": "Een onaangenaam gevoel dat aanzet tot krabben.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "C-spreid",
             "imageUrl": "/handshapes/C-spreid.png"
@@ -5348,6 +5634,7 @@
         "lesson": 6,
         "explanation": "Een reactie van de huid op irritatie of allergie.",
         "wordgroup": "Onderzoek en lichamelijke klachten",
+        "wordgroupNumber": 20,
         "handShapesR": {
             "shape": "geld",
             "imageUrl": "/handshapes/geld.png"
@@ -5364,6 +5651,7 @@
         "lesson": 6,
         "explanation": "Een materiaal dat wordt gebruikt om een gebroken bot te fixeren.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "C",
             "imageUrl": "/handshapes/C.png"
@@ -5384,6 +5672,7 @@
         "lesson": 6,
         "explanation": "Ontlasting.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "C-spreid",
             "imageUrl": "/handshapes/C-spreid.png"
@@ -5400,6 +5689,7 @@
         "lesson": 6,
         "explanation": "Een doek die wordt gebruikt om een wond te bedekken.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "B",
             "imageUrl": "/handshapes/B.png"
@@ -5420,6 +5710,7 @@
         "lesson": 6,
         "explanation": "Wonden sluiten met hechtdraad.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": [
             {
                 "shape": "1",
@@ -5446,6 +5737,7 @@
         "lesson": 6,
         "explanation": "Een medische ingreep waarbij in het lichaam wordt gesneden.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -5462,6 +5754,7 @@
         "lesson": 6,
         "explanation": "Een beroepsbeoefenaar in de gezondheidszorg die patiënten verzorgt.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": [
             {
                 "shape": "B-nul",
@@ -5488,6 +5781,7 @@
         "lesson": 6,
         "explanation": "Het toedienen van vloeistoffen rechtstreeks in een ader.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -5508,6 +5802,7 @@
         "lesson": 6,
         "explanation": "Urine lozen.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -5524,6 +5819,7 @@
         "lesson": 6,
         "explanation": "Het hebben van een hoge temperatuur.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -5540,6 +5836,7 @@
         "lesson": 6,
         "explanation": "Een verhoging van de lichaamstemperatuur.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "hoek",
             "imageUrl": "/handshapes/hoek.png"
@@ -5556,6 +5853,7 @@
         "lesson": 6,
         "explanation": "Het lozen van ontlasting.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "C-spreid",
             "imageUrl": "/handshapes/C-spreid.png"
@@ -5572,6 +5870,7 @@
         "lesson": 6,
         "explanation": "Toilet.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "W",
             "imageUrl": "/handshapes/W.png"
@@ -5588,6 +5887,7 @@
         "lesson": 6,
         "explanation": "Een lage temperatuur.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -5608,6 +5908,7 @@
         "lesson": 6,
         "explanation": "In een toestand van rust zijn, met gesloten ogen.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "B1",
             "imageUrl": "/handshapes/B1.png"
@@ -5624,6 +5925,7 @@
         "lesson": 6,
         "explanation": "Een instelling waar zieken worden behandeld.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -5644,6 +5946,7 @@
         "lesson": 6,
         "explanation": "Zich voortbewegen te voet.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "V-klauw",
             "imageUrl": "/handshapes/V-klauw.png"
@@ -5660,6 +5963,7 @@
         "lesson": 6,
         "explanation": "Niet goed, van lage kwaliteit.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -5676,6 +5980,7 @@
         "lesson": 6,
         "explanation": "Een arts die gespecialiseerd is in operaties.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": [
             {
                 "shape": "A",
@@ -5698,6 +6003,7 @@
         "lesson": 6,
         "explanation": "Een toestand van bewusteloosheid die wordt veroorzaakt door medicijnen.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "C-spreid",
             "imageUrl": "/handshapes/C-spreid.png"
@@ -5714,6 +6020,7 @@
         "lesson": 6,
         "explanation": "Als iets op de grond staat.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -5734,6 +6041,7 @@
         "lesson": 6,
         "explanation": "De eerste medische hulp die wordt verleend bij een ongeluk of ziekte.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": [
             {
                 "shape": "1",
@@ -5770,6 +6078,7 @@
         "lesson": 6,
         "explanation": "Een lege maag, meestal 's ochtends voor het ontbijt.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": [
             {
                 "shape": "open snavel",
@@ -5806,6 +6115,7 @@
         "lesson": 6,
         "explanation": "De mate van warmte of koude van een object of omgeving.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -5826,6 +6136,7 @@
         "lesson": 6,
         "explanation": "Iemand die deskundig is op een bepaald gebied.",
         "wordgroup": "Ziekenhuisopname deel 1",
+        "wordgroupNumber": 21,
         "handShapesR": [
             {
                 "shape": "T-nul",
@@ -5852,6 +6163,7 @@
         "lesson": 7,
         "explanation": "Reeds, eerder gebeurd of in gang gezet.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": {
             "shape": "B",
             "imageUrl": "/handshapes/B.png"
@@ -5868,6 +6180,7 @@
         "lesson": 7,
         "explanation": "Het is toegestaan.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -5888,6 +6201,7 @@
         "lesson": 7,
         "explanation": "Een heldere vloeistof die essentieel is voor het leven.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": {
             "shape": "5r",
             "imageUrl": "/handshapes/5r.png"
@@ -5904,6 +6218,7 @@
         "lesson": 7,
         "explanation": "Een voertuig dat wordt gebruikt om gewonde of zieke mensen te vervoeren.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": [
             {
                 "shape": "S",
@@ -5936,6 +6251,7 @@
         "lesson": 7,
         "explanation": "Het is niet toegestaan.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -5952,6 +6268,7 @@
         "lesson": 7,
         "explanation": "Een kleine hoeveelheid.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": {
             "shape": "Q",
             "imageUrl": "/handshapes/Q.png"
@@ -5968,6 +6285,7 @@
         "lesson": 7,
         "explanation": "Zich zorgen makend over iets of iemand.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": {
             "shape": "C-spreid",
             "imageUrl": "/handshapes/C-spreid.png"
@@ -5984,6 +6302,7 @@
         "lesson": 7,
         "explanation": "Veranderen van onderwerp of situatie.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": [
             {
                 "shape": "open snavel",
@@ -6016,6 +6335,7 @@
         "lesson": 7,
         "explanation": "Vloeistof tot zich nemen.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": {
             "shape": "C",
             "imageUrl": "/handshapes/C.png"
@@ -6032,6 +6352,7 @@
         "lesson": 7,
         "explanation": "Gestorven zijn.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": {
             "shape": "B1",
             "imageUrl": "/handshapes/B1.png"
@@ -6048,6 +6369,7 @@
         "lesson": 7,
         "explanation": "Voedsel tot zich nemen.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": {
             "shape": "geld",
             "imageUrl": "/handshapes/geld.png"
@@ -6064,6 +6386,7 @@
         "lesson": 7,
         "explanation": "Kalm, zonder haast.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": {
             "shape": "ontspannen 5",
             "imageUrl": "/handshapes/ontspannen 5.png"
@@ -6084,6 +6407,7 @@
         "lesson": 7,
         "explanation": "Zich verplaatsen naar een bepaalde locatie.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -6100,6 +6424,7 @@
         "lesson": 7,
         "explanation": "Een chronische ziekte waarbij het lichaam moeite heeft met het reguleren van de bloedsuikerspiegel.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": [
             {
                 "shape": "5",
@@ -6126,6 +6451,7 @@
         "lesson": 7,
         "explanation": "Het gevoel dat je moet eten, honger hebben.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": {
             "shape": "A",
             "imageUrl": "/handshapes/A.png"
@@ -6146,6 +6472,7 @@
         "lesson": 7,
         "explanation": "Een grote hoeveelheid.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": {
             "shape": "Y",
             "imageUrl": "/handshapes/Y.png"
@@ -6162,6 +6489,7 @@
         "lesson": 7,
         "explanation": "Een gebouw om in te wonen.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -6182,6 +6510,7 @@
         "lesson": 7,
         "explanation": "Het zal in orde komen.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": [
             {
                 "shape": "1",
@@ -6204,6 +6533,7 @@
         "lesson": 7,
         "explanation": "Ergens blijven tot iets gebeurt.",
         "wordgroup": "Ziekenhuisopname deel 2",
+        "wordgroupNumber": 22,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -6224,6 +6554,7 @@
         "lesson": 7,
         "explanation": "Een ledemaat van het menselijk lichaam dat aan de schouder vastzit.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "C",
             "imageUrl": "/handshapes/C.png"
@@ -6240,6 +6571,7 @@
         "lesson": 7,
         "explanation": "Het bovenste deel van het lichaam.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "B1",
             "imageUrl": "/handshapes/B1.png"
@@ -6256,6 +6588,7 @@
         "lesson": 7,
         "explanation": "De botten die de borstkas beschermen.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "Q",
             "imageUrl": "/handshapes/Q.png"
@@ -6276,6 +6609,7 @@
         "lesson": 7,
         "explanation": "Het uiteinde van het spijsverteringskanaal waar ontlasting het lichaam verlaat.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "1v",
             "imageUrl": "/handshapes/1v.png"
@@ -6292,6 +6626,7 @@
         "lesson": 7,
         "explanation": "Het deel van het lichaam achter de mond.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -6308,6 +6643,7 @@
         "lesson": 7,
         "explanation": "De achterkant van het lichaam.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -6324,6 +6660,7 @@
         "lesson": 7,
         "explanation": "Een deel van het lichaam dat wordt gebruikt om te staan en te lopen.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "C",
             "imageUrl": "/handshapes/C.png"
@@ -6340,6 +6677,7 @@
         "lesson": 7,
         "explanation": "Het gewricht tussen het boven- en onderbeen.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": [
             {
                 "shape": "C-spreid",
@@ -6362,6 +6700,7 @@
         "lesson": 7,
         "explanation": "Het gewricht tussen de arm en de romp.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "B1",
             "imageUrl": "/handshapes/B1.png"
@@ -6378,6 +6717,7 @@
         "lesson": 7,
         "explanation": "Het achterste deel van het lichaam waar men op zit.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "open snavel",
             "imageUrl": "/handshapes/open snavel.png"
@@ -6394,6 +6734,7 @@
         "lesson": 7,
         "explanation": "De opening in het gezicht waardoor voedsel wordt ingenomen.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -6410,6 +6751,7 @@
         "lesson": 7,
         "explanation": "Een hard, benig orgaan in de mond dat wordt gebruikt om te kauwen.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -6426,6 +6768,7 @@
         "lesson": 7,
         "explanation": "Het voorste deel van het lichaam tussen de hals en de buik.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -6442,6 +6785,7 @@
         "lesson": 7,
         "explanation": "Een harde, beschermende laag op de vingers en tenen.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -6462,6 +6806,7 @@
         "lesson": 7,
         "explanation": "Een van de cijfers aan de voet.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -6482,6 +6827,7 @@
         "lesson": 7,
         "explanation": "Een borst van een vrouw.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "ontspannen B",
             "imageUrl": "/handshapes/ontspannen B.png"
@@ -6498,6 +6844,7 @@
         "lesson": 7,
         "explanation": "Het deel van het lichaam dat het hoofd met de romp verbindt.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "ontspannen B",
             "imageUrl": "/handshapes/ontspannen B.png"
@@ -6514,6 +6861,7 @@
         "lesson": 7,
         "explanation": "Het vrouwelijke geslachtsorgaan.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -6530,6 +6878,7 @@
         "lesson": 7,
         "explanation": "Het gewricht tussen het onderbeen en de voet.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "B1",
             "imageUrl": "/handshapes/B1.png"
@@ -6550,6 +6899,7 @@
         "lesson": 7,
         "explanation": "Een orgaan in het gezicht dat wordt gebruikt om te ruiken en te ademen.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -6566,6 +6916,7 @@
         "lesson": 7,
         "explanation": "Een van de ledematen aan de hand.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -6586,6 +6937,7 @@
         "lesson": 7,
         "explanation": "Het deel van het lichaam tussen de borst en de benen.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -6602,6 +6954,7 @@
         "lesson": 7,
         "explanation": "Een orgaan dat wordt gebruikt om te zien.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -6618,6 +6971,7 @@
         "lesson": 7,
         "explanation": "Het onderste deel van het been.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "B",
             "imageUrl": "/handshapes/B.png"
@@ -6634,6 +6988,7 @@
         "lesson": 7,
         "explanation": "Het gewricht tussen de boven- en onderarm.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -6650,6 +7005,7 @@
         "lesson": 7,
         "explanation": "Een orgaan dat wordt gebruikt om te horen.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -6666,6 +7022,7 @@
         "lesson": 7,
         "explanation": "Het deel van het gezicht onder het oog.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "B1",
             "imageUrl": "/handshapes/B1.png"
@@ -6682,6 +7039,7 @@
         "lesson": 7,
         "explanation": "Het voorste deel van het hoofd, van kin tot voorhoofd.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -6698,6 +7056,7 @@
         "lesson": 7,
         "explanation": "Het mannelijke geslachtsorgaan.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": [
             {
                 "shape": "baby-open snavel",
@@ -6720,6 +7079,7 @@
         "lesson": 7,
         "explanation": "Dunne, draadachtige structuren die op de huid groeien.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "T",
             "imageUrl": "/handshapes/T.png"
@@ -6736,6 +7096,7 @@
         "lesson": 7,
         "explanation": "Het gewricht tussen de hand en de onderarm.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "openT",
             "imageUrl": "/handshapes/openT.png"
@@ -6752,6 +7113,7 @@
         "lesson": 7,
         "explanation": "Het uiteinde van de arm, met vingers en duim.",
         "wordgroup": "Lichaamsdelen",
+        "wordgroupNumber": 23,
         "handShapesR": {
             "shape": "5",
             "imageUrl": "/handshapes/5.png"
@@ -6768,6 +7130,7 @@
         "lesson": 7,
         "explanation": "Een orgaan in het lichaam dat spijsverteringssappen en insuline produceert.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": {
             "shape": "Q",
             "imageUrl": "/handshapes/Q.png"
@@ -6794,6 +7157,7 @@
         "lesson": 7,
         "explanation": "De vrouwelijke voortplantingsorganen die eicellen produceren.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": {
             "shape": "baby-C twee",
             "imageUrl": "/handshapes/baby-C twee.png"
@@ -6814,6 +7178,7 @@
         "lesson": 7,
         "explanation": "Organen in de borstkas die zorgen voor de ademhaling.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": {
             "shape": "C",
             "imageUrl": "/handshapes/C.png"
@@ -6834,6 +7199,7 @@
         "lesson": 7,
         "explanation": "Het orgaan in een vrouwelijk lichaam waar een baby zich ontwikkelt tijdens de zwangerschap.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": {
             "shape": "S",
             "imageUrl": "/handshapes/S.png"
@@ -6854,6 +7220,7 @@
         "lesson": 7,
         "explanation": "Het laatste deel van de dikke darm, waar ontlasting wordt opgeslagen.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": [
             {
                 "shape": "C-spreid",
@@ -6876,6 +7243,7 @@
         "lesson": 7,
         "explanation": "Een orgaan in de buikholte waar voedsel wordt verteerd.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": {
             "shape": "hoek",
             "imageUrl": "/handshapes/hoek.png"
@@ -6892,6 +7260,7 @@
         "lesson": 7,
         "explanation": "Een groot orgaan in de buikholte.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": {
             "shape": "hoek",
             "imageUrl": "/handshapes/hoek.png"
@@ -6908,6 +7277,7 @@
         "lesson": 7,
         "explanation": "Een orgaan in het lichaam dat urine opslaat.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": {
             "shape": "C-spreid",
             "imageUrl": "/handshapes/C-spreid.png"
@@ -6924,6 +7294,7 @@
         "lesson": 7,
         "explanation": "Een orgaan dat bloed door het lichaam pompt.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": {
             "shape": "B-nul",
             "imageUrl": "/handshapes/B-nul.png"
@@ -6940,6 +7311,7 @@
         "lesson": 7,
         "explanation": "Een deel van het lichaam met een specifieke functie.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": {
             "shape": "C-spreid",
             "imageUrl": "/handshapes/C-spreid.png"
@@ -6956,6 +7328,7 @@
         "lesson": 7,
         "explanation": "Een buisvormig orgaan in het spijsverteringsstelsel dat voedsel verteert en afvalstoffen verwijdert.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": {
             "shape": "1",
             "imageUrl": "/handshapes/1.png"
@@ -6972,6 +7345,7 @@
         "lesson": 7,
         "explanation": "Het orgaan in het hoofd dat het zenuwstelsel bestuurt.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": {
             "shape": "C-spreid",
             "imageUrl": "/handshapes/C-spreid.png"
@@ -6992,6 +7366,7 @@
         "lesson": 7,
         "explanation": "De buis die de mond met de maag verbindt.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": [
             {
                 "shape": "C",
@@ -7014,6 +7389,7 @@
         "lesson": 7,
         "explanation": "Het laatste deel van de darmen, waar water en zouten worden opgenomen.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": {
             "shape": "baby-C",
             "imageUrl": "/handshapes/baby-C.png"
@@ -7034,6 +7410,7 @@
         "lesson": 7,
         "explanation": "De buitenste laag van het lichaam.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": {
             "shape": "B1",
             "imageUrl": "/handshapes/B1.png"
@@ -7054,6 +7431,7 @@
         "lesson": 7,
         "explanation": "Een weefsel dat samentrekt om beweging mogelijk te maken.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": {
             "shape": "V-klauw",
             "imageUrl": "/handshapes/V-klauw.png"
@@ -7074,6 +7452,7 @@
         "lesson": 7,
         "explanation": "Het deel van de darmen waar de meeste voedingsstoffen worden opgenomen.",
         "wordgroup": "Organen",
+        "wordgroupNumber": 24,
         "handShapesR": [
             {
                 "shape": "baby-open snavel",
@@ -7096,6 +7475,7 @@
         "lesson": 1,
         "explanation": "Goed, in orde.",
         "wordgroup": "Begroetingen",
+        "wordgroupNumber": 4,
         "handShapesR": [
             {
                 "shape": "O",
