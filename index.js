@@ -8,12 +8,13 @@ import mouthshapes from "./routes/mouthshapes.js";
 import customplaylist from "./routes/customplaylist.js"
 import theorybook from "./routes/theorybook.js"
 import users from "./routes/users.js"
+import wordgroups from "./routes/wordgroups.js"
 import apiKeysRouter from './routes/apiKeys.js'
 import aboutRoutes from "./routes/about.js";
 import authRoutes from "./routes/auth.js";
 import validateApiKey from "./Middlewares/apiAuth.js";
-import { authenticateUser } from './Middlewares/auth.js';
-import { authorize } from './Middlewares/auth.js';
+import { authenticateUser } from './middlewares/auth.js';
+import { authorize } from './middlewares/auth.js';
 
 const app = express()
 const port = process.env.EXPRESS_PORT
@@ -40,6 +41,7 @@ app.use(validateApiKey);
 // **Routes met autorisatie**
 app.use('/apikeys', authorize('admin'), apiKeysRouter); // Alleen admin toegang
 app.use('/signs', authorize('teacher', 'admin', 'student'), signs);
+app.use('/wordgroups', authorize('teacher', 'admin', 'student'), wordgroups);
 app.use('/about', authorize('teacher', 'admin', 'student'), aboutRoutes);
 app.use('/videos', authorize('teacher', 'admin', 'student'), videos);
 app.use('/gifs', authorize('teacher', 'admin', 'student'), gifs);
