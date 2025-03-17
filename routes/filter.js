@@ -10,6 +10,9 @@ export const getFilteredSigns = async (query, page = 1, limit) => {
         if (query.lesson) {
             filter.lesson = parseInt(query.lesson);
         }
+        if (query.wordgroupNumber) {
+            filter.wordgroupNumber = parseInt(query.wordgroupNumber);
+        }
 
         const signs = await Sign.find(filter)
             .skip((page - 1) * limit)
