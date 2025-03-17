@@ -8,12 +8,13 @@ import mouthshapes from "./routes/mouthshapes.js";
 import customplaylist from "./routes/customplaylist.js"
 import theorybook from "./routes/theorybook.js"
 import users from "./routes/users.js"
+import wordgroups from "./routes/wordgroups.js"
 import apiKeysRouter from './routes/apiKeys.js'
 import aboutRoutes from "./routes/about.js";
 import authRoutes from "./routes/auth.js";
-import validateApiKey from "./Middlewares/apiAuth.js";
-import { authenticateUser } from './Middlewares/auth.js';
-import { authorize } from './Middlewares/auth.js';
+import validateApiKey from "./middlewares/apiAuth.js";
+import { authenticateUser } from './middlewares/auth.js';
+import { authorize } from './middlewares/auth.js';
 
 const app = express()
 const port = process.env.EXPRESS_PORT
@@ -26,6 +27,11 @@ app.use('/', (req, res, next) => {
     next();
 })
 
+// Files die geen authorisatie en accept json nodig hebben
+app.use('/videos', videos);
+app.use('/gifs', gifs);
+app.use('/handshapes', handshapes);
+app.use('/mouthshapes', mouthshapes);
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -40,13 +46,11 @@ app.use(validateApiKey);
 // **Routes met autorisatie**
 app.use('/apikeys', authorize('admin'), apiKeysRouter); // Alleen admin toegang
 app.use('/signs', authorize('teacher', 'admin', 'student'), signs);
+app.use('/wordgroups', authorize('teacher', 'admin', 'student'), wordgroups);
 app.use('/about', authorize('teacher', 'admin', 'student'), aboutRoutes);
-app.use('/videos', authorize('teacher', 'admin', 'student'), videos);
-app.use('/gifs', authorize('teacher', 'admin', 'student'), gifs);
-app.use('/handshapes', authorize('teacher', 'admin', 'student'), handshapes);
-app.use('/mouthshapes', authorize('teacher', 'admin', 'student'), mouthshapes);
 app.use('/theorybook', authorize('teacher', 'admin', 'student'), theorybook);
-app.use('/playlist', authorize('student'), customplaylist);
+app.use('/playlist', authorize('teacher', 'admin', 'student'), customplaylist);
+app.use('/users', authorize('teacher', 'admin'), users);
 
 // Extra configuratie
 app.use((req, res, next) => {
@@ -60,9 +64,6 @@ app.use((req, res, next) => {
     }
     next();
 });
-
-// Users route
-app.use('/users', users);
 
 app.listen(port, () => {
     console.log(`Sign language app is listening on port ${port}`);
