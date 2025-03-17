@@ -1,5 +1,5 @@
 import express from 'express';
-import ApiKey from '../models/ApiKey.js';
+import ApiKey from '../Models/ApiKey.js';
 import crypto from 'crypto';
 import { isAdmin } from '../middlewares/auth.js';
 
