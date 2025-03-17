@@ -49,13 +49,8 @@ app.use('/signs', authorize('teacher', 'admin', 'student'), signs);
 app.use('/wordgroups', authorize('teacher', 'admin', 'student'), wordgroups);
 app.use('/about', authorize('teacher', 'admin', 'student'), aboutRoutes);
 app.use('/theorybook', authorize('teacher', 'admin', 'student'), theorybook);
-<<<<<<< Updated upstream
 app.use('/playlist', authorize('teacher', 'admin', 'student'), customplaylist);
-app.use('/playlists', customplaylist);  // Iedereen mag GET gebruiken
-=======
 app.use('/users', authorize('teacher', 'admin'), users);
-app.use('/playlist', authorize('student'), customplaylist);
->>>>>>> Stashed changes
 
 // Extra configuratie
 app.use((req, res, next) => {
