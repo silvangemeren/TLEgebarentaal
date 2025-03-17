@@ -12,7 +12,7 @@ import wordgroups from "./routes/wordgroups.js"
 import apiKeysRouter from './routes/apiKeys.js'
 import aboutRoutes from "./routes/about.js";
 import authRoutes from "./routes/auth.js";
-import validateApiKey from "./Middlewares/apiAuth.js";
+import validateApiKey from "./middlewares/apiAuth.js";
 import { authenticateUser } from './middlewares/auth.js';
 import { authorize } from './middlewares/auth.js';
 

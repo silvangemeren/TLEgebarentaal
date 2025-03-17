@@ -23,11 +23,14 @@ router.get('/', async (req, res) => {
         page = parseInt(page);
         limit = parseInt(limit);
 
-        const signs = await Sign.find()
+        let signs = await Sign.find()
             .skip((page - 1) * limit)
             .limit(limit)
             .collation({ locale: 'nl', strength: 2 })
             .sort({ lesson: 1, translation: 1 });
+        if (req.body.method === "SHUFFLE"){
+            signs = signs.sort(() => Math.random() - 0.5);
+        }
         const totalSigns = await Sign.countDocuments();
         res.status(200).json({
             "items": signs,
