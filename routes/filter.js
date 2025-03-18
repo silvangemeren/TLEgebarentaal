@@ -1,10 +1,9 @@
 import Sign from "../Models/Sign.js";
 
-export const getFilteredSigns = async (query, page = 1, limit) => {
+export const getFilteredSigns = async (query, page = 1, limit, shuffle) => {
     try {
         page = parseInt(page);
         limit = parseInt(limit);
-
         let filter = {};
 
         if (query.lesson) {
@@ -14,11 +13,14 @@ export const getFilteredSigns = async (query, page = 1, limit) => {
             filter.wordgroupNumber = parseInt(query.wordgroup);
         }
 
-        const signs = await Sign.find(filter)
+        let signs = await Sign.find(filter)
             .skip((page - 1) * limit)
             .limit(limit)
             .collation({ locale: 'nl', strength: 2 })
             .sort({ lesson: 1, translation: 1 });
+        if (shuffle){
+            signs = signs.sort(() => Math.random() - 0.5);
+        }
 
         const totalSigns = await Sign.countDocuments(filter);
 
