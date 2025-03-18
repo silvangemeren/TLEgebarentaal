@@ -53,7 +53,6 @@ router.get('/', (req, res) => {
     const response = userPlaylists.map(p => ({
         id: p.id,
         naam: p.naam,
-        gebaren: p.gebaren
     }));
 
     res.json(response);
