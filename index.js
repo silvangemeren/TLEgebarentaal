@@ -12,6 +12,7 @@ import wordgroups from "./routes/wordgroups.js"
 import apiKeysRouter from './routes/apiKeys.js'
 import aboutRoutes from "./routes/about.js";
 import authRoutes from "./routes/auth.js";
+import loginCodes from "./routes/loginCodes.js";
 import validateApiKey from "./middlewares/apiAuth.js";
 import { authenticateUser } from './middlewares/auth.js';
 import { authorize } from './middlewares/auth.js';
@@ -19,13 +20,18 @@ import { authorize } from './middlewares/auth.js';
 const app = express()
 const port = process.env.EXPRESS_PORT
 
+app.use((req, res, next) => {
+    res.setHeader('Access-Control-Allow-Origin', '*')
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS')
+    res.setHeader('Access-Control-Allow-Headers', 'Origin, Content-Type, Accept, Authorization')
+    if (req.method === 'OPTIONS') {
+        return res.sendStatus(200); // Preflight request succesvol afhandelen
+    }
+    next();
+});
+
 mongoose.connect('mongodb://127.0.0.1:27017/signs')
 
-app.use('/', (req, res, next) => {
-    res.setHeader('Access-Control-Allow-Origin', '*')
-    res.setHeader('Access-Control-Allow-Headers', 'Origin, Content-Type, Accept, Authorization')
-    next();
-})
 
 // Files die geen authorisatie en accept json nodig hebben
 app.use('/videos', videos);
@@ -51,6 +57,7 @@ app.use('/about', authorize('teacher', 'admin', 'student'), aboutRoutes);
 app.use('/theorybook', authorize('teacher', 'admin', 'student'), theorybook);
 app.use('/playlist', authorize('teacher', 'admin', 'student'), customplaylist);
 app.use('/users', authorize('teacher', 'admin'), users);
+app.use('/logincodes', authorize('teacher', 'admin'), loginCodes);
 
 // Extra configuratie
 app.use((req, res, next) => {

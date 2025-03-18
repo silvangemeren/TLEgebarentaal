@@ -11,10 +11,10 @@ const wordgroupSchema = new mongoose.Schema({
 
             ret._links = {
                 self: {
-                    href: `${process.env.BASE_URL}/signs/${ret.id}`
+                    href: `${process.env.BASE_URL}/wordgroups/${ret.id}`
                 },
                 collection: {
-                    href: `${process.env.BASE_URL}/signs`
+                    href: `${process.env.BASE_URL}/wordgroups`
                 }
             }
 

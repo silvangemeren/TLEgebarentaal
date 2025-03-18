@@ -45,7 +45,7 @@ router.post('/register', async (req, res) => {
     const { name, token, role, email, loginCode } = req.body;
 
     if (!name || !email || !loginCode) {
-        return res.status(400).json({ error: 'Gebruikersnaam, email en loginCode zijn vereist.' });
+        return res.status(400).json({ error: 'Naam, email en loginCode zijn vereist.' });
     }
 
     const validRoles = ['admin', 'teacher', 'student'];
@@ -56,7 +56,7 @@ router.post('/register', async (req, res) => {
     try {
         const existingUser = await User.findOne({ $or: [{ name }, { email }] });
         if (existingUser) {
-            return res.status(400).json({ error: 'Deze gebruikersnaam of email is al in gebruik.' });
+            return res.status(400).json({ error: 'Deze naam of email is al in gebruik.' });
         }
 
         const response = await fetch(`https://cmgt.hr.nl/api/validate-sso-token`, {
