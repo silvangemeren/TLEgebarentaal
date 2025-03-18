@@ -28,14 +28,15 @@ router.get('/', async (req, res) => {
 router.post('/', async (req, res) => {
     if (req.body.method === "DELETE_ALL") {
         try {
-            await User.deleteMany({});
+            await LoginCode.deleteMany({});
+            res.status(200).json({ message: 'alles is verwijderd' });
         } catch (error) {
             res.status(400).json({ error: error.message });
         }
     } else {
         if (req.body.method === "RANDOM") {
             try {
-                const newCode = await LoginCode.create({ code: Math.random().toString(36).substring(2, 6).toUpperCase() });
+                const newCode = await LoginCode.create({ loginCode: Math.random().toString(36).substring(2, 6).toUpperCase() });
                 res.status(201).json({ newCode });
             } catch (error) {
                 res.status(400).json({ error: error.message });

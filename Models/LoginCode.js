@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 
 const loginCodeSchema = new mongoose.Schema({
-    code: { type: String, required: true, },
+    loginCode: { type: String, required: true, },
 }, {
     timestamps: true,
     toJSON: {

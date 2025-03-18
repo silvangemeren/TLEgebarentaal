@@ -20,6 +20,14 @@ import { authorize } from './middlewares/auth.js';
 const app = express()
 const port = process.env.EXPRESS_PORT
 
+mongoose.connect('mongodb://127.0.0.1:27017/signs')
+
+// Files die geen authorisatie en accept json nodig hebben
+app.use('/videos', videos);
+app.use('/gifs', gifs);
+app.use('/handshapes', handshapes);
+app.use('/mouthshapes', mouthshapes);
+
 app.use((req, res, next) => {
     res.setHeader('Access-Control-Allow-Origin', '*')
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS')
@@ -29,15 +37,6 @@ app.use((req, res, next) => {
     }
     next();
 });
-
-mongoose.connect('mongodb://127.0.0.1:27017/signs')
-
-
-// Files die geen authorisatie en accept json nodig hebben
-app.use('/videos', videos);
-app.use('/gifs', gifs);
-app.use('/handshapes', handshapes);
-app.use('/mouthshapes', mouthshapes);
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));

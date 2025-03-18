@@ -66,40 +66,49 @@ router.post('/register', async (req, res) => {
 
         if (response.status === 200) {
 
-            const workingLoginCode = await LoginCode.findOne({ loginCode })
+            const workingLoginCode = await LoginCode.findOne({ loginCode });
             if (!workingLoginCode) {
                 return res.status(400).json({ error: 'Deze logincode bestaat niet.' });
-            } else {
-                if (workingLoginCode === older than 30 minutes)
-{
-    return res.status(400).json({ error: 'Deze logincode is te oud.' });
-}
-            };
+            }
 
-const newUser = new User({
-    name,
-    role: role || 'student',
-    email,
-    loginCode
-});
+            const createdAt = new Date(workingLoginCode.createdAt);
+            const now = new Date();
+            const diffInMinutes = (now - createdAt) / (1000 * 60);
 
-const user = await newUser.save();
+            if (diffInMinutes > 30) {
+                return res.status(400).json({ error: 'Deze logincode is te oud.' });
+            }
 
-const responseToken = jwt.sign(
-    { userId: user._id, role: user.role },
-    process.env.JWT_SECRET,
-    { expiresIn: '5h' }
-);
+            try {
+                const newUser = new User({
+                    name,
+                    role: role || 'student',
+                    email: email.trim(),
+                    loginCode
+                });
 
-res.status(200).json({ responseToken });
+                await newUser.save();
 
+                const responseToken = jwt.sign(
+                    { userId: newUser._id, role: newUser.role },
+                    process.env.JWT_SECRET,
+                    { expiresIn: '5h' }
+                );
+
+                res.status(200).json({ responseToken });
+            } catch (error) {
+                if (error.code === 11000) {
+                    return res.status(400).json({ error: 'Deze gebruikersnaam of email is al in gebruik.' });
+                }
+                res.status(500).json({ error: 'Serverfout bij registreren.', details: error.message });
+            }
         } else {
-    return res.status(400).json({ error: "Token is ongeldig of al in gebruik" });
-}
+            return res.status(400).json({ error: "Token is ongeldig of al in gebruik" });
+        }
     } catch (error) {
-    console.error('❌ Error during registration:', error); // <-- Voeg deze regel toe!
-    res.status(500).json({ error: 'Serverfout bij registreren.', details: error.message }); // <-- Geef details terug
-}
+        console.error('❌ Error during registration:', error); // <-- Voeg deze regel toe!
+        res.status(500).json({ error: 'Serverfout bij registreren.', details: error.message }); // <-- Geef details terug
+    }
 });
 
 
