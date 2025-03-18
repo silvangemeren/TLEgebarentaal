@@ -64,15 +64,15 @@ router.post('/register', async (req, res) => {
         });
 
         if (response.status === 200) {
-            const workingLoginCode = await LoginCode.findOne({ loginCode });
-            if (!workingLoginCode) {
-                return res.status(400).json({ error: 'Deze logincode bestaat niet.' });
-            }
-
-            const createdAt = dayjs(workingLoginCode.createdAt);
-            if (createdAt.isBefore(dayjs().subtract(30, 'minute'))) {
-                return res.status(400).json({ error: 'Deze logincode is te oud.' });
-            }
+            // const workingLoginCode = await LoginCode.findOne({ loginCode });
+            // if (!workingLoginCode) {
+            //     return res.status(400).json({ error: 'Deze logincode bestaat niet.' });
+            // }
+            //
+            // const createdAt = dayjs(workingLoginCode.createdAt);
+            // if (createdAt.isBefore(dayjs().subtract(30, 'minute'))) {
+            //     return res.status(400).json({ error: 'Deze logincode is te oud.' });
+            // }
 
             const newUser = new User({
                 name,
@@ -94,9 +94,9 @@ router.post('/register', async (req, res) => {
             return res.status(400).json({ error: "Token is ongeldig of al in gebruik" });
         }
     } catch (error) {
-        if (error.code === 11000) {
-            return res.status(400).json({ error: 'Deze gebruikersnaam of email is al in gebruik.' });
-        }
+        // if (error.code === 11000) {
+        //     return res.status(400).json({ error: 'Deze gebruikersnaam of email is al in gebruik.' });
+        // }
         console.error('❌ Error during registration:', error);
         res.status(500).json({ error: 'Serverfout bij registreren.', details: error.message });
     }
