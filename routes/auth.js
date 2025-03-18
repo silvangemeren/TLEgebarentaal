@@ -54,7 +54,7 @@ router.post('/register', async (req, res) => {
     }
 
     try {
-        const existingUser = await User.findOne({ $or: [{ name }, { email }] });
+        const existingUser = await User.findOne({ email });
         if (existingUser) {
             return res.status(400).json({ error: 'Deze gebruikersnaam of email is al in gebruik.' });
         }
@@ -65,32 +65,39 @@ router.post('/register', async (req, res) => {
         });
 
         if (response.status === 200) {
+            try {
+                const newUser = new User({
+                    name,
+                    role: role || 'student',
+                    email,
+                    loginCode
+                });
 
-            const newUser = new User({
-                name,
-                role: role || 'student',
-                email,
-                loginCode
-            });
+                const user = await newUser.save();
 
-            await newUser.save();
+                const responseToken = jwt.sign(
+                    { userId: user._id, role: user.role },
+                    process.env.JWT_SECRET,
+                    { expiresIn: '5h' }
+                );
 
-            const responseToken = jwt.sign(
-                { userId: user._id, role: user.role },
-                process.env.JWT_SECRET,
-                { expiresIn: '5h' }
-            );
+                res.status(200).json({ responseToken });
 
-            res.status(200).json({ responseToken });
+            } catch (saveError) {
+                if (saveError.code === 11000) {
+                    return res.status(400).json({ error: 'Deze gebruikersnaam of email is al in gebruik.' });
+                }
+            }
 
         } else {
             return res.status(400).json({ error: "Token is ongeldig of al in gebruik" });
         }
     } catch (error) {
-        console.error('❌ Error during registration:', error); // <-- Voeg deze regel toe!
-        res.status(500).json({ error: 'Serverfout bij registreren.', details: error.message }); // <-- Geef details terug
+        console.error('❌ Error during registration:', error);
+        res.status(500).json({ error: 'Serverfout bij registreren.', details: error.message });
     }
 });
+
 
 
 export default router;
