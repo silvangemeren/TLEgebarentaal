@@ -1,6 +1,5 @@
 import express from 'express';
 import jwt from 'jsonwebtoken';
-import dayjs from 'dayjs';
 import User from '../Models/User.js';
 import fetch from 'node-fetch';
 import LoginCode from '../Models/LoginCode.js';
@@ -9,12 +8,15 @@ const router = express.Router();
 
 // GET: Login route
 router.get('/login', async (req, res) => {
-    const { email, token } = req.body;
+    const { name, email, token } = req.body;
 
     try {
         const user = await User.findOne({ email });
         if (!user) {
             return res.status(404).json({ error: 'Gebruiker niet gevonden' });
+        }
+        if (name !== user.name) {
+            return res.status(404).json({ error: 'Gebruikersnaam is verkeerd' });
         }
 
         const response = await fetch(`https://cmgt.hr.nl/api/validate-sso-token`, {
@@ -23,13 +25,29 @@ router.get('/login', async (req, res) => {
         });
 
         if (response.status === 200) {
-            const responseToken = jwt.sign(
-                { userId: user._id, role: user.role },
-                process.env.JWT_SECRET,
-                { expiresIn: '5h' }
-            );
+            try {
+                const loginCode = user.loginCode;
+                const workingLoginCode = await LoginCode.findOne({ loginCode });
+                const createdAt = new Date(workingLoginCode.createdAt);
+                const sixMonthsAgo = new Date();
+                sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
 
-            res.status(200).json({ responseToken });
+                if (createdAt < sixMonthsAgo || !workingLoginCode) {
+                    await User.deleteOne({ email });
+                    return res.status(400).json({ error: 'Deze logincode is te oud of bestaat niet meer in de database, uw account is verwijderd.' });
+                }
+
+                const responseToken = jwt.sign(
+                    { userId: user._id, role: user.role },
+                    process.env.JWT_SECRET,
+                    { expiresIn: '5h' }
+                );
+
+                res.status(200).json({ responseToken });
+            } catch (error) {
+                console.error('❌ Login error:', error);
+                res.status(500).json({ error: "test" });
+            }
         } else {
             return res.status(400).json({ error: "Token is ongeldig of al in gebruik" });
         }
@@ -64,15 +82,19 @@ router.post('/register', async (req, res) => {
         });
 
         if (response.status === 200) {
-            // const workingLoginCode = await LoginCode.findOne({ loginCode });
-            // if (!workingLoginCode) {
-            //     return res.status(400).json({ error: 'Deze logincode bestaat niet.' });
-            // }
-            //
-            // const createdAt = dayjs(workingLoginCode.createdAt);
-            // if (createdAt.isBefore(dayjs().subtract(30, 'minute'))) {
-            //     return res.status(400).json({ error: 'Deze logincode is te oud.' });
-            // }
+            const workingLoginCode = await LoginCode.findOne({ loginCode });
+            if (!workingLoginCode) {
+                return res.status(400).json({ error: 'Deze logincode bestaat niet.' });
+            }
+
+            const createdAt = new Date(workingLoginCode.createdAt);
+            const now = new Date();
+            const diffInMinutes = (now - createdAt) / (1000 * 60);
+
+            if (diffInMinutes > 30) {
+                return res.status(400).json({ error: 'Deze logincode is te oud.' });
+            }
+
 
             const newUser = new User({
                 name,
@@ -94,9 +116,9 @@ router.post('/register', async (req, res) => {
             return res.status(400).json({ error: "Token is ongeldig of al in gebruik" });
         }
     } catch (error) {
-        // if (error.code === 11000) {
-        //     return res.status(400).json({ error: 'Deze gebruikersnaam of email is al in gebruik.' });
-        // }
+        if (error.code === 11000) {
+            return res.status(400).json({ error: 'Deze gebruikersnaam of email is al in gebruik.' });
+        }
         console.error('❌ Error during registration:', error);
         res.status(500).json({ error: 'Serverfout bij registreren.', details: error.message });
     }

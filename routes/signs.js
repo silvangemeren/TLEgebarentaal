@@ -9,8 +9,12 @@ const router = express.Router();
 // Zorg dat de /filtered route als eerste staat zodat deze niet door /:id wordt onderschept
 router.get('/filtered', async (req, res) => {
     try {
+        let shuffle = false;
+        if (req.body.method === "SHUFFLE"){
+            shuffle = true;
+        }
         const { page, limit } = req.query;
-        const data = await getFilteredSigns(req.query, page, limit);
+        const data = await getFilteredSigns(req.query, page, limit, shuffle);
         res.status(200).json(data);
     } catch (error) {
         res.status(500).json({ error: error.message });
