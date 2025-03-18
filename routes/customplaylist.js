@@ -9,8 +9,6 @@ router.use(express.json());
 // Dummy authentication middleware die verwacht dat req.user is gezet.
 // Vervang dit door jouw eigen authenticatiemiddel indien nodig.
 function requireAuth(req, res, next) {
-    // Neem aan dat je al een manier hebt om de gebruiker te authenticeren
-    // en dat req.user wordt ingevuld. Als dat niet zo is, stuur een 401.
     if (!req.user || !req.user.email) {
         return res.status(401).json({ error: 'Niet ingelogd' });
     }
@@ -48,7 +46,6 @@ router.post('/', (req, res) => {
 // Haal alle playlists op voor de ingelogde gebruiker
 router.get('/', (req, res) => {
     const userEmail = req.user.email;
-    // Filter de playlists op basis van het e-mailadres
     const userPlaylists = playlists.filter(p => p.email === userEmail);
     const response = userPlaylists.map(p => ({
         id: p.id,
@@ -75,7 +72,6 @@ router.post('/:playlist_id/add-gebaar', async (req, res) => {
 
     try {
         const gebaar = await Sign.findOne({ _id: id });
-
         if (!gebaar) return res.status(404).json({ error: "Gebaar niet gevonden" });
 
         if (playlist.gebaren.some(g => g.id === id)) {
@@ -98,7 +94,6 @@ router.get('/:playlist_id', (req, res) => {
     const playlist = playlists.find(p => p.id === playlist_id);
     if (!playlist) return res.status(404).json({ error: "Playlist niet gevonden" });
 
-    // Check dat de playlist bij de ingelogde gebruiker hoort
     if (playlist.email !== userEmail) {
         return res.status(403).json({ error: "Toegang geweigerd voor deze playlist" });
     }
@@ -106,7 +101,31 @@ router.get('/:playlist_id', (req, res) => {
     res.json(playlist.gebaren);
 });
 
-// Verwijder een gebaar uit een playlist
+// PATCH: Bewerk een playlist (bijv. verwijder een gebaar)
+router.patch('/:playlist_id', (req, res) => {
+    const { playlist_id } = req.params;
+    const { id } = req.body;  // 'id' is de identifier van het gebaar dat verwijderd moet worden
+    const userEmail = req.user.email;
+
+    const playlist = playlists.find(p => p.id === playlist_id);
+    if (!playlist) return res.status(404).json({ error: "Playlist niet gevonden" });
+
+    if (playlist.email !== userEmail) {
+        return res.status(403).json({ error: "Toegang geweigerd voor deze playlist" });
+    }
+
+    const initialCount = playlist.gebaren.length;
+    playlist.gebaren = playlist.gebaren.filter(g => g.id !== id);
+
+    if (playlist.gebaren.length === initialCount) {
+        return res.status(404).json({ error: "Gebaar niet gevonden in de playlist" });
+    }
+
+    console.log(`Gebaar '${id}' verwijderd uit playlist ${playlist_id} via PATCH`);
+    res.status(200).json({ message: `Gebaar ${id} verwijderd uit playlist` });
+});
+
+// DELETE: Verwijder een gebaar uit een playlist
 router.delete('/:playlist_id/remove-gebaar', (req, res) => {
     const { playlist_id } = req.params;
     const { id } = req.body;
@@ -128,6 +147,28 @@ router.delete('/:playlist_id/remove-gebaar', (req, res) => {
 
     console.log(`Gebaar '${id}' verwijderd uit playlist ${playlist_id}`);
     res.status(200).json({ message: `Gebaar ${id} verwijderd uit playlist` });
+});
+
+// DELETE: Verwijder de hele playlist
+router.delete('/:playlist_id', (req, res) => {
+    const { playlist_id } = req.params;
+    const userEmail = req.user.email;
+
+    // Zoek de playlist op
+    const playlistIndex = playlists.findIndex(p => p.id === playlist_id);
+    if (playlistIndex === -1) {
+        return res.status(404).json({ error: "Playlist niet gevonden" });
+    }
+
+    // Controleer of de playlist tot de ingelogde gebruiker behoort
+    if (playlists[playlistIndex].email !== userEmail) {
+        return res.status(403).json({ error: "Toegang geweigerd voor deze playlist" });
+    }
+
+    // Verwijder de playlist uit de array
+    playlists.splice(playlistIndex, 1);
+    console.log(`Playlist '${playlist_id}' verwijderd door gebruiker ${userEmail}`);
+    res.status(200).json({ message: `Playlist ${playlist_id} succesvol verwijderd` });
 });
 
 export default router;
