@@ -26,7 +26,7 @@ router.get('/login', async (req, res) => {
 
         if (response.status === 200) {
             try {
-                const loginCode = existingUser.loginCode;
+                const loginCode = user.loginCode;
                 const workingLoginCode = await LoginCode.findOne({ loginCode });
                 const createdAt = new Date(workingLoginCode.createdAt);
                 const sixMonthsAgo = new Date();
