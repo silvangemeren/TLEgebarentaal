@@ -1,8 +1,8 @@
 import express from 'express';
 import jwt from 'jsonwebtoken';
-import bcrypt from 'bcryptjs';
 import User from '../Models/User.js';
 import fetch from 'node-fetch';
+import LoginCode from '../Models/LoginCode.js';
 
 const router = express.Router();
 
@@ -66,30 +66,40 @@ router.post('/register', async (req, res) => {
 
         if (response.status === 200) {
 
-            const newUser = new User({
-                name,
-                role: role || 'student',
-                email,
-                loginCode
-            });
+            const workingLoginCode = await LoginCode.findOne({ loginCode })
+            if (!workingLoginCode) {
+                return res.status(400).json({ error: 'Deze logincode bestaat niet.' });
+            } else {
+                if (workingLoginCode === older than 30 minutes)
+{
+    return res.status(400).json({ error: 'Deze logincode is te oud.' });
+}
+            };
 
-            const user = await newUser.save();
+const newUser = new User({
+    name,
+    role: role || 'student',
+    email,
+    loginCode
+});
 
-            const responseToken = jwt.sign(
-                { userId: user._id, role: user.role },
-                process.env.JWT_SECRET,
-                { expiresIn: '5h' }
-            );
+const user = await newUser.save();
 
-            res.status(200).json({ responseToken });
+const responseToken = jwt.sign(
+    { userId: user._id, role: user.role },
+    process.env.JWT_SECRET,
+    { expiresIn: '5h' }
+);
+
+res.status(200).json({ responseToken });
 
         } else {
-            return res.status(400).json({ error: "Token is ongeldig of al in gebruik" });
-        }
+    return res.status(400).json({ error: "Token is ongeldig of al in gebruik" });
+}
     } catch (error) {
-        console.error('❌ Error during registration:', error); // <-- Voeg deze regel toe!
-        res.status(500).json({ error: 'Serverfout bij registreren.', details: error.message }); // <-- Geef details terug
-    }
+    console.error('❌ Error during registration:', error); // <-- Voeg deze regel toe!
+    res.status(500).json({ error: 'Serverfout bij registreren.', details: error.message }); // <-- Geef details terug
+}
 });
 
 
