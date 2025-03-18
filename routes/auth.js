@@ -1,13 +1,14 @@
 import express from 'express';
 import jwt from 'jsonwebtoken';
+import dayjs from 'dayjs';
 import User from '../Models/User.js';
 import fetch from 'node-fetch';
 import LoginCode from '../Models/LoginCode.js';
 
 const router = express.Router();
 
-// POST: Login route
-router.post('/login', async (req, res) => {
+// GET: Login route
+router.get('/login', async (req, res) => {
     const { email, token } = req.body;
 
     try {
@@ -22,7 +23,6 @@ router.post('/login', async (req, res) => {
         });
 
         if (response.status === 200) {
-
             const responseToken = jwt.sign(
                 { userId: user._id, role: user.role },
                 process.env.JWT_SECRET,
@@ -30,7 +30,6 @@ router.post('/login', async (req, res) => {
             );
 
             res.status(200).json({ responseToken });
-
         } else {
             return res.status(400).json({ error: "Token is ongeldig of al in gebruik" });
         }
@@ -54,7 +53,7 @@ router.post('/register', async (req, res) => {
     }
 
     try {
-        const existingUser = await User.findOne({ $or: [{ name }, { email }] });
+        const existingUser = await User.findOne({ email });
         if (existingUser) {
             return res.status(400).json({ error: 'Deze naam of email is al in gebruik.' });
         }
@@ -65,54 +64,46 @@ router.post('/register', async (req, res) => {
         });
 
         if (response.status === 200) {
-
             const workingLoginCode = await LoginCode.findOne({ loginCode });
             if (!workingLoginCode) {
                 return res.status(400).json({ error: 'Deze logincode bestaat niet.' });
             }
 
-            const createdAt = new Date(workingLoginCode.createdAt);
-            const now = new Date();
-            const diffInMinutes = (now - createdAt) / (1000 * 60);
-
-            if (diffInMinutes > 30) {
+            const createdAt = dayjs(workingLoginCode.createdAt);
+            if (createdAt.isBefore(dayjs().subtract(30, 'minute'))) {
                 return res.status(400).json({ error: 'Deze logincode is te oud.' });
             }
 
-            try {
-                const newUser = new User({
-                    name,
-                    role: role || 'student',
-                    email: email.trim(),
-                    loginCode
-                });
+            const newUser = new User({
+                name,
+                role: role || 'student',
+                email: email.trim(),
+                loginCode
+            });
 
-                await newUser.save();
+            await newUser.save();
 
-                const responseToken = jwt.sign(
-                    { userId: newUser._id, role: newUser.role },
-                    process.env.JWT_SECRET,
-                    { expiresIn: '5h' }
-                );
+            const responseToken = jwt.sign(
+                { userId: newUser._id, role: newUser.role },
+                process.env.JWT_SECRET,
+                { expiresIn: '5h' }
+            );
 
-                res.status(200).json({ responseToken });
-            } catch (error) {
-                if (error.code === 11000) {
-                    return res.status(400).json({ error: 'Deze gebruikersnaam of email is al in gebruik.' });
-                }
-                res.status(500).json({ error: 'Serverfout bij registreren.', details: error.message });
-            }
+            res.status(200).json({ responseToken });
         } else {
             return res.status(400).json({ error: "Token is ongeldig of al in gebruik" });
         }
     } catch (error) {
-        console.error('❌ Error during registration:', error); // <-- Voeg deze regel toe!
-        res.status(500).json({ error: 'Serverfout bij registreren.', details: error.message }); // <-- Geef details terug
+        if (error.code === 11000) {
+            return res.status(400).json({ error: 'Deze gebruikersnaam of email is al in gebruik.' });
+        }
+        console.error('❌ Error during registration:', error);
+        res.status(500).json({ error: 'Serverfout bij registreren.', details: error.message });
     }
 });
 
-
 export default router;
+
 
 
 //https://cmgt.hr.nl/chat-login/handle/tle2-1?redirect=http://localhost:8000/auth/register
