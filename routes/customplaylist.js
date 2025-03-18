@@ -98,8 +98,13 @@ router.get('/:playlist_id', (req, res) => {
         return res.status(403).json({ error: "Toegang geweigerd voor deze playlist" });
     }
 
-    res.json(playlist.gebaren);
+    res.json({
+        id: playlist.id,
+        naam: playlist.naam,
+        gebaren: playlist.gebaren
+    });
 });
+
 
 // PATCH: Bewerk een playlist (bijv. verwijder een gebaar)
 router.patch('/:playlist_id', (req, res) => {
@@ -125,29 +130,7 @@ router.patch('/:playlist_id', (req, res) => {
     res.status(200).json({ message: `Gebaar ${id} verwijderd uit playlist` });
 });
 
-// DELETE: Verwijder een gebaar uit een playlist
-router.delete('/:playlist_id/remove-gebaar', (req, res) => {
-    const { playlist_id } = req.params;
-    const { id } = req.body;
-    const userEmail = req.user.email;
 
-    const playlist = playlists.find(p => p.id === playlist_id);
-    if (!playlist) return res.status(404).json({ error: "Playlist niet gevonden" });
-
-    if (playlist.email !== userEmail) {
-        return res.status(403).json({ error: "Toegang geweigerd voor deze playlist" });
-    }
-
-    const initialCount = playlist.gebaren.length;
-    playlist.gebaren = playlist.gebaren.filter(g => g.id !== id);
-
-    if (playlist.gebaren.length === initialCount) {
-        return res.status(404).json({ error: "Gebaar niet gevonden in de playlist" });
-    }
-
-    console.log(`Gebaar '${id}' verwijderd uit playlist ${playlist_id}`);
-    res.status(200).json({ message: `Gebaar ${id} verwijderd uit playlist` });
-});
 
 // DELETE: Verwijder de hele playlist
 router.delete('/:playlist_id', (req, res) => {
