@@ -6,8 +6,8 @@ import LoginCode from '../../Models/LoginCode.js';
 
 const router = express.Router();
 
-// GET: Login route
-router.get('/login', async (req, res) => {
+// POST: Login route
+router.post('/login', async (req, res) => {
     const { name, email, token } = req.body;
 
     try {
