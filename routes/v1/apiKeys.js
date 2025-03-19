@@ -1,7 +1,7 @@
 import express from 'express';
-import ApiKey from '../Models/ApiKey.js';
+import ApiKey from '../../Models/ApiKey.js';
 import crypto from 'crypto';
-import { isAdmin } from '../middlewares/auth.js';
+import { isAdmin } from '../../Middlewares/auth.js';
 
 const router = express.Router();
 

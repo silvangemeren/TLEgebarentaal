@@ -1,6 +1,6 @@
 import express from "express";
-import User from "../Models/User.js";
-import LoginCode from "../Models/LoginCode.js";
+import User from "../../Models/User.js";
+import LoginCode from "../../Models/LoginCode.js";
 
 const router = express.Router();
 

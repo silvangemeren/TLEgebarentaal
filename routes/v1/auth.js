@@ -1,8 +1,8 @@
 import express from 'express';
 import jwt from 'jsonwebtoken';
-import User from '../Models/User.js';
+import User from '../../Models/User.js';
 import fetch from 'node-fetch';
-import LoginCode from '../Models/LoginCode.js';
+import LoginCode from '../../Models/LoginCode.js';
 
 const router = express.Router();
 

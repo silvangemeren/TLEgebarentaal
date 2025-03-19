@@ -1,8 +1,8 @@
 import express from "express";
-import Sign from "../Models/Sign.js";
+import Sign from "../../Models/Sign.js";
 import fs from 'fs';
 import { getFilteredSigns } from "./filter.js"; // Zorg dat het pad klopt
-import { authenticateUser, isAdminOrTeacher } from "../middlewares/auth.js"; // Voeg deze import toe
+import { authenticateUser, isAdminOrTeacher } from "../../Middlewares/auth.js"; // Voeg deze import toe
 
 const router = express.Router();
 

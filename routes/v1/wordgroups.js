@@ -1,5 +1,5 @@
 import express from "express";
-import Wordgroup from "../Models/Wordgroup.js";
+import Wordgroup from "../../Models/Wordgroup.js";
 import fs from 'fs';
 
 const router = express.Router();
