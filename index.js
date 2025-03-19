@@ -37,7 +37,7 @@ app.use((req, res, next) => {
 
 // versie 1 en 2
 app.use('/api/v1', v1);
-app.use('api/v2', v2);
+app.use('/api/v2', v2);
 
 app.listen(port, () => {
     console.log(`Sign language app is listening on port ${port}`);
