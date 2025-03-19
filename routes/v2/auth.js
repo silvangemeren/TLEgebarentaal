@@ -1,8 +1,8 @@
 import express from 'express';
 import jwt from 'jsonwebtoken';
-import User from '../Models/User.js';
+import User from '../../Models/User.js';
 import fetch from 'node-fetch';
-import LoginCode from '../Models/LoginCode.js';
+import LoginCode from '../../Models/LoginCode.js';
 
 const router = express.Router();
 
@@ -28,19 +28,13 @@ router.get('/login', async (req, res) => {
             try {
                 const loginCode = user.loginCode;
                 const workingLoginCode = await LoginCode.findOne({ loginCode });
-
-                if (!workingLoginCode) {
-                    await User.deleteOne({ email });
-                    return res.status(400).json({ error: 'Deze logincode is te oud of bestaat niet meer in de database, uw account is verwijderd.' });
-                }
-
                 const createdAt = new Date(workingLoginCode.createdAt);
                 const sixMonthsAgo = new Date();
                 sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
 
-                if (createdAt < sixMonthsAgo) {
+                if (createdAt < sixMonthsAgo || !workingLoginCode) {
                     await User.deleteOne({ email });
-                    return res.status(400).json({ error: 'Deze logincode is te oud, uw account is verwijderd.' });
+                    return res.status(400).json({ error: 'Deze logincode is te oud of bestaat niet meer in de database, uw account is verwijderd.' });
                 }
 
                 const responseToken = jwt.sign(
@@ -52,7 +46,7 @@ router.get('/login', async (req, res) => {
                 res.status(200).json({ responseToken });
             } catch (error) {
                 console.error('❌ Login error:', error);
-                res.status(500).json({ error: 'Er is een interne fout opgetreden. Probeer het later opnieuw.' });
+                res.status(500).json({ error: "test" });
             }
         } else {
             return res.status(400).json({ error: "Token is ongeldig of al in gebruik" });
@@ -100,6 +94,7 @@ router.post('/register', async (req, res) => {
             if (diffInMinutes > 30) {
                 return res.status(400).json({ error: 'Deze logincode is te oud.' });
             }
+
 
             const newUser = new User({
                 name,

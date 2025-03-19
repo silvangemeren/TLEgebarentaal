@@ -1,4 +1,4 @@
-import Sign from "../Models/Sign.js";
+import Sign from "../../Models/Sign.js";
 
 export const getFilteredSigns = async (query, page = 1, limit, shuffle) => {
     try {

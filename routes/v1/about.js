@@ -1,7 +1,7 @@
 import express from 'express';
 import fs from 'fs/promises';
 import path from 'path';
-import { authenticateUser, isAdminOrTeacher } from '../middlewares/auth.js';
+import { authenticateUser, isAdminOrTeacher } from '../../Middlewares/auth.js';
 
 const router = express.Router();
 const aboutFile = path.join(process.cwd(), 'data', 'about.json');

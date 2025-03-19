@@ -1,5 +1,5 @@
 import express from "express";
-import Sign from "../Models/Sign.js";
+import Sign from "../../Models/Sign.js";
 import { randomUUID } from 'crypto';
 
 const router = express.Router();
