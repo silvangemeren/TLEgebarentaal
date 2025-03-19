@@ -11,7 +11,7 @@ mongoose.connect('mongodb://127.0.0.1:27017/signs')
 
 app.use((req, res, next) => {
     res.setHeader('Access-Control-Allow-Origin', '*')
-    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS')
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, PATCH, DELETE, OPTIONS')
     res.setHeader('Access-Control-Allow-Headers', 'Origin, Content-Type, Accept, Authorization')
     if (req.method === 'OPTIONS') {
         return res.sendStatus(200); // Preflight request succesvol afhandelen
