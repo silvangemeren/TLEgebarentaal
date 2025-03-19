@@ -1,3 +1,4 @@
+```
 Guide voor local gebruik - back end
 download bestanden van github
 run npm install
@@ -67,3 +68,4 @@ http://localhost:8000/logincodesga naar body -> x-www-form-urlencoded
 en zet de volgende erin
 Key     Value
 method  RANDOM
+```
